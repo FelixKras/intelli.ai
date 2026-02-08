@@ -10,6 +10,44 @@
       "source_type": "Telegram"
     },
     {
+      "headline": "Khaled Mashal: 'Attack is the best means of defense, and October 7th will not be the last, there will be more'.",
+      "source": "arabworld301news",
+      "probability": 25,
+      "keywords": "Khaled Mashal, Attack, best, means, defense, October 7th, last, more",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T18:59:16+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "We will keep Netanyahu united - Khaled Mashal version: At the Al Jazeera conference held today in Doha, Khaled Mashal said: 'Israel will remain our only enemy, God willing we will defeat it, and in the next forum we will see Israel free!' The interviewer corrected and said: 'Free Palestine'. Here 11",
+      "source": "arabworld301news",
+      "probability": 20,
+      "keywords": "Netanyahu, united, Khaled Mashal, Al Jazeera, conference, Doha, Israel, enemy, defeat, free, Palestine, interviewer",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T18:59:16+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Israeli transport plane documented taking off from Belgrade, Serbia and landing at Nevatim base. According to reports, the plane carried military equipment, against the background of assessments of security cooperation between Israel and Serbia.",
+      "source": "arabworld301news",
+      "probability": 15,
+      "keywords": "Israeli, transport, plane, documented, taking off, Belgrade, Serbia, landing, Nevatim, base, reports, carried, military, equipment, background, assessments, security, cooperation, Israel, Serbia",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T18:59:16+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "history_headlines": [
+    {
+      "headline": "Jordanian Foreign Ministry: We strongly condemn the illegal steps approved by the Israeli government to deepen and entrench settlements.",
+      "source": "abualiexpress",
+      "probability": 5,
+      "keywords": "Jordanian, Foreign Ministry, condemn, illegal, steps, Israeli, government, deepen, entrench, settlements",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T18:13:49+00:00",
+      "source_type": "Telegram"
+    },
+    {
       "headline": "Absurd brawl in Ofakim: street fights between Bedouins",
       "source": "-1001254976833",
       "probability": 0,
@@ -17,9 +55,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T18:53:40.936949",
       "source_type": "Unknown"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Concern in Israel: Iran is secretly transferring launchers to the eastern part of the country to make it difficult to destroy them",
       "source": "-1001254976833",
@@ -408,6 +444,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 5,
-  "last_updated": "2026-02-08 18:53:40"
+  "overall_probability": 35,
+  "last_updated": "2026-02-08 19:02:47"
 }
