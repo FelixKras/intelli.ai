@@ -1,6 +1,44 @@
 {
   "current_headlines": [
     {
+      "headline": "New report from the Zionist regime's television about the destruction of Iranian missiles",
+      "source": "sepah",
+      "probability": 65,
+      "keywords": "report, Zionist regime, television, destruction, Iranian, missiles",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T19:15:10+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Iraqi: The Americans requested that I treat the CENTCOM commander with courtesy but I firmly rejected it Cyber Army of the Guardians of the Islamic Revolution @SEPAH",
+      "source": "sepah",
+      "probability": 25,
+      "keywords": "Iraqi, Americans, requested, CENTCOM, commander, courtesy, firmly, rejected, Cyber Army, Guardians, Islamic Revolution",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T19:15:10+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Following Yair's report, reports on the network also indicate that the Americans are transporting equipment to Turkmenistan, using tools characteristic of supply for special missions. [Dor F. on Telegram] 301 The Arab World on Telegram",
+      "source": "arabworld301news",
+      "probability": 20,
+      "keywords": "report, network, Americans, transporting, equipment, Turkmenistan, tools, characteristic, supply, special, missions",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T19:20:05+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Elections in Japan: The Reiwa Shinsengumi party, a left-wing pro-Chinese, pro-Palestinian party connected to the Antifa organization, lost all 9 of its parliamentary seats. It is now fighting for a chance for one seat. This party organized the pro-Palestinian protests against Israel in Japan. [To comment on the article click here]",
+      "source": "abualiexpress",
+      "probability": 5,
+      "keywords": "elections, Japan, Reiwa Shinsengumi, party, left-wing, pro-Chinese, pro-Palestinian, connected, Antifa, organization, lost, parliamentary, seats, fighting, chance, organized, protests, Israel",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T19:18:13+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Active elements working in favor of the Zionist regime and America have been arrested. These individuals include the head of the Reform Front and some of its other members. The Tehran prosecutor has filed charges against members of a political and media movement that sought to whitewash the terrorist actions of December and influence the country's internal security. This movement, with extensive organizational activity in cyberspace and behind the scenes, has tried to inflame the country's political and social situation simultaneously with the threats from America and the Zionist regime. This circle of radical elements, through accusations and publishing false positions, was active in the path of destroying national cohesion and inciting the country's internal atmosphere. Cyber Army of the Guardians @SEPAH",
       "source": "sepah",
       "probability": 25,
@@ -35,9 +73,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T19:09:11+00:00",
       "source_type": "Telegram"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Jordanian Foreign Ministry: We strongly condemn the illegal steps approved by the Israeli government to deepen and entrench settlements.",
       "source": "abualiexpress",
@@ -480,6 +516,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 35,
-  "last_updated": "2026-02-08 19:11:56"
+  "overall_probability": 45,
+  "last_updated": "2026-02-08 19:21:09"
 }
