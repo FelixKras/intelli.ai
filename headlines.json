@@ -1,0 +1,143 @@
+{
+  "current_headlines": [
+    {
+      "headline": "Fresh satellite images obtained by the Iranian satellite recently launched into orbit show massive destruction of the Israeli Nevatim airbase during the '12-day war'. Iran completely destroyed it.",
+      "source": "sepah_pasdaran_ru",
+      "probability": 25,
+      "keywords": "satellite, images, Iranian, satellite, destruction, Israeli, Nevatim, airbase, war, Iran, destroyed",
+      "date": "30/01/2026",
+      "datetime_iso": "2026-01-30T20:28:39+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Currently a US military aircraft is moving towards Azerbaijan. This aircraft is intended for covert penetration and evacuation operations and is used by US special forces.",
+      "source": "sepah_pasdaran_ru",
+      "probability": 20,
+      "keywords": "US, military, aircraft, Azerbaijan, covert, penetration, evacuation, operations, special, forces",
+      "date": "30/01/2026",
+      "datetime_iso": "2026-01-30T20:28:39+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "According to the advisor of General Mohsen Rezaei, Tel Aviv's threats were not implemented, and Iran did not accept any of the signals transmitted to it. Over the past two weeks, two important messages were transmitted to Iran, and both were rejected.",
+      "source": "sepah_pasdaran_ru",
+      "probability": 15,
+      "keywords": "advisor, General, Mohsen, Rezaei, Tel, Aviv, threats, Iran, signals, messages, rejected",
+      "date": "30/01/2026",
+      "datetime_iso": "2026-01-30T20:28:39+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Israeli Energy Minister: Israel will take military action if it feels threatened against itself, even if an agreement is reached with Iran.",
+      "source": "sepah",
+      "probability": 15,
+      "keywords": "Israeli, Energy, Minister, Israel, military, action, threatened, agreement, Iran",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T12:43:06+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Explosive WION report; Why did America step back? Thousands of Iranian missiles and drones, Washington's nightmare! Indian network WION: Iran is a much larger and more capable enemy for America than the Houthis.",
+      "source": "sepah",
+      "probability": 15,
+      "keywords": "WION, report, America, Iranian, missiles, drones, Washington, nightmare, Iran, enemy, Houthis",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T12:43:06+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "history_headlines": [
+    {
+      "headline": "Fresh satellite images obtained by an Iranian satellite recently launched into orbit show massive destruction of the Israeli Nevatim airbase during the '12-day war'. Iran completely destroyed it.",
+      "source": "sepah_pasdaran_ru",
+      "probability": 25,
+      "keywords": "satellite, images, Iranian, satellite, destruction, Israeli, Nevatim, airbase, war, Iran, destroyed",
+      "date": "30/01/2026",
+      "datetime_iso": "2026-01-30T20:28:39+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Currently a US military aircraft is moving towards Azerbaijan. This aircraft is intended for covert penetration and evacuation operations and is used by US special forces.",
+      "source": "sepah_pasdaran_ru",
+      "probability": 35,
+      "keywords": "US, military, aircraft, moving, Azerbaijan, covert, penetration, evacuation, operations, special, forces",
+      "date": "30/01/2026",
+      "datetime_iso": "2026-01-30T20:28:39+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "According to the advisor to General Mohsen Rezai, Tel Aviv's threats were not implemented, and Iran did not accept any of the signals transmitted to it. Over the past two weeks, two important messages were transmitted to Iran, and both were rejected. The first message came from the US. Washington made it clear that it intends to carry out a limited strike and expected Tehran to either 'swallow' it or not respond at all. Iran categorically refused, stating that it is revising the rules of war and red lines and will consider any strike as an act of full-scale war. The second message was sent by Israel through intermediaries. It claimed that Israel allegedly would not participate in the US attack, and Iran was asked not to strike Israel. This request also received a negative response. Tehran clearly stated: in case of the start of a US military operation, Israel will become a legitimate target. It is in this context that Netanyahu's latest threats sound. In parallel, Iran sent warnings to all countries in the region - from Baku to Riyadh, stating that any attack from their territory or through their airspace will be considered as an attack by these countries. According to the source, this was the main reason for the cancellation of the planned US strike last Tuesday night. The operation was postponed, and large-scale offensive and defensive forces were transferred to the region. These steps pursue three goals: deterrence, blocking a possible Iranian response, and preparation for an escalation scenario.",
+      "source": "sepah_pasdaran_ru",
+      "probability": 40,
+      "keywords": "Iran, threats, messages, US, limited, strike, refused, full-scale, war, Israel, legitimate, target, warnings, countries, region, attack, territory, airspace, operation, postponed, forces",
+      "date": "30/01/2026",
+      "datetime_iso": "2026-01-30T20:28:39+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Israeli Energy Minister: Israel will take military action if it feels threatened against itself, even if an agreement with Iran is reached.",
+      "source": "sepah",
+      "probability": 30,
+      "keywords": "Israeli, Energy, Minister, Israel, military, action, threatened, agreement, Iran",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T12:43:06+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Explosive WION report; Why did America step back? Thousands of Iranian missiles and drones, Washington's nightmare! Indian network WION: Iran is a much larger and more capable enemy for America than the Houthis. Iran has hundreds of ballistic missiles, cruise missiles and even hypersonic missiles at its disposal and also has thousands of drones. Even the best defense systems are not effective against this volume of attack.",
+      "source": "sepah",
+      "probability": 25,
+      "keywords": "WION, report, America, step, back, thousands, Iranian, missiles, drones, Washington, nightmare, enemy, ballistic, cruise, hypersonic, defense, systems, attack",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T12:43:06+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Fresh satellite images obtained by an Iranian satellite recently launched into orbit show extensive destruction of the Israeli Nevatim airbase during the '12-day war'. Iran completely destroyed it.",
+      "source": "sepah_pasdaran_ru",
+      "probability": 20,
+      "keywords": "satellite, images, Iranian, destruction, Israeli, Nevatim, airbase, war, Iran, destroyed",
+      "date": "30/01/2026",
+      "datetime_iso": "2026-01-30T20:28:39+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Israeli Energy Minister: Israel will take military action if it feels threatened, even if an agreement is reached with Iran.",
+      "source": "sepah",
+      "probability": 40,
+      "keywords": "Israeli, Energy Minister, military, action, threatened, agreement, Iran",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T12:32:06+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "WION's sensational report; Why did America step back? Thousands of Iranian missiles and drones, Washington's nightmare! Indian network WION: Iran is a much larger and more capable enemy for America than the Houthis. Iran has hundreds of ballistic missiles, cruise missiles and even hypersonic missiles, and also has thousands of drones. Even the best defense systems are not effective against this volume of attack.",
+      "source": "sepah",
+      "probability": 35,
+      "keywords": "WION, report, America, Iranian, missiles, drones, Washington, nightmare, enemy, Houthis, ballistic, cruise, hypersonic, defense, systems",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T12:32:06+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The Zionist regime: We will attack Iran alone! A Zionist military official: We told the Americans that if we reach a point where the Iranians cross the red line that we set regarding the speed of their ballistic missile production, we will attack Iran even alone.",
+      "source": "sepah",
+      "probability": 45,
+      "keywords": "Zionist, regime, attack, Iran, alone, military, official, Americans, red line, ballistic, missile, production",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T12:32:06+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "An Iranian parliament member claims in several interviews: 'America tried to coordinate a response with us to fulfill an obligation, they wanted to damage 2-3 facilities and that we would respond back in a coordinated manner, Iran refused the offer'.",
+      "source": "arabworld301news",
+      "probability": 30,
+      "keywords": "Iranian, parliament, member, claims, America, coordinate, response, damage, facilities, Iran, refused",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T12:13:43+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "overall_probability": 75,
+  "last_updated": "2026-02-08 15:34:16"
+}

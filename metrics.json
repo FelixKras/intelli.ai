@@ -1,0 +1,18 @@
+{
+  "runtime_seconds": 41.109565,
+  "articles_processed": 35,
+  "notifications_sent": 0,
+  "errors_encountered": 1,
+  "successful_api_calls": 12,
+  "failed_api_calls": 1,
+  "telegram_messages_sent": 1,
+  "telegram_heartbeats_sent": 1,
+  "jokes_generated": 1,
+  "ingest_rate_per_min": 23.21,
+  "lag_minutes": 0.4,
+  "api_success_rate": 92.3,
+  "time_until_next_update_seconds": 511.0,
+  "analysis_model": "deepseek/deepseek-v3.1",
+  "jokes_model": "gpt-4o-mini",
+  "last_updated": "2026-02-08 15:34:16"
+}

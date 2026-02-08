@@ -1,0 +1,86 @@
+[
+  {
+    "timestamp": "2026-02-08 11:57:11",
+    "best_headline": "Fresh satellite images obtained by the Iranian satellite recently put into orbit show massive destruction of the Israeli Nevatim airbase during the '12-day war'. Iran completely destroyed it.",
+    "probability": 95,
+    "source": "sepah_pasdaran_ru",
+    "overall_probability": 75
+  },
+  {
+    "timestamp": "2026-02-08 12:00:30",
+    "best_headline": "Fresh satellite images obtained by the Iranian satellite recently launched into orbit show massive destruction of the Israeli Nevatim airbase during the '12-day war'. Iran completely destroyed it.",
+    "probability": 95,
+    "source": "sepah_pasdaran_ru",
+    "overall_probability": 75
+  },
+  {
+    "timestamp": "2026-02-08 12:12:29",
+    "best_headline": "Fresh satellite images obtained by the Iranian satellite recently launched into orbit show massive destruction of the Israeli Nevatim airbase during the '12-day war'. Iran completely destroyed it.",
+    "probability": 85,
+    "source": "sepah_pasdaran_ru",
+    "overall_probability": 40
+  },
+  {
+    "timestamp": "2026-02-08 12:21:23",
+    "best_headline": "Man stabbed in Tiberias, his condition is serious",
+    "probability": 15,
+    "source": "ynet",
+    "overall_probability": 0
+  },
+  {
+    "timestamp": "2026-02-08 13:19:22",
+    "best_headline": "Fresh satellite images obtained by an Iranian satellite recently launched into orbit show massive destruction of the Israeli Nevatim airbase during the '12-day war'. Iran completely destroyed it.",
+    "probability": 85,
+    "source": "sepah_pasdaran_ru",
+    "overall_probability": 85
+  },
+  {
+    "timestamp": "2026-02-08 13:28:27",
+    "best_headline": "Recent images from a Chinese satellite reveal that an American Arleigh Burke class destroyer is anchored in Diego Garcia in the Indian Ocean. This destroyer has significant defense capabilities and may be positioned there in anticipation of the arrival of strategic bombers to the strategic airbase of Diego Garcia. Diego Garcia is a convenient base for strategic bombers for an operation of an attack on Iran.",
+    "probability": 75,
+    "source": "abualiexpress",
+    "overall_probability": 30
+  },
+  {
+    "timestamp": "2026-02-08 13:37:29",
+    "best_headline": "Recent images from a Chinese satellite reveal that an American Arleigh Burke class destroyer is anchored in Diego Garcia in the Indian Ocean. This destroyer has significant defense capabilities and may be positioned there in preparation for the arrival of strategic bombers to the strategic air base of Diego Garcia. Diego Garcia is a convenient base for strategic bombers for an attack operation in Iran.",
+    "probability": 65,
+    "source": "abualiexpress",
+    "overall_probability": 10
+  },
+  {
+    "timestamp": "2026-02-08 13:39:38",
+    "best_headline": "According to the advisor of General Mohsen Rezaei, the threats of Tel Aviv were not realized, and Iran did not accept any of the signals given to it. Over the past two weeks, two important messages were conveyed to Iran, and both were rejected. The first message came from the USA. Washington made it clear that it intends to carry out a limited strike and expected Tehran to either 'swallow' it or not respond at all. Iran categorically refused, stating that it is revising the rules of war and red lines and will consider any strike an act of full-scale war. The second message was sent by Israel through intermediaries. It claimed that Israel supposedly would not participate in a US attack, and Iran was asked not to strike Israel. This request also received a negative response. Tehran made it clear: in case a US military operation begins, Israel will become a legitimate target. It is in this context that Netanyahu's latest threats sound. In parallel, Iran sent warnings to all countries in the region - from Baku to Riyadh, stating that any attack from their territory or through their airspace will be considered an attack by these countries. According to the source, this was the main reason for the cancellation of the US strike planned for last Tuesday night. The operation was postponed, and large-scale offensive and defensive forces were transferred to the region. These steps pursue three goals: deterrence, blocking a possible Iranian response, and preparation for an escalation scenario.",
+    "probability": 65,
+    "source": "sepah_pasdaran_ru",
+    "overall_probability": 75
+  },
+  {
+    "timestamp": "2026-02-08 13:46:26",
+    "best_headline": "According to the advisor to General Mohsen Rezaei, the threats from Tel Aviv were not realized, and Iran did not accept any of the signals sent to it. Over the past two weeks, two important messages were conveyed to Iran, and both were rejected. The first message came from the US. Washington made it clear that it intends to carry out a limited strike and expected Tehran to either 'swallow' it or not respond at all. Iran categorically refused, stating that it is revising the rules of war and red lines and will consider any strike as an act of full-scale war. The second message was sent by Israel through mediators. It claimed that Israel would allegedly not participate in a US attack, and Iran was asked not to strike Israel. This request also received a negative response. Tehran made it clear: in the event of a US military operation, Israel will become a legitimate target. It is in this context that Netanyahu's latest threats are heard. In parallel, Iran sent warnings to all countries in the region - from Baku to Riyadh, stating that any attack from their territory or through their airspace will be considered an attack by those countries. According to the source, this was the main reason for the cancellation of the US strike planned for last Tuesday night. The operation was postponed, and large-scale offensive and defensive forces were deployed to the region. These steps pursue three goals: deterrence, blocking a possible Iranian response, and preparation for an escalation scenario.",
+    "probability": 70,
+    "source": "sepah_pasdaran_ru",
+    "overall_probability": 75
+  },
+  {
+    "timestamp": "2026-02-08 13:55:43",
+    "best_headline": "Agreement or attack: Where are we heading with Iran? To the question of whether we are closer to an agreement or a confrontation, Oded Eilam, former head of the counter-terrorism division in the Mossad and currently a researcher at the Jerusalem Center for Foreign Affairs and Security, is cautious but tends to the assessment that the rationale leads to an agreement. \"The holy grail of Iran is the survival of the regime, and the survival of the regime depends on the easing of sanctions,\" he says. However, he warns of the internal dynamics in Tehran: \"This is a regime charged with jihadist fervor, with a struggle between extremists and moderates. Therefore, it is impossible to sign any check - especially when it comes to Trump and Khamenei\".",
+    "probability": 45,
+    "source": "arabworld301news",
+    "overall_probability": 35
+  },
+  {
+    "timestamp": "2026-02-08 14:04:50",
+    "best_headline": "Iranian Foreign Minister Araghchi: 'Their military deployment in the region does not scare us'",
+    "probability": 45,
+    "source": "mako",
+    "overall_probability": 30
+  },
+  {
+    "timestamp": "2026-02-08 14:13:47",
+    "best_headline": "Toughening the entry policy to Israel: Dozens of Americans, including state congress members from Georgia, were defined as prohibited from entry due to anti-Israel activity, and their delegations will be stopped at the border (Ariel Kahane)",
+    "probability": 15,
+    "source": "koahadasotbatelegram",
+    "overall_probability": 30
+  }
+]
