@@ -1,449 +1,188 @@
 {
   "current_headlines": [
     {
-      "headline": "Iran: Documentation from the official ceremony in honor of Iranian Air Force Day that took place today - Supreme Leader Ali Khamenei canceled his planned speech and did not participate in the ceremony.",
+      "headline": "The victory of Sanae Takaichi, Prime Minister of Japan, is turning out to be even greater: her party gained two-thirds (310) of the seats in parliament even without additional parties. Together with another coalition party, Takaichi's coalition gained 341 seats out of 465 possible. A huge and unprecedented victory. ## Foreign Minister Gideon Sa'ar hurried to congratulate Takaichi on her great victory. ## Takaichi presented conservative positions, a tough approach towards China and a warm and prominent connection to President Trump - this paid off for her at the polls. [To comment on the article click here]",
+      "source": "abualiexpress",
+      "probability": 5,
+      "keywords": "victory, Prime Minister, Japan, Sanae Takaichi, coalition, seats, parliament, Foreign Minister, Gideon Sa'ar, conservative, China, Trump, election",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T17:35:27+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Hamas spokesman Hazem Qassem also responds to the cabinet decisions regarding the lands in the West Bank: The extreme right-wing government seeks to expand the genocide war and eliminate the Palestinian existence on the Palestinian lands. The recent decisions of the cabinet emphasize the colonialist nature of the occupation government that seeks to swallow the Palestinian lands and expel their original residents. This aggressive policy constitutes a real existential danger to the Palestinian people and their rights. [One response]",
       "source": "abualiexpress",
       "probability": 15,
-      "keywords": "Iran, ceremony, Air Force Day, Supreme Leader, Ali Khamenei, canceled, speech, participated",
+      "keywords": "Hamas, spokesman, Hazem Qassem, cabinet, decisions, lands, West Bank, government, genocide, Palestinian, existence, colonialist, occupation, aggressive, policy, danger",
       "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T15:09:47+00:00",
+      "datetime_iso": "2026-02-08T17:35:27+00:00",
       "source_type": "Telegram"
     },
     {
-      "headline": "For the first time in Israel: Haifa Municipality began work on establishing a system of escalators throughout the city. The new system will allow you to move easily and quickly between different parts of the city, and save you the strenuous climb on foot. The project was born to address Haifa's challenging inclines and improve quality of life and connectivity between neighborhoods. Work on the first section, on Ma'ale HaShichrur Street, is expected to last about ten months.",
-      "source": "-1001254976833",
-      "probability": 0,
-      "keywords": "Israel, Haifa, Municipality, escalators, city, move, climb, project, neighborhoods",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T17:18:40.046650",
-      "source_type": "Unknown"
-    },
-    {
-      "headline": "The talked-about flight list",
-      "source": "arabworld301news",
-      "probability": 10,
-      "keywords": "flight, list",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T15:14:31+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "The network reports on 40 US Air Force aircraft that are currently making their way to the Middle East. In addition, according to foreign reports in recent days, interesting movements of the Royal Air Force, Italian and French in the Middle East.",
+      "headline": "The strategic advisor of Kalibaf: Trump and Netanyahu in their upcoming and sudden meeting will discuss a military operation, and not negotiations - there is no ambiguity in this.",
       "source": "arabworld301news",
       "probability": 65,
-      "keywords": "network, reports, US Air Force, aircraft, Middle East, movements, Royal Air Force, Italian, French",
+      "keywords": "strategic, advisor, Kalibaf, Trump, Netanyahu, meeting, military, operation, negotiations, ambiguity",
       "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T15:14:31+00:00",
+      "datetime_iso": "2026-02-08T17:32:19+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Commander of the Aerospace Force of the IRGC: If the enemy makes a mistake or misunderstanding, it will face a response harsher than in the past.",
+      "source": "sepah",
+      "probability": 70,
+      "keywords": "Commander, Aerospace Force, IRGC, enemy, mistake, misunderstanding, response, harsher, past",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T17:37:56+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Commander of the Army Air Force: We are ready to carry out any assigned operation Commander of the Army Air Force: The armed forces of the Islamic Republic of Iran, with an unbreakable and definite will, are ready to face any level of threat.",
+      "source": "sepah",
+      "probability": 75,
+      "keywords": "Commander, Army Air Force, ready, carry out, assigned, operation, armed forces, Islamic Republic of Iran, unbreakable, will, ready, face, threat",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T17:37:56+00:00",
       "source_type": "Telegram"
     }
   ],
   "history_headlines": [
     {
-      "headline": "The death of the child who was critically injured in an accident near Ofakim has been determined",
-      "source": "ynet",
-      "probability": 5,
-      "keywords": "death, child, critically injured, accident, Ofakim",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T17:08:19.574513",
-      "source_type": "Media Outlet"
-    },
-    {
-      "headline": "The detention of a Be'er Sheva resident suspected of pouring flammable material on protesters has been extended",
-      "source": "ynet",
-      "probability": 5,
-      "keywords": "detention, Be'er Sheva, resident, suspected, pouring, flammable material, protesters",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T17:08:19.574513",
-      "source_type": "Media Outlet"
-    },
-    {
-      "headline": "Elections in Japan: Japan's national broadcasting authority estimates that the coalition of Japanese Prime Minister Sanae Takaichi will succeed in obtaining a two-thirds majority in parliament (310 out of 465 seats) - which will allow it to carry out constitutional reform, as this is a majority that can veto decisions of the upper house in Japan - where the opposition has a majority. [One response]",
-      "source": "abualiexpress",
-      "probability": 0,
-      "keywords": "elections, Japan, coalition, Prime Minister, Sanae Takaichi, majority, parliament, constitutional reform",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T14:48:12+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "Residential building collapse in Tripoli: Emergency and rescue forces are operating at the scene and conducting searches for fear of trapped individuals. NEWS DDF: Credit 301 The Arab World on Telegram",
-      "source": "arabworld301news",
-      "probability": 0,
-      "keywords": "residential building, collapse, Tripoli, emergency, rescue forces, searches, trapped individuals",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T15:00:12+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "Turkish experts: Iranians have been deceiving the West for 30 years with the 'watch the tightrope walker' strategy, everyone was focused on the nuclear program, but Iran quietly upgraded its missile and drone arsenal to the level and capability of Russia, now with tens of thousands of missiles including Khorramshahr4, it leaves every American aircraft carrier defenseless and has plunged Israel into a scenario of terror... Cyber Guards Corps @SEPAH",
-      "source": "sepah",
-      "probability": 45,
-      "keywords": "Iran, missiles, drone, arsenal, Russia, Khorramshahr4, aircraft carrier, Israel, terror, attack, defense",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T14:55:09+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "How can one learn the intentions and ideological mindset of 'New Syria'? And there is nothing that can indicate the mindset more than a fair where books are sold. At the Damascus International Fair of 2026, a variety of extreme Salafi books were observed for sale at the fair, including 4 books that caught the eye. 1. 'Thamarat al-Jihad' (Fruits of Jihad) The book deals with 'ignorance in jurisprudence and reality' in the context of jihad. 2. 'Reading of the Prophets and Messengers': The book deals with the concept of Tawhid (oneness of God) and the war against 'ignorance' (Jahiliyya). This is the core of the Salafi perception, which emphasizes a return to sources and distancing from anything that appears as idolatry or Western modernization. 3. 'Al-Rafida': (a derogatory and demeaning term for Shiites) The book is based on a series of audio lectures by Abu Musab al-Zarqawi. Al-Zarqawi was the founder of Al-Qaeda in Iraq and the spiritual father of ISIS. 4. The books of Sheikh Abu Hafs al-Mauritani who was the mufti in Al-Qaeda and a close associate of Osama bin Laden. The book testifies to a narrative of legitimate jihad. The books can be ordered anywhere in Syria with the aim of spreading the jihadist/Salafi message to every home in Syria, and conducting an educational series for the young generation - this is a declaration of intent and not just distribution. By the way: Qatar is the guest of honor at the fair. [Hannanel Aviv]",
-      "source": "arabworld301news",
-      "probability": 25,
-      "keywords": "Syria, ideological, Salafi, jihad, books, Al-Qaeda, ISIS, extremism, Iran, conflict, Middle East",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T14:51:48+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "The police arrested an Arab from East Jerusalem, about 61 years old, on suspicion of stealing ancient coins that were seized in his possession. According to an examination by the Antiquities Authority, it is a Roman coin of Emperor Vespasian and a Byzantine and Muslim coin, of historical and cultural value - which will later be transferred to the state treasury. : Police Spokesperson",
-      "source": "-1001254976833",
-      "probability": 5,
-      "keywords": "police, arrested, Arab, East Jerusalem, coins, ancient, Roman, Byzantine, Muslim, cultural",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T16:59:12.287578",
-      "source_type": "Unknown"
-    },
-    {
-      "headline": "The elections in Japan: Japan's national broadcasting corporation estimates that the coalition of Japanese Prime Sanae Takaichi will succeed in obtaining a two-thirds majority in parliament (310 out of 465 seats) - which will allow it to carry out constitutional reform, as this is a majority that can veto decisions of the upper house in Japan - where the opposition has a majority. [To respond to the article click here]",
-      "source": "abualiexpress",
-      "probability": 0,
-      "keywords": "elections, Japan, coalition, Prime Minister, parliament, majority, constitutional reform",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T14:48:12+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "16:24 | Singer Osher Cohen was taken for investigation on suspicion of drug possession",
-      "source": "mako",
-      "probability": 0,
-      "keywords": "singer, Osher Cohen, investigation, suspicion, drug possession",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T16:58:41.311299",
-      "source_type": "Media Outlet"
-    },
-    {
-      "headline": "A Hermes-type drone is patrolling over southern Lebanon",
-      "source": "arabworld301news",
-      "probability": 15,
-      "keywords": "Hermes, drone, patrolling, southern, Lebanon",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T14:40:03+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "Child critically injured in accident involving 3 vehicles on Route 241 near Ofakim",
-      "source": "ynet",
-      "probability": 5,
-      "keywords": "child, injured, accident, vehicles, Route, 241, Ofakim",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T16:49:19.691204",
-      "source_type": "Media Outlet"
-    },
-    {
-      "headline": "Elections in Japan: Japan's national broadcasting corporation estimates that the coalition of Japanese Prime Sanae Takaichi will succeed in obtaining a two-thirds majority in parliament (310 seats) - which will allow it to carry out a constitutional reform, as this is a majority that can veto decisions of the upper house in Japan - where the opposition has a majority. [To respond to the article click here]",
-      "source": "abualiexpress",
-      "probability": 0,
-      "keywords": "elections, Japan, coalition, Prime Minister, Sanae Takaichi, majority, parliament, constitutional reform",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T14:48:12+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "President of Somalia: Israel has reached an agreement with Somaliland on three axes! Hassan Sheikh Mahmoud, President of Somalia, announced: There are three important informational topics that must be stated, Israel has reached an agreement with Somaliland on three axes; transfer of Palestinians to Somalia, establishment of a base in Somaliland, and signing of the Abraham Accords by Somaliland. These three axes are the points of agreement between Israel and the separatist group Somaliland. The President of Somalia added: The question arises as to why Israel should have a base in Somalia. There is no place for Israel to defend itself in Somalia, and what is observed is that Israel is preparing or positioning itself to attack another location.",
+      "headline": "The commander of the Air and Space Force of the Revolutionary Guards: If the enemy makes a mistake or misunderstanding, it will face a response stronger than before.",
       "source": "sepah",
       "probability": 65,
-      "keywords": "Israel, Somalia, Somaliland, base, agreement, Palestinians, Abraham Accords, attack, preparing, positioning",
+      "keywords": "commander, Air and Space Force, Revolutionary Guards, enemy, mistake, misunderstanding, response, stronger",
       "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T14:39:09+00:00",
+      "datetime_iso": "2026-02-08T16:56:25+00:00",
       "source_type": "Telegram"
     },
     {
-      "headline": "When will Israel be free? The embarrassment of Khaled Mashal Khaled Mashal, one of the most well-known senior Hamas figures, mistakenly wished for Israel to be free in the upcoming Al Jazeera forum. The host quickly corrected: You meant free Palestine",
-      "source": "-1001254976833",
-      "probability": 15,
-      "keywords": "Israel, free, Khaled Mashal, Hamas, Al Jazeera, Palestine, forum, embarrassment",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T16:40:13.116322",
-      "source_type": "Unknown"
-    },
-    {
-      "headline": "In the apartment where Asher Cohen was arrested, 5 grams of drugs were found, almost a gram of MMC drug and 78 thousand shekels (Uriah Keshet)",
-      "source": "-1001254976833",
-      "probability": 5,
-      "keywords": "apartment, arrested, drugs, grams, MMC, shekels, Uriah Keshet, Asher Cohen",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T16:40:13.116328",
-      "source_type": "Unknown"
-    },
-    {
-      "headline": "Claim by Euronews: $2.5 billion from Russia transferred to Iran secretly According to documents received by The Telegraph newspaper, a Russian state bank, shortly after the US withdrawal from the JCPOA by Trump's order and the reimposition of US sanctions against Iran, began secretly transferring $2.5 billion in cash in 34 shipments to Iran.",
+      "headline": "The commander of the Army Air Force: We are ready to carry out any announced operations. The commander of the Army Air Force: The armed forces of the Islamic Republic of Iran, with an unbreakable and definite will, are ready to face any level of threat.",
       "source": "sepah",
-      "probability": 10,
-      "keywords": "Russia, Iran, $2.5 billion, secret transfer, JCPOA, sanctions, shipments, bank",
+      "probability": 60,
+      "keywords": "commander, Army Air Force, ready, operations, armed forces, Iran, will, threat",
       "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T14:39:09+00:00",
+      "datetime_iso": "2026-02-08T16:56:25+00:00",
       "source_type": "Telegram"
     },
     {
-      "headline": "See the amount of snow at the fifth station of Tochal Sepah Cyber Guards @SEPAH",
+      "headline": "Turkish experts: The Iranians have been deceiving the West for 30 years with the 'watch the tightrope walker' strategy, everyone was focused on the nuclear program, but Iran in silence upgraded its missile and drone arsenal to the level and capability of Russia, now with tens of thousands of missiles including Khorramshahr4, it leaves any American aircraft carrier defenseless and has plunged Israel into a scenario of terror...",
       "source": "sepah",
-      "probability": 0,
-      "keywords": "snow, station, Tochal, Sepah, Cyber Guards",
+      "probability": 55,
+      "keywords": "Turkish experts, Iran, deceiving, West, strategy, nuclear program, missile, drone, arsenal, Russia, Khorramshahr4, aircraft carrier, Israel, terror",
       "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T14:39:09+00:00",
+      "datetime_iso": "2026-02-08T16:56:25+00:00",
       "source_type": "Telegram"
     },
     {
-      "headline": "The Regavim movement in response to the Cabinet decisions: \"The Israeli government has decided, the Oslo concept to the trash\" \"A struggle of many years, hundreds of discussions, field tours and in-depth studies led to the series of dramatic decisions that were made a short while ago in the security cabinet. Israeli governments throughout the generations hesitated, ignored and abandoned, and into the vacuum entered the murderous Palestinian Authority and worked to establish a terrorist state in the heart of the country. The decisions cancel a distorted reality of racism and discrimination against Jews regarding lands in Judea and Samaria: exposing the land registry that was confidential, canceling the Jordanian law that prohibits the sale of lands to Jews, enforcement against damage to heritage sites and environmental damage in Areas A and B, all these indicate: Zionism is not measured by declarations and talk, but by actions. We congratulate the members of the cabinet on the historic decision led by Defense Minister Katz and Finance Minister Smotrich and commit to continue acting and promoting a Zionist land policy throughout the entire country.\"",
-      "source": "arabworld301news",
-      "probability": 5,
-      "keywords": "Regavim, Cabinet, decisions, Oslo, security cabinet, Palestinian Authority, Judea, Samaria, lands, heritage, Katz, Smotrich, Zionist, policy",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T14:27:58+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "Pushed by Minister Smotrich: The political-security cabinet today approved a series of dramatic decisions that will significantly impact the settlement situation in Judea and Samaria • Regarding land management: Until now, contrary to practice within the Green Line, the land registry in Judea and Samaria was confidential - which made land acquisition difficult and allowed fraud. Now, the cabinet has ordered the removal of confidentiality and the publication of the land registry, a step that will increase transparency and facilitate land redemption. • The cabinet canceled the Jordanian law that prohibits the sale of real estate to Jews. Until now, Jews were forced to purchase lands only through registered companies and subject to a cumbersome \"transaction permit\" from the Civil Administration. From now on, the requirement for a transaction permit has been canceled and the prohibition on sale to foreigners has been canceled, which will allow Jews to purchase land in Judea and Samaria exactly as they purchase in Tel Aviv or Jerusalem. Alongside this, the requirement for a transaction license from the Land Registration Officer has been canceled, and in its place only professional threshold conditions will be set, which will lead to the removal of a significant barrier in the local real estate market. • After years of foot-dragging by the Palestinian municipality of Hebron, it was decided to transfer the building licensing authorities in the Jewish settlement, the Cave of the Patriarchs and the additional holy sites in the city, from the municipality directly to the planning institutions of the Civil Administration. The meaning is that there will no longer be a need for a specific \"withdrawal of authorities\" every time they want to make the cave accessible or build in the city for Jews, and the planning procedures will become efficient and independent. Concurrently, it was decided to grant full municipal authorities to the Hebron administration, which will now be able to directly handle the needs of the settlers and prevent hazards, without dependence on the Palestinian mechanisms that until now required a complex and frustrating procedure. • Concurrently, the state is increasing its efforts in the war for heritage and environmental areas: it was decided to expand supervision and enforcement activities also to Areas A and B regarding water offenses, damage to archaeological sites and environmental hazards that pollute the entire area.",
-      "source": "arabworld301news",
-      "probability": 5,
-      "keywords": "Smotrich, cabinet, decisions, settlement, Judea, Samaria, land, registry, Jews, transaction, Hebron, Civil Administration, heritage, enforcement, Areas A and B",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T14:27:58+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "Member of the Political Council of Hezbollah of Lebanon: If a war is launched against Iran, oil exports in the Persian Gulf will be disrupted. Qamati: Iran insisted on its position and determined the location and agenda of the negotiations itself, and as a result, Netanyahu failed and became frustrated. Iran limited the negotiations solely to the nuclear case; Iran is a powerful country with independent sovereignty and defends itself. If a war is launched against Iran, Iran will stand firm and as a result, global trade will be damaged and the export and flow of oil in the Persian Gulf will be disrupted. Cyber Army of the Guardians @SEPAH",
-      "source": "sepah",
-      "probability": 25,
-      "keywords": "war, Iran, Persian Gulf, oil exports, disrupted, negotiations, nuclear, stand firm, global trade",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T14:05:08+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "The event on the Wizz Air plane: A Haredi couple claimed that their son set up their phone before returning to Israel - and the network name was written in Arabic as \"terrorist\". The crew members identified it and notified the security forces in Israel, which scrambled the fighter jets. (Dean Fischer)",
-      "source": "-1001254976833",
-      "probability": 15,
-      "keywords": "Wizz Air, plane, Haredi, phone, network name, Arabic, terrorist, crew, security forces, Israel, scrambled, fighter jets",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T16:11:58.284048",
-      "source_type": "Unknown"
-    },
-    {
-      "headline": "Head of the Judiciary in Iran: \"We have no hope or trust in the enemy and we are prepared for a confrontation\". \"The enemy wants to buy time in the name of negotiations and increase its military equipment and means in the region\". [Dor F. on Telegram]",
-      "source": "arabworld301news",
-      "probability": 20,
-      "keywords": "Judiciary, Iran, hope, trust, enemy, prepared, confrontation, negotiations, military equipment, region",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T14:03:32+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "Arab terrorism in Judea and Samaria: A Jewish woman was lightly injured in a stone-throwing attack near Eli, after terrorists threw stones at her vehicle. The terrorists fled. Hillel Bitton Rosen",
-      "source": "arabworld301news",
-      "probability": 5,
-      "keywords": "Arab, terrorism, Judea, Samaria, Jewish, woman, injured, stone-throwing, attack, Eli, terrorists, vehicle, fled",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T13:56:49+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "How the ghostly shadow of communism controls our world (A special NTD television series translated into Hebrew) Many people believe that communism disappeared with the end of the Cold War and the disintegration of the communist bloc in Eastern Europe. However, the truth is that communist ideology has only cunningly changed its form and continued to spread throughout the world. China, North Korea, Vietnam, and Cuba declare themselves communist. Former Soviet Union countries are still heavily influenced by communist ideology and practices, and countries in North America and Europe are welcoming communist influences with open arms without many people even realizing it. Over 100 years, communism has established massive dictatorships, caused more than 100 million deaths, enslaved billions of people, and brought the world to the brink of nuclear war and near destruction. However, the invisible damage is even worse, because communism has declared war on humanity itself - including the most basic human values and human dignity. This special television series reviews the true nature of communism and its secret goal. [To watch in Hebrew click here]( [For the series in English]( [For the series in Arabic]( [For the series in Russian]( •To join the NTD Hebrew channel on Telegram click here:",
-      "source": "abualiexpress",
-      "probability": 1,
-      "keywords": "communism, shadow, world, ideology, spread, dictatorships, deaths, enslaved, nuclear war, destruction, humanity, values, dignity",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T14:00:17+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "Marketing content",
-      "source": "abualiexpress",
-      "probability": 0,
-      "keywords": "Marketing, content",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T14:00:17+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "Unusual: A fighter jet was scrambled towards a Wizz Air plane after one of its passengers received threatening messages on his phone.",
-      "source": "amitsegal",
-      "probability": 15,
-      "keywords": "fighter jet, scrambled, Wizz Air, passenger, threatening messages",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T13:40:31+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "The plane landed safely. The event has ended.",
-      "source": "amitsegal",
-      "probability": 10,
-      "keywords": "plane, landed, safely, event, ended",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T13:40:31+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "After the plane returned to Ben Gurion Airport, security guards checked passenger by passenger. After no unusual findings were found, the event was declared over.",
-      "source": "-1001254976833",
-      "probability": 10,
-      "keywords": "plane, returned, Ben Gurion Airport, security guards, checked, passengers, unusual findings, event, over",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T15:43:41.616990",
-      "source_type": "Unknown"
-    },
-    {
-      "headline": "Iranian Foreign Minister Araghchi: 'Their military deployment in the region does not scare us'",
-      "source": "mako",
-      "probability": 5,
-      "keywords": "Iranian, Foreign Minister, Araghchi, military, deployment, region, scare",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T15:43:22.263829",
-      "source_type": "Media Outlet"
-    },
-    {
-      "headline": "Khaled Mashal: 'Hamas offered a ceasefire for five, for seven, for 10 years - this is a guarantee'",
-      "source": "mako",
-      "probability": 5,
-      "keywords": "Khaled Mashal, Hamas, offered, ceasefire, years, guarantee",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T15:43:22.263829",
-      "source_type": "Media Outlet"
-    },
-    {
-      "headline": "Fresh satellite images obtained by the Iranian satellite recently launched into orbit show massive destruction of the Israeli Nevatim airbase during the '12-day war'. Iran completely destroyed it.",
-      "source": "sepah_pasdaran_ru",
-      "probability": 25,
-      "keywords": "satellite, images, Iranian, satellite, destruction, Israeli, Nevatim, airbase, war, Iran, destroyed",
-      "date": "30/01/2026",
-      "datetime_iso": "2026-01-30T20:28:39+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "Currently a US military aircraft is moving towards Azerbaijan. This aircraft is intended for covert penetration and evacuation operations and is used by US special forces.",
-      "source": "sepah_pasdaran_ru",
-      "probability": 20,
-      "keywords": "US, military, aircraft, Azerbaijan, covert, penetration, evacuation, operations, special, forces",
-      "date": "30/01/2026",
-      "datetime_iso": "2026-01-30T20:28:39+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "According to the advisor of General Mohsen Rezaei, Tel Aviv's threats were not implemented, and Iran did not accept any of the signals transmitted to it. Over the past two weeks, two important messages were transmitted to Iran, and both were rejected.",
-      "source": "sepah_pasdaran_ru",
-      "probability": 15,
-      "keywords": "advisor, General, Mohsen, Rezaei, Tel, Aviv, threats, Iran, signals, messages, rejected",
-      "date": "30/01/2026",
-      "datetime_iso": "2026-01-30T20:28:39+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "Israeli Energy Minister: Israel will take military action if it feels threatened against itself, even if an agreement is reached with Iran.",
-      "source": "sepah",
-      "probability": 15,
-      "keywords": "Israeli, Energy, Minister, Israel, military, action, threatened, agreement, Iran",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T12:43:06+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "Explosive WION report; Why did America step back? Thousands of Iranian missiles and drones, Washington's nightmare! Indian network WION: Iran is a much larger and more capable enemy for America than the Houthis.",
-      "source": "sepah",
-      "probability": 15,
-      "keywords": "WION, report, America, Iranian, missiles, drones, Washington, nightmare, Iran, enemy, Houthis",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T12:43:06+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "Fresh satellite images obtained by an Iranian satellite recently launched into orbit show massive destruction of the Israeli Nevatim airbase during the '12-day war'. Iran completely destroyed it.",
-      "source": "sepah_pasdaran_ru",
-      "probability": 25,
-      "keywords": "satellite, images, Iranian, satellite, destruction, Israeli, Nevatim, airbase, war, Iran, destroyed",
-      "date": "30/01/2026",
-      "datetime_iso": "2026-01-30T20:28:39+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "Currently a US military aircraft is moving towards Azerbaijan. This aircraft is intended for covert penetration and evacuation operations and is used by US special forces.",
-      "source": "sepah_pasdaran_ru",
-      "probability": 35,
-      "keywords": "US, military, aircraft, moving, Azerbaijan, covert, penetration, evacuation, operations, special, forces",
-      "date": "30/01/2026",
-      "datetime_iso": "2026-01-30T20:28:39+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "According to the advisor to General Mohsen Rezai, Tel Aviv's threats were not implemented, and Iran did not accept any of the signals transmitted to it. Over the past two weeks, two important messages were transmitted to Iran, and both were rejected. The first message came from the US. Washington made it clear that it intends to carry out a limited strike and expected Tehran to either 'swallow' it or not respond at all. Iran categorically refused, stating that it is revising the rules of war and red lines and will consider any strike as an act of full-scale war. The second message was sent by Israel through intermediaries. It claimed that Israel allegedly would not participate in the US attack, and Iran was asked not to strike Israel. This request also received a negative response. Tehran clearly stated: in case of the start of a US military operation, Israel will become a legitimate target. It is in this context that Netanyahu's latest threats sound. In parallel, Iran sent warnings to all countries in the region - from Baku to Riyadh, stating that any attack from their territory or through their airspace will be considered as an attack by these countries. According to the source, this was the main reason for the cancellation of the planned US strike last Tuesday night. The operation was postponed, and large-scale offensive and defensive forces were transferred to the region. These steps pursue three goals: deterrence, blocking a possible Iranian response, and preparation for an escalation scenario.",
-      "source": "sepah_pasdaran_ru",
-      "probability": 40,
-      "keywords": "Iran, threats, messages, US, limited, strike, refused, full-scale, war, Israel, legitimate, target, warnings, countries, region, attack, territory, airspace, operation, postponed, forces",
-      "date": "30/01/2026",
-      "datetime_iso": "2026-01-30T20:28:39+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "Israeli Energy Minister: Israel will take military action if it feels threatened against itself, even if an agreement with Iran is reached.",
-      "source": "sepah",
-      "probability": 30,
-      "keywords": "Israeli, Energy, Minister, Israel, military, action, threatened, agreement, Iran",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T12:43:06+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "Explosive WION report; Why did America step back? Thousands of Iranian missiles and drones, Washington's nightmare! Indian network WION: Iran is a much larger and more capable enemy for America than the Houthis. Iran has hundreds of ballistic missiles, cruise missiles and even hypersonic missiles at its disposal and also has thousands of drones. Even the best defense systems are not effective against this volume of attack.",
-      "source": "sepah",
-      "probability": 25,
-      "keywords": "WION, report, America, step, back, thousands, Iranian, missiles, drones, Washington, nightmare, enemy, ballistic, cruise, hypersonic, defense, systems, attack",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T12:43:06+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "Fresh satellite images obtained by an Iranian satellite recently launched into orbit show extensive destruction of the Israeli Nevatim airbase during the '12-day war'. Iran completely destroyed it.",
-      "source": "sepah_pasdaran_ru",
-      "probability": 20,
-      "keywords": "satellite, images, Iranian, destruction, Israeli, Nevatim, airbase, war, Iran, destroyed",
-      "date": "30/01/2026",
-      "datetime_iso": "2026-01-30T20:28:39+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "Israeli Energy Minister: Israel will take military action if it feels threatened, even if an agreement is reached with Iran.",
-      "source": "sepah",
-      "probability": 40,
-      "keywords": "Israeli, Energy Minister, military, action, threatened, agreement, Iran",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T12:32:06+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "WION's sensational report; Why did America step back? Thousands of Iranian missiles and drones, Washington's nightmare! Indian network WION: Iran is a much larger and more capable enemy for America than the Houthis. Iran has hundreds of ballistic missiles, cruise missiles and even hypersonic missiles, and also has thousands of drones. Even the best defense systems are not effective against this volume of attack.",
-      "source": "sepah",
-      "probability": 35,
-      "keywords": "WION, report, America, Iranian, missiles, drones, Washington, nightmare, enemy, Houthis, ballistic, cruise, hypersonic, defense, systems",
-      "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T12:32:06+00:00",
-      "source_type": "Telegram"
-    },
-    {
-      "headline": "The Zionist regime: We will attack Iran alone! A Zionist military official: We told the Americans that if we reach a point where the Iranians cross the red line that we set regarding the speed of their ballistic missile production, we will attack Iran even alone.",
+      "headline": "The President of Somalia: Israel has reached an agreement with Somaliland on three axes! Hassan Sheikh Mahmoud, the President of Somalia, announced: There are three important informational matters that must be stated, Israel has reached an agreement with Somaliland on three axes; the transfer of Palestinians to Somalia, the establishment of a base in Somaliland, and the signing of the Abraham Accords by Somaliland. These three axes are the points of agreement between Israel and the separatist group Somaliland. The President of Somalia added: The question arises as to why Israel should have a base in Somalia. There is no place to defend Israel in Somalia, and what is observed is that Israel is preparing or positioning to attack another place.",
       "source": "sepah",
       "probability": 45,
-      "keywords": "Zionist, regime, attack, Iran, alone, military, official, Americans, red line, ballistic, missile, production",
+      "keywords": "President, Somalia, Israel, agreement, Somaliland, axes, Palestinians, base, Abraham Accords, separatist, defend, attack",
       "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T12:32:06+00:00",
+      "datetime_iso": "2026-02-08T16:56:25+00:00",
       "source_type": "Telegram"
     },
     {
-      "headline": "An Iranian parliament member claims in several interviews: 'America tried to coordinate a response with us to fulfill an obligation, they wanted to damage 2-3 facilities and that we would respond back in a coordinated manner, Iran refused the offer'.",
-      "source": "arabworld301news",
-      "probability": 30,
-      "keywords": "Iranian, parliament, member, claims, America, coordinate, response, damage, facilities, Iran, refused",
+      "headline": "Yosef Haddad on the new sign in Tehran: This threat is like a declaration of war... We did not manage to finish the job in June when the Iranian regime was already defeated in the fighting and our planes were traveling in the skies of Iran, but in the next campaign we have no choice but to deliver, together with the USA, heavy crushing blows and assist the Iranian people to bring an end to the terror regime and ensure that the next time a sign is hung in this square in Hebrew, it will say: 'Thank you Israel from the free Iranian people'!",
+      "source": "-1001254976833",
+      "probability": 40,
+      "keywords": "Yosef Haddad, sign, Tehran, threat, declaration of war, Iranian regime, defeated, fighting, planes, skies, campaign, USA, blows, Iranian people, terror regime",
       "date": "08/02/2026",
-      "datetime_iso": "2026-02-08T12:13:43+00:00",
-      "source_type": "Telegram"
+      "datetime_iso": "2026-02-08T17:10:30.113703",
+      "source_type": "Unknown"
+    },
+    {
+      "headline": "The new threat in Palestine Square in Tehran: a sign that displays targets in the Gush Dan area alongside the text 'In the face of the missile rain - this is a small area'",
+      "source": "mako",
+      "probability": 65,
+      "keywords": "threat, Palestine Square, Tehran, targets, Gush Dan, missile, rain, small area",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T17:04:33.261059",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Khaled Mashal: 'Hamas proposed a ceasefire for five, seven, ten years - this is a guarantee'",
+      "source": "mako",
+      "probability": 25,
+      "keywords": "Khaled Mashal, Hamas, ceasefire, years, guarantee",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T17:04:33.261059",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Iranian Foreign Minister Araghchi: 'Their military deployment in the area does not scare us'",
+      "source": "mako",
+      "probability": 40,
+      "keywords": "Iranian Foreign Minister, Araghchi, military deployment, area, scare",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T17:04:33.261059",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Scrambling fighter jets for a Wizz Air flight - due to a prank that caused panic among a couple of passengers",
+      "source": "ynet",
+      "probability": 15,
+      "keywords": "Scrambling, fighter jets, Wizz Air, flight, prank, panic, passengers",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T17:04:33.502244",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Airports Authority: The scrambling of fighter jets - due to suspicion of suspicious behavior on a Wizz Air flight",
+      "source": "ynet",
+      "probability": 15,
+      "keywords": "Airports Authority, scrambling, fighter jets, suspicion, suspicious behavior, Wizz Air, flight",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T17:04:33.502244",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "The new threat in Palestine Square in Tehran: A sign displaying targets in the Gush Dan area alongside the text 'In the face of missile rain - this is a small area'",
+      "source": "mako",
+      "probability": 45,
+      "keywords": "threat, Palestine Square, Tehran, targets, Gush Dan, missile, rain, small area",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T17:03:49.844316",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Khaled Mashal: 'Hamas offered a ceasefire for five, seven, ten years - this is a guarantee'",
+      "source": "mako",
+      "probability": 25,
+      "keywords": "Khaled Mashal, Hamas, ceasefire, five years, seven years, ten years, guarantee",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T17:03:49.844316",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Iranian Foreign Minister Araghchi: 'Their military deployment in the area does not scare us'",
+      "source": "mako",
+      "probability": 40,
+      "keywords": "Iranian Foreign Minister, Araghchi, military deployment, area, does not scare",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T17:03:49.844316",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Fighter jets were scrambled toward a Wizz Air flight before it landed at Ben Gurion Airport",
+      "source": "ynet",
+      "probability": 35,
+      "keywords": "fighter jets, scrambled, Wizz Air flight, landed, Ben Gurion Airport",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T17:03:50.013438",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Scrambling of fighter jets for a Wizz Air flight - due to a prank that caused panic among a couple of passengers",
+      "source": "ynet",
+      "probability": 20,
+      "keywords": "scrambling, fighter jets, Wizz Air flight, prank, panic, passengers",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T17:03:50.013438",
+      "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 65,
-  "last_updated": "2026-02-08 17:18:40"
+  "overall_probability": 70,
+  "last_updated": "2026-02-08 17:39:25"
 }
