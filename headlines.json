@@ -1,6 +1,35 @@
 {
   "current_headlines": [
     {
+      "headline": "Member of the Political Council of Hezbollah of Lebanon: If a war is launched against Iran, oil exports in the Persian Gulf will be disrupted. Qamati: Iran insisted on its position and determined the location and agenda of the negotiations itself, and as a result, Netanyahu failed and became frustrated. Iran limited the negotiations solely to the nuclear case; Iran is a powerful country with independent sovereignty and defends itself. If a war is launched against Iran, Iran will stand firm and as a result, global trade will be damaged and the export and flow of oil in the Persian Gulf will be disrupted. Cyber Army of the Guardians @SEPAH",
+      "source": "sepah",
+      "probability": 25,
+      "keywords": "war, Iran, Persian Gulf, oil exports, disrupted, negotiations, nuclear, stand firm, global trade",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T14:05:08+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The event on the Wizz Air plane: A Haredi couple claimed that their son set up their phone before returning to Israel - and the network name was written in Arabic as \"terrorist\". The crew members identified it and notified the security forces in Israel, which scrambled the fighter jets. (Dean Fischer)",
+      "source": "-1001254976833",
+      "probability": 15,
+      "keywords": "Wizz Air, plane, Haredi, phone, network name, Arabic, terrorist, crew, security forces, Israel, scrambled, fighter jets",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T16:11:58.284048",
+      "source_type": "Unknown"
+    },
+    {
+      "headline": "Head of the Judiciary in Iran: \"We have no hope or trust in the enemy and we are prepared for a confrontation\". \"The enemy wants to buy time in the name of negotiations and increase its military equipment and means in the region\". [Dor F. on Telegram]",
+      "source": "arabworld301news",
+      "probability": 20,
+      "keywords": "Judiciary, Iran, hope, trust, enemy, prepared, confrontation, negotiations, military equipment, region",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T14:03:32+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Arab terrorism in Judea and Samaria: A Jewish woman was lightly injured in a stone-throwing attack near Eli, after terrorists threw stones at her vehicle. The terrorists fled. Hillel Bitton Rosen",
       "source": "arabworld301news",
       "probability": 5,
@@ -26,9 +55,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T14:00:17+00:00",
       "source_type": "Telegram"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Unusual: A fighter jet was scrambled towards a Wizz Air plane after one of its passengers received threatening messages on his phone.",
       "source": "amitsegal",
@@ -210,6 +237,6 @@
       "source_type": "Telegram"
     }
   ],
-  "overall_probability": 15,
-  "last_updated": "2026-02-08 16:02:29"
+  "overall_probability": 35,
+  "last_updated": "2026-02-08 16:11:58"
 }
