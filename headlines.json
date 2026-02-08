@@ -1,6 +1,17 @@
 {
   "current_headlines": [
     {
+      "headline": "Who is the enemy that Egypt is planning a war against? And who is enemy number one of Turkey as described by a newspaper affiliated with Erdogan? That's right. The state of Israel. This is part of the changing dynamics between the weakening of Iran and the Shiite axis and the strengthening of its Sunni counterpart from the Muslim Brotherhood, which is succeeding in uniting under it also Saudi Arabia and now also Egypt in one way or another... The reference scenario that we must prepare for is a joint war against the state of Israel. In the coming years, the main threat to Israel, as we have already said, will not be Iran or the Shiite axis. But rather the Sunni axis. The global jihad, and additional countries. Israel must prepare for the next war and for the scenario of the strengthening of the Sunni axis that will try to flank us from several directions.",
+      "source": "arabworld301news",
+      "probability": 15,
+      "keywords": "Egypt, war, Turkey, enemy, Israel, Iran, Shiite axis, Sunni axis, Muslim Brotherhood, Saudi Arabia, joint war, threat, global jihad, prepare, flank",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T22:20:51+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Motorcyclist injured during travel on Highway 4, his condition is critical",
       "source": "ynet",
       "probability": 5,
@@ -17,9 +28,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T22:17:49.883418",
       "source_type": "Media Outlet"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Turkey and Egypt signed a weapons deal worth approximately $350 million, as part of the visit of Turkish President Recep Tayyip Erdoğan to Cairo. The agreement includes the export of the short-range air defense system TOLGA, alongside the establishment of a Turkish factory in Egypt for the production of 155mm artillery shells (as well as additional facilities for light ammunition), as part of deepening security cooperation between the two countries after years of tension. Publication on 301: Yossi Eliezer 301 Arab World on Telegram",
       "source": "arabworld301news",
@@ -990,6 +999,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 0,
-  "last_updated": "2026-02-08 22:18:01"
+  "overall_probability": 30,
+  "last_updated": "2026-02-08 22:27:22"
 }
