@@ -1,6 +1,26 @@
 {
   "current_headlines": [
     {
+      "headline": "Iran announces NOTAM around one of the bases for 'missile launches' as stated in the NOTAM. In my opinion, this is a relatively limited declaration that simply stands out because of the description in the text as a kind of psychological warfare and demonstration of power. [Dor F. on Telegram]",
+      "source": "arabworld301news",
+      "probability": 65,
+      "keywords": "Iran, NOTAM, bases, missile launches, psychological warfare, demonstration of power",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T19:59:07+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "21:54 | A fragmentation grenade was thrown at a house in Jadida Makr. There were no casualties in the incident, property damage was caused",
+      "source": "mako",
+      "probability": 15,
+      "keywords": "fragmentation grenade, thrown, house, Jadida Makr, no casualties, property damage",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T20:06:12.467131",
+      "source_type": "Media Outlet"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Iran announced a NOTAM over the Semnan area, where there is a missile base and a testing base. According to the announcement, the airspace above Semnan has been closed and missile launches will be conducted.",
       "source": "abualiexpress",
       "probability": 65,
@@ -17,9 +37,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T19:57:15.455574",
       "source_type": "Media Outlet"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "After five hours: The meeting of the ultra-Orthodox Knesset members with the legal advisor of the Foreign Affairs and Defense Committee has ended in an attempt to reach agreements on the conscription law",
       "source": "-1001254976833",
@@ -588,6 +606,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 5,
-  "last_updated": "2026-02-08 19:57:26"
+  "overall_probability": 20,
+  "last_updated": "2026-02-08 20:06:24"
 }
