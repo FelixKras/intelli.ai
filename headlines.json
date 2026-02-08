@@ -1,6 +1,26 @@
 {
   "current_headlines": [
     {
+      "headline": "Concern in Israel: Iran is secretly transferring launchers to the eastern part of the country to make it difficult to destroy them",
+      "source": "-1001254976833",
+      "probability": 45,
+      "keywords": "Iran, secretly, transferring, launchers, eastern, country, difficult, destroy, concern, Israel",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T18:44:37.985478",
+      "source_type": "Unknown"
+    },
+    {
+      "headline": "Aharon Yehuda, age 12, killed in an accident near Ofakim",
+      "source": "ynet",
+      "probability": 0,
+      "keywords": "Aharon, Yehuda, killed, accident, Ofakim",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T18:44:23.923898",
+      "source_type": "Media Outlet"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Major General Mousavi: We are prepared for a long-term war with America. Chairman of the General Staff of the Armed Forces: While we are prepared, we truly have no interest in starting a regional war; although the aggressors are the targets of the fire of regional war. Cyber Army of the Guardians @SEPAH",
       "source": "sepah",
       "probability": 50,
@@ -44,9 +64,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T18:30:00+00:00",
       "source_type": "Telegram"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Fatah movement: We condemn the decisions of the Israeli cabinet that aim to deepen the annexation of the West Bank and give legitimacy to land theft. We see these decisions as a war on Palestinian existence and a thwarting of the two-state solution. These decisions are null and void decisions. We will continue to protect the lands and resist these plans.",
       "source": "abualiexpress",
@@ -372,6 +390,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 35,
-  "last_updated": "2026-02-08 18:35:30"
+  "overall_probability": 40,
+  "last_updated": "2026-02-08 18:44:37"
 }
