@@ -1,6 +1,44 @@
 {
   "current_headlines": [
     {
+      "headline": "The death of the child who was critically injured in an accident near Ofakim has been determined",
+      "source": "ynet",
+      "probability": 5,
+      "keywords": "death, child, critically injured, accident, Ofakim",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T17:08:19.574513",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "The detention of a Be'er Sheva resident suspected of pouring flammable material on protesters has been extended",
+      "source": "ynet",
+      "probability": 5,
+      "keywords": "detention, Be'er Sheva, resident, suspected, pouring, flammable material, protesters",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T17:08:19.574513",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Elections in Japan: Japan's national broadcasting authority estimates that the coalition of Japanese Prime Minister Sanae Takaichi will succeed in obtaining a two-thirds majority in parliament (310 out of 465 seats) - which will allow it to carry out constitutional reform, as this is a majority that can veto decisions of the upper house in Japan - where the opposition has a majority. [One response]",
+      "source": "abualiexpress",
+      "probability": 0,
+      "keywords": "elections, Japan, coalition, Prime Minister, Sanae Takaichi, majority, parliament, constitutional reform",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T14:48:12+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Residential building collapse in Tripoli: Emergency and rescue forces are operating at the scene and conducting searches for fear of trapped individuals. NEWS DDF: Credit 301 The Arab World on Telegram",
+      "source": "arabworld301news",
+      "probability": 0,
+      "keywords": "residential building, collapse, Tripoli, emergency, rescue forces, searches, trapped individuals",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T15:00:12+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Turkish experts: Iranians have been deceiving the West for 30 years with the 'watch the tightrope walker' strategy, everyone was focused on the nuclear program, but Iran quietly upgraded its missile and drone arsenal to the level and capability of Russia, now with tens of thousands of missiles including Khorramshahr4, it leaves every American aircraft carrier defenseless and has plunged Israel into a scenario of terror... Cyber Guards Corps @SEPAH",
       "source": "sepah",
       "probability": 45,
@@ -44,9 +82,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T16:58:41.311299",
       "source_type": "Media Outlet"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "A Hermes-type drone is patrolling over southern Lebanon",
       "source": "arabworld301news",
@@ -372,6 +408,6 @@
       "source_type": "Telegram"
     }
   ],
-  "overall_probability": 65,
-  "last_updated": "2026-02-08 16:59:12"
+  "overall_probability": 5,
+  "last_updated": "2026-02-08 17:08:38"
 }
