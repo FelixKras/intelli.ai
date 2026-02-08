@@ -1,6 +1,26 @@
 {
   "current_headlines": [
     {
+      "headline": "The Regavim movement in response to the Cabinet decisions: \"The Israeli government has decided, the Oslo concept to the trash\" \"A struggle of many years, hundreds of discussions, field tours and in-depth studies led to the series of dramatic decisions that were made a short while ago in the security cabinet. Israeli governments throughout the generations hesitated, ignored and abandoned, and into the vacuum entered the murderous Palestinian Authority and worked to establish a terrorist state in the heart of the country. The decisions cancel a distorted reality of racism and discrimination against Jews regarding lands in Judea and Samaria: exposing the land registry that was confidential, canceling the Jordanian law that prohibits the sale of lands to Jews, enforcement against damage to heritage sites and environmental damage in Areas A and B, all these indicate: Zionism is not measured by declarations and talk, but by actions. We congratulate the members of the cabinet on the historic decision led by Defense Minister Katz and Finance Minister Smotrich and commit to continue acting and promoting a Zionist land policy throughout the entire country.\"",
+      "source": "arabworld301news",
+      "probability": 5,
+      "keywords": "Regavim, Cabinet, decisions, Oslo, security cabinet, Palestinian Authority, Judea, Samaria, lands, heritage, Katz, Smotrich, Zionist, policy",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T14:27:58+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Pushed by Minister Smotrich: The political-security cabinet today approved a series of dramatic decisions that will significantly impact the settlement situation in Judea and Samaria • Regarding land management: Until now, contrary to practice within the Green Line, the land registry in Judea and Samaria was confidential - which made land acquisition difficult and allowed fraud. Now, the cabinet has ordered the removal of confidentiality and the publication of the land registry, a step that will increase transparency and facilitate land redemption. • The cabinet canceled the Jordanian law that prohibits the sale of real estate to Jews. Until now, Jews were forced to purchase lands only through registered companies and subject to a cumbersome \"transaction permit\" from the Civil Administration. From now on, the requirement for a transaction permit has been canceled and the prohibition on sale to foreigners has been canceled, which will allow Jews to purchase land in Judea and Samaria exactly as they purchase in Tel Aviv or Jerusalem. Alongside this, the requirement for a transaction license from the Land Registration Officer has been canceled, and in its place only professional threshold conditions will be set, which will lead to the removal of a significant barrier in the local real estate market. • After years of foot-dragging by the Palestinian municipality of Hebron, it was decided to transfer the building licensing authorities in the Jewish settlement, the Cave of the Patriarchs and the additional holy sites in the city, from the municipality directly to the planning institutions of the Civil Administration. The meaning is that there will no longer be a need for a specific \"withdrawal of authorities\" every time they want to make the cave accessible or build in the city for Jews, and the planning procedures will become efficient and independent. Concurrently, it was decided to grant full municipal authorities to the Hebron administration, which will now be able to directly handle the needs of the settlers and prevent hazards, without dependence on the Palestinian mechanisms that until now required a complex and frustrating procedure. • Concurrently, the state is increasing its efforts in the war for heritage and environmental areas: it was decided to expand supervision and enforcement activities also to Areas A and B regarding water offenses, damage to archaeological sites and environmental hazards that pollute the entire area.",
+      "source": "arabworld301news",
+      "probability": 5,
+      "keywords": "Smotrich, cabinet, decisions, settlement, Judea, Samaria, land, registry, Jews, transaction, Hebron, Civil Administration, heritage, enforcement, Areas A and B",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T14:27:58+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Member of the Political Council of Hezbollah of Lebanon: If a war is launched against Iran, oil exports in the Persian Gulf will be disrupted. Qamati: Iran insisted on its position and determined the location and agenda of the negotiations itself, and as a result, Netanyahu failed and became frustrated. Iran limited the negotiations solely to the nuclear case; Iran is a powerful country with independent sovereignty and defends itself. If a war is launched against Iran, Iran will stand firm and as a result, global trade will be damaged and the export and flow of oil in the Persian Gulf will be disrupted. Cyber Army of the Guardians @SEPAH",
       "source": "sepah",
       "probability": 25,
@@ -26,9 +46,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T14:03:32+00:00",
       "source_type": "Telegram"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Arab terrorism in Judea and Samaria: A Jewish woman was lightly injured in a stone-throwing attack near Eli, after terrorists threw stones at her vehicle. The terrorists fled. Hillel Bitton Rosen",
       "source": "arabworld301news",
@@ -237,6 +255,6 @@
       "source_type": "Telegram"
     }
   ],
-  "overall_probability": 35,
-  "last_updated": "2026-02-08 16:11:58"
+  "overall_probability": 20,
+  "last_updated": "2026-02-08 16:30:40"
 }
