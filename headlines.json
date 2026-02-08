@@ -1,6 +1,35 @@
 {
   "current_headlines": [
     {
+      "headline": "Hamas spokesman Hazem Qassem also responds to the Cabinet's decisions regarding the lands in the West Bank: The extreme right-wing government seeks to expand the genocide war and eliminate Palestinian existence on Palestinian lands. The recent decisions of the Cabinet emphasize the colonialist nature of the occupation government that seeks to swallow Palestinian lands and expel their original residents. This aggressive policy constitutes a real existential danger to the Palestinian people and their rights.",
+      "source": "abualiexpress",
+      "probability": 15,
+      "keywords": "Hamas, West Bank, genocide, Palestinian, lands, occupation, government, decisions, colonialist, aggressive, policy, danger, existence",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T17:04:39+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Discovery of smuggled weapons and military ammunition cargo on the Kurdistan border. Commander of the Kurdistan Province Border Guard: Through their intelligence work, our forces were able to discover and confiscate 42 firearms, 729 rounds of military ammunition, and 7 handheld radio devices smuggled in the border city of Sarvabad. One smuggler was arrested in this operation.",
+      "source": "sepah",
+      "probability": 25,
+      "keywords": "smuggled, weapons, military, ammunition, Kurdistan, border, firearms, rounds, radio, devices, operation, arrested, intelligence",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T18:04:09+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Update: Another American transport aircraft of the Lockheed C-5 type (the largest transport aircraft of its kind in the US arsenal) is now making its way to the Middle East, and there is a report about five American transport aircraft that are making their way to Azerbaijan, the neighbor of Iran.",
+      "source": "arabworld301news",
+      "probability": 45,
+      "keywords": "American, transport, aircraft, Lockheed, C-5, Middle East, report, five, Azerbaijan, Iran, neighbor, making way, largest",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T18:05:09+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "The attack on religious Zionism is as ugly as it is foolish.",
       "source": "amitsegal",
       "probability": 5,
@@ -17,9 +46,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T17:57:01.633065",
       "source_type": "Unknown"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Ben Gvir to the Attorney General: \"I heard you, your advice was not accepted\"",
       "source": "ynet",
@@ -219,6 +246,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 10,
-  "last_updated": "2026-02-08 17:57:01"
+  "overall_probability": 35,
+  "last_updated": "2026-02-08 18:08:06"
 }
