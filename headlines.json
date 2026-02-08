@@ -1,6 +1,53 @@
 {
   "current_headlines": [
     {
+      "headline": "Major General Mousavi: We are prepared for a long-term war with America. Chairman of the General Staff of the Armed Forces: While we are prepared, we truly have no interest in starting a regional war; although the aggressors are the targets of the fire of regional war. Cyber Army of the Guardians @SEPAH",
+      "source": "sepah",
+      "probability": 50,
+      "keywords": "Major General Mousavi, prepared, long-term war, America, regional war, aggressors, targets, fire",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T18:34:09+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Hidden war against Iran's industrialization. Ruhollah Vahid Kiyani, economic expert: Iran, with a daily production of about 3.8 million barrels of oil, is still stuck in the initial loops of the value chain and instead of widespread conversion into final products, it has mostly remained at the level of crude and semi-crude. Sanctions, restrictions on technology transfer, and the blockage of international financing are cited as obstacles to the development of downstream industries. In this narrative, the historical trade-oriented structure from the Silk Road period to today has continued, and the lack of practical economic operational agreements with large regional markets such as aligned countries has also caused industrial export capacity not to form and dependence on oil revenues to continue. Cyber Army of the Guardians @SEPAH",
+      "source": "sepah",
+      "probability": 20,
+      "keywords": "Hidden war, Iran, industrialization, oil production, value chain, sanctions, technology transfer, international financing, downstream industries, trade-oriented structure, Silk Road, regional markets, industrial export capacity, oil revenues",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T18:34:09+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Today in Ofakim, violent Bedouin rampage directly from a construction site to the street. An event that started from a conflict turned into a riot. Throwing stones and rocks at each other. Hit-and-runs and more. The riots and blood feuds and murder are a culture for them. It is impossible to uproot a culture through police activity. 301 The Arab World on Telegram",
+      "source": "arabworld301news",
+      "probability": 5,
+      "keywords": "Ofakim, violent, Bedouin, rampage, construction site, street, conflict, riot, stones, rocks, hit-and-runs, riots, blood feuds, murder, culture, police activity",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T18:32:31+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Offices for sale in the G-CITY tower, the tallest tower in Rishon LeZion with a sea view and a strategic location in the city. Within a few months, more than 60% of the offices in the project have been sold! Below the tower – the G City complex, the largest shopping complex in Israel with restaurants, cafes, entertainment areas, and more. Only 50 meters from the light rail station • Office spaces for sale in a variety of sizes • Option to purchase entire floors • The National Health Insurance Fund purchased 6 floors in the project and will move its company headquarters from Tel Aviv • A prestigious complex including a gym • Business lounge • Meeting rooms • Sitting balcony • Chef's restaurant floor. Click for more details",
+      "source": "abualiexpress",
+      "probability": 0,
+      "keywords": "Offices, sale, G-CITY tower, tallest, Rishon LeZion, sea view, strategic location, project, sold, shopping complex, restaurants, cafes, entertainment, light rail station, office spaces, sizes, floors, National Health Insurance Fund, headquarters, Tel Aviv, prestigious, gym, Business lounge, Meeting rooms, balcony, Chef's restaurant",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T18:30:00+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Marketing content",
+      "source": "abualiexpress",
+      "probability": 0,
+      "keywords": "Marketing, content",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T18:30:00+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Fatah movement: We condemn the decisions of the Israeli cabinet that aim to deepen the annexation of the West Bank and give legitimacy to land theft. We see these decisions as a war on Palestinian existence and a thwarting of the two-state solution. These decisions are null and void decisions. We will continue to protect the lands and resist these plans.",
       "source": "abualiexpress",
       "probability": 5,
@@ -35,9 +82,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T18:21:09+00:00",
       "source_type": "Telegram"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "A US military plane is currently flying from Texas on its way to Tel Aviv.",
       "source": "arabworld301news",
@@ -327,6 +372,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 25,
-  "last_updated": "2026-02-08 18:26:14"
+  "overall_probability": 35,
+  "last_updated": "2026-02-08 18:35:30"
 }
