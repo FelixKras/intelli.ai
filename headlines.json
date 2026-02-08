@@ -1,6 +1,53 @@
 {
   "current_headlines": [
     {
+      "headline": "A US military plane is currently flying from Texas on its way to Tel Aviv.",
+      "source": "arabworld301news",
+      "probability": 65,
+      "keywords": "US, military, plane, flying, Texas, Tel Aviv",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T18:10:16+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The new threat in Palestine Square in Tehran: a sign displaying targets in the Gush Dan area alongside the text 'In the face of the missile rain - this is a small area'.",
+      "source": "mako",
+      "probability": 45,
+      "keywords": "threat, Palestine Square, Tehran, sign, targets, Gush Dan, missile, rain, area",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T18:16:42.257995",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Khaled Mashal: 'Hamas offered a ceasefire for five, for seven, for 10 years - this is a guarantee'.",
+      "source": "mako",
+      "probability": 25,
+      "keywords": "Khaled Mashal, Hamas, offered, ceasefire, years, guarantee",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T18:16:42.257995",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Media in Iran report that the intelligence organization of the Revolutionary Guards and the Intelligence Ministry arrested a cell of people, who according to the authorities worked to incite the socio-political arena and spread claims against the government. According to the report, the suspects planned to provoke another wave of protests, and the arrest was carried out as part of a joint operation by the intelligence agencies.",
+      "source": "arabworld301news",
+      "probability": 20,
+      "keywords": "Iran, media, intelligence, Revolutionary Guards, arrested, cell, incite, socio-political, protests, operation",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T18:10:16+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The best advocacy: a video of the city of Tel Aviv from a bird's eye view broke the internet - 'This is what a country in the Middle East that doesn't invest all its money in terrorism looks like'. The video reached millions of views on the X network and garnered thousands of shares. A British user responded: 'You don't think modern cities can be beautiful until you come for a visit to Tel Aviv. It is sparkling and it is green, and the beach is simply amazing'.",
+      "source": "-1001254976833",
+      "probability": 15,
+      "keywords": "advocacy, video, Tel Aviv, bird's eye view, internet, Middle East, terrorism, views, shares, British, user, modern, cities, beautiful, sparkling, green, beach",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T18:17:03.919091",
+      "source_type": "Unknown"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Hamas spokesman Hazem Qassem also responds to the Cabinet's decisions regarding the lands in the West Bank: The extreme right-wing government seeks to expand the genocide war and eliminate Palestinian existence on Palestinian lands. The recent decisions of the Cabinet emphasize the colonialist nature of the occupation government that seeks to swallow Palestinian lands and expel their original residents. This aggressive policy constitutes a real existential danger to the Palestinian people and their rights.",
       "source": "abualiexpress",
       "probability": 15,
@@ -26,9 +73,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T18:05:09+00:00",
       "source_type": "Telegram"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "The attack on religious Zionism is as ugly as it is foolish.",
       "source": "amitsegal",
@@ -246,6 +291,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 35,
-  "last_updated": "2026-02-08 18:08:06"
+  "overall_probability": 65,
+  "last_updated": "2026-02-08 18:17:03"
 }
