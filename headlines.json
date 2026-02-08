@@ -1,6 +1,35 @@
 {
   "current_headlines": [
     {
+      "headline": "A Hermes-type drone is patrolling over southern Lebanon",
+      "source": "arabworld301news",
+      "probability": 15,
+      "keywords": "Hermes, drone, patrolling, southern, Lebanon",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T14:40:03+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Child critically injured in accident involving 3 vehicles on Route 241 near Ofakim",
+      "source": "ynet",
+      "probability": 5,
+      "keywords": "child, injured, accident, vehicles, Route, 241, Ofakim",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T16:49:19.691204",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Elections in Japan: Japan's national broadcasting corporation estimates that the coalition of Japanese Prime Sanae Takaichi will succeed in obtaining a two-thirds majority in parliament (310 seats) - which will allow it to carry out a constitutional reform, as this is a majority that can veto decisions of the upper house in Japan - where the opposition has a majority. [To respond to the article click here]",
+      "source": "abualiexpress",
+      "probability": 0,
+      "keywords": "elections, Japan, coalition, Prime Minister, Sanae Takaichi, majority, parliament, constitutional reform",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T14:48:12+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "President of Somalia: Israel has reached an agreement with Somaliland on three axes! Hassan Sheikh Mahmoud, President of Somalia, announced: There are three important informational topics that must be stated, Israel has reached an agreement with Somaliland on three axes; transfer of Palestinians to Somalia, establishment of a base in Somaliland, and signing of the Abraham Accords by Somaliland. These three axes are the points of agreement between Israel and the separatist group Somaliland. The President of Somalia added: The question arises as to why Israel should have a base in Somalia. There is no place for Israel to defend itself in Somalia, and what is observed is that Israel is preparing or positioning itself to attack another location.",
       "source": "sepah",
       "probability": 65,
@@ -44,9 +73,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T14:39:09+00:00",
       "source_type": "Telegram"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "The Regavim movement in response to the Cabinet decisions: \"The Israeli government has decided, the Oslo concept to the trash\" \"A struggle of many years, hundreds of discussions, field tours and in-depth studies led to the series of dramatic decisions that were made a short while ago in the security cabinet. Israeli governments throughout the generations hesitated, ignored and abandoned, and into the vacuum entered the murderous Palestinian Authority and worked to establish a terrorist state in the heart of the country. The decisions cancel a distorted reality of racism and discrimination against Jews regarding lands in Judea and Samaria: exposing the land registry that was confidential, canceling the Jordanian law that prohibits the sale of lands to Jews, enforcement against damage to heritage sites and environmental damage in Areas A and B, all these indicate: Zionism is not measured by declarations and talk, but by actions. We congratulate the members of the cabinet on the historic decision led by Defense Minister Katz and Finance Minister Smotrich and commit to continue acting and promoting a Zionist land policy throughout the entire country.\"",
       "source": "arabworld301news",
@@ -300,6 +327,6 @@
       "source_type": "Telegram"
     }
   ],
-  "overall_probability": 35,
-  "last_updated": "2026-02-08 16:40:13"
+  "overall_probability": 5,
+  "last_updated": "2026-02-08 16:49:35"
 }
