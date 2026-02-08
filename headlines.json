@@ -1,6 +1,26 @@
 {
   "current_headlines": [
     {
+      "headline": "Jordanian Foreign Ministry: We strongly condemn the illegal steps approved by the Israeli government to deepen and entrench settlements.",
+      "source": "abualiexpress",
+      "probability": 5,
+      "keywords": "Jordanian, Foreign Ministry, condemn, illegal, steps, Israeli, government, deepen, entrench, settlements",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T18:13:49+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Absurd brawl in Ofakim: street fights between Bedouins",
+      "source": "-1001254976833",
+      "probability": 0,
+      "keywords": "Absurd, brawl, Ofakim, street, fights, Bedouins",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T18:53:40.936949",
+      "source_type": "Unknown"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Concern in Israel: Iran is secretly transferring launchers to the eastern part of the country to make it difficult to destroy them",
       "source": "-1001254976833",
       "probability": 45,
@@ -17,9 +37,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T18:44:23.923898",
       "source_type": "Media Outlet"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Major General Mousavi: We are prepared for a long-term war with America. Chairman of the General Staff of the Armed Forces: While we are prepared, we truly have no interest in starting a regional war; although the aggressors are the targets of the fire of regional war. Cyber Army of the Guardians @SEPAH",
       "source": "sepah",
@@ -390,6 +408,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 40,
-  "last_updated": "2026-02-08 18:44:37"
+  "overall_probability": 5,
+  "last_updated": "2026-02-08 18:53:40"
 }
