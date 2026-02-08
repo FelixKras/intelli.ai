@@ -1,6 +1,26 @@
 {
   "current_headlines": [
     {
+      "headline": "Motorcyclist injured during travel on Highway 4, his condition is critical",
+      "source": "ynet",
+      "probability": 5,
+      "keywords": "Motorcyclist, injured, travel, Highway 4, condition, critical",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T22:17:49.883418",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "2 seriously injured in accident between several vehicles near Netanya",
+      "source": "ynet",
+      "probability": 5,
+      "keywords": "seriously, injured, accident, several, vehicles, near, Netanya",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T22:17:49.883418",
+      "source_type": "Media Outlet"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Turkey and Egypt signed a weapons deal worth approximately $350 million, as part of the visit of Turkish President Recep Tayyip Erdoğan to Cairo. The agreement includes the export of the short-range air defense system TOLGA, alongside the establishment of a Turkish factory in Egypt for the production of 155mm artillery shells (as well as additional facilities for light ammunition), as part of deepening security cooperation between the two countries after years of tension. Publication on 301: Yossi Eliezer 301 Arab World on Telegram",
       "source": "arabworld301news",
       "probability": 10,
@@ -17,9 +37,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T22:08:29.358766",
       "source_type": "Media Outlet"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Our forces are currently carrying out arrests in the city of Ramallah. Yair Goldblatt 301 The Arab World on Telegram",
       "source": "arabworld301news",
@@ -972,6 +990,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 5,
-  "last_updated": "2026-02-08 22:08:42"
+  "overall_probability": 0,
+  "last_updated": "2026-02-08 22:18:01"
 }
