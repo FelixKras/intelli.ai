@@ -1,6 +1,44 @@
 {
   "current_headlines": [
     {
+      "headline": "Russian Foreign Ministry spokesperson: The Epstein case has become a symbol of 'evil domination' among Western elites. He argued that this issue is not about imaginary conspiracy theories, but rather a real conspiracy involving powerful individuals in several countries and international institutions. Zakharova added that Epstein is only 'a small snowflake on a huge iceberg'. Cyber Guardians Corps @SEPAH",
+      "source": "sepah",
+      "probability": 5,
+      "keywords": "Russian, Foreign Ministry, spokesperson, Epstein, case, symbol, evil domination, Western elites, conspiracy, powerful individuals, countries, international institutions, Zakharova, snowflake, iceberg",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T20:08:50+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Rescue Union medical teams were called to Nahal Kishon Street in Beit Shemesh due to a report of a fire in a residential building. All the tenants who were in the building left it without casualties. Photo: Rescue Union Beit Shemesh branch",
+      "source": "-1001254976833",
+      "probability": 10,
+      "keywords": "Rescue Union, medical teams, Nahal Kishon Street, Beit Shemesh, report, fire, residential building, tenants, casualties, photo",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T20:15:29.772345",
+      "source_type": "Unknown"
+    },
+    {
+      "headline": "Iranian media reports that 'a senior Iranian official is expected to make an important visit to Oman in the coming days'. [Dor F. on Telegram]",
+      "source": "arabworld301news",
+      "probability": 15,
+      "keywords": "Iranian, media, reports, senior, Iranian official, expected, important visit, Oman, coming days",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T20:12:42+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "22:10 | AP report: Iran today sentenced Nobel Peace Prize laureate Narges Mohammadi to seven years in prison",
+      "source": "mako",
+      "probability": 20,
+      "keywords": "AP, report, Iran, sentenced, Nobel Peace Prize, laureate, Narges Mohammadi, seven years, prison",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T20:15:12.407635",
+      "source_type": "Media Outlet"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Iran announces NOTAM around one of the bases for 'missile launches' as stated in the NOTAM. In my opinion, this is a relatively limited declaration that simply stands out because of the description in the text as a kind of psychological warfare and demonstration of power. [Dor F. on Telegram]",
       "source": "arabworld301news",
       "probability": 65,
@@ -17,9 +55,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T20:06:12.467131",
       "source_type": "Media Outlet"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Iran announced a NOTAM over the Semnan area, where there is a missile base and a testing base. According to the announcement, the airspace above Semnan has been closed and missile launches will be conducted.",
       "source": "abualiexpress",
@@ -606,6 +642,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 20,
-  "last_updated": "2026-02-08 20:06:24"
+  "overall_probability": 10,
+  "last_updated": "2026-02-08 20:15:29"
 }
