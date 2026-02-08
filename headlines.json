@@ -1,6 +1,17 @@
 {
   "current_headlines": [
     {
+      "headline": "Elections in Japan: The Reiwa Shinsengumi party, a left-wing pro-China, pro-Palestinian party connected to the Antifa organization, lost all 9 of its seats in parliament. It is now fighting for a chance for one seat. This party organized the pro-Palestinian protests against Israel in Japan.",
+      "source": "abualiexpress",
+      "probability": 5,
+      "keywords": "Elections, Japan, Reiwa Shinsengumi, left-wing, pro-China, pro-Palestinian, Antifa, lost, seats, parliament, protests, Israel",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T19:18:13+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Arab woman first in Democratic party: Social activist Sumaya Bashir announced that she will run in the Democratic party primaries. \"I will work for genuine Arab-Jewish partnership, because all of Israeli society deserves a better future,\" Bashir stated (Mohammed Majdal)",
       "source": "-1001254976833",
       "probability": 5,
@@ -17,9 +28,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T19:21:14+00:00",
       "source_type": "Telegram"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "New report from the Zionist regime's television about the destruction of Iranian missiles",
       "source": "sepah",
@@ -534,6 +543,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 10,
-  "last_updated": "2026-02-08 19:30:21"
+  "overall_probability": 20,
+  "last_updated": "2026-02-08 19:39:23"
 }
