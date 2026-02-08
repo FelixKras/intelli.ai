@@ -1,6 +1,35 @@
 {
   "current_headlines": [
     {
+      "headline": "Police arrested 4 suspects involved in murder in Kafr Qara",
+      "source": "ynet",
+      "probability": 5,
+      "keywords": "Police, arrested, suspects, murder, Kafr Qara",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T21:10:45.947988",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Dead Sea marathon from last Friday filmed by drone by the talented photographer Moshe Bernstein. Man and nature. Wonderful.",
+      "source": "abualiexpress",
+      "probability": 2,
+      "keywords": "Dead Sea, marathon, Friday, drone, photographer, Moshe Bernstein, nature",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T20:49:01+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Qatari contribution to Gaza Strip - a collection of facts for the election year - cut and save for the election year. Many people (even politicians) tend to forget facts about the Qatari contribution, especially when 'Qatar' has become a particularly charged word in Israeli discourse. For your convenience, here are key milestones in the Qatari contribution deal since its launch in 2018 until the outbreak of the war on October 7th. It is important to note that the deal was renewed every year at least - as detailed below: 1. In November 2018, Israel approved the 'Qatari deal' whereby Qatar would bring millions of dollars to Gaza Strip (about $15 million in cash). The purpose of the deal was to pay money to Hamas as part of an arrangement aimed at calming terrorist activity on the Gaza border fence as part of the 'Return Marches'. Qatari money in exchange for quiet on the fence. On November 8, 2018, after the deal was approved, the first money entered the Strip - in cash, in suitcases. Lieberman resigned from his position as Defense Minister the week after the money entered (November 14, 2018). Benjamin Netanyahu was Prime Minister when the Qatari contribution deal was formulated. He also served as Defense Minister after Lieberman's resignation, for one year. 2. In December 2019, the first deal signed with Qatar at the end of 2018 ended and many efforts were made by Israel to renew it to maintain the quiet. It was indeed renewed in December 2019. Office holders: Prime Minister Benjamin Netanyahu. Defense Minister was Naftali Bennett (who entered his position as Defense Minister on November 12, 2019). 3. In January 2021, a year later, the Qatari deal was renewed again and even increased to $30 million per month ($10 million distributed to one hundred thousand needy families in Gaza, $10 million in Israeli fuel for the power plant to generate electricity, and $10 million for Hamas officials). Office holders: Prime Minister Benjamin Netanyahu. Defense Minister - Benny Gantz, who was appointed to the position in May 2020 as part of the parity government. 4. On May 10, 2021, Operation 'Guardian of the Walls' began in the Strip after a planned attack by Hamas - the operation ended on May 21, 2021. The flow of Qatari money stopped completely following the operation. 5. In June 2021, the new Bennett government was sworn in. Qatari money did not transfer and riots on the fence resumed. During August, Sergeant Barel Hadaria Shmueli was shot on the fence (and later died from his wounds). His death was a catalyst to reach a renewed arrangement and in September 2021, after 4 months of stopping Qatari money, the Bennett government initiated a new deal with Qatar whereby one-third of the money entered through coupons but the amount of money to Hamas increased according to the following details - $30 million of which: $10 million to needy families in the form of coupons instead of cash. $10 million to the power plant in Gaza. $10 million to Hamas officials in the form of Egyptian fuel that Hamas sold to Gaza residents (and also collected the difference between the price of Egyptian fuel and Israeli fuel so it earned more than $10 million in this item). Office holders: Prime Minister Naftali Bennett. Defense Minister Benny Gantz. 6. At the end of March 2022, Qatar announced the renewal of Qatari money transfer for an additional year. Office holders: Prime Minister Naftali Bennett. Defense Minister Benny Gantz. 7. At the end of December 2022, Qatar announced that it would renew the Qatari contribution for all of 2023 in the same familiar format. Office holders: Prime Minister Yair Lapid (transition government). Defense Minister - Benny Gantz. 8. In 2023, there was irregular distribution (intermittently) of Qatari money due to security instability towards Gaza. In September, the Qatari contribution was renewed in an attempt to calm the escalation towards Gaza in the preceding month and after a threat to renew the Return Marches. The Qatari contribution stopped after the war broke out on October 7th. Office holders: Prime Minister Benjamin Netanyahu. Defense Minister Yoav Gallant. ## Summary: Netanyahu was Prime Minister during the establishment of the first Qatari deal and during 4 renewals of it. Bennett was Prime Minister twice when the deal was renewed (once after a long break following Guardian of the Walls and change of government in Israel). Bennett was Defense Minister during the first renewal of the Qatari deal. Lapid was Prime Minister during one renewal of the deal. Gantz was Defense Minister in 5 deal renewals with Qatar. Gallant was Defense Minister during one renewal of the Qatari deal.",
+      "source": "abualiexpress",
+      "probability": 1,
+      "keywords": "Qatari, contribution, Gaza, Strip, facts, election, year, Hamas, money, deal, Israel, Netanyahu, Bennett, Gantz, security",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T20:49:01+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Yedioth Ahronoth: Israel has obtained information that Iran produces 300 ballistic missiles per month.",
       "source": "sepah",
       "probability": 20,
@@ -44,9 +73,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T20:49:01+00:00",
       "source_type": "Telegram"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Now: An American refueling flight is near the Iranian border. Mordechai approximately 301 The Arab World on Telegram",
       "source": "arabworld301news",
@@ -846,6 +873,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 75,
-  "last_updated": "2026-02-08 21:02:06"
+  "overall_probability": 30,
+  "last_updated": "2026-02-08 21:11:21"
 }
