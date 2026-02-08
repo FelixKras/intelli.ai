@@ -1,6 +1,53 @@
 {
   "current_headlines": [
     {
+      "headline": "Turkish experts: Iranians have been deceiving the West for 30 years with the 'watch the tightrope walker' strategy, everyone was focused on the nuclear program, but Iran quietly upgraded its missile and drone arsenal to the level and capability of Russia, now with tens of thousands of missiles including Khorramshahr4, it leaves every American aircraft carrier defenseless and has plunged Israel into a scenario of terror... Cyber Guards Corps @SEPAH",
+      "source": "sepah",
+      "probability": 45,
+      "keywords": "Iran, missiles, drone, arsenal, Russia, Khorramshahr4, aircraft carrier, Israel, terror, attack, defense",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T14:55:09+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "How can one learn the intentions and ideological mindset of 'New Syria'? And there is nothing that can indicate the mindset more than a fair where books are sold. At the Damascus International Fair of 2026, a variety of extreme Salafi books were observed for sale at the fair, including 4 books that caught the eye. 1. 'Thamarat al-Jihad' (Fruits of Jihad) The book deals with 'ignorance in jurisprudence and reality' in the context of jihad. 2. 'Reading of the Prophets and Messengers': The book deals with the concept of Tawhid (oneness of God) and the war against 'ignorance' (Jahiliyya). This is the core of the Salafi perception, which emphasizes a return to sources and distancing from anything that appears as idolatry or Western modernization. 3. 'Al-Rafida': (a derogatory and demeaning term for Shiites) The book is based on a series of audio lectures by Abu Musab al-Zarqawi. Al-Zarqawi was the founder of Al-Qaeda in Iraq and the spiritual father of ISIS. 4. The books of Sheikh Abu Hafs al-Mauritani who was the mufti in Al-Qaeda and a close associate of Osama bin Laden. The book testifies to a narrative of legitimate jihad. The books can be ordered anywhere in Syria with the aim of spreading the jihadist/Salafi message to every home in Syria, and conducting an educational series for the young generation - this is a declaration of intent and not just distribution. By the way: Qatar is the guest of honor at the fair. [Hannanel Aviv]",
+      "source": "arabworld301news",
+      "probability": 25,
+      "keywords": "Syria, ideological, Salafi, jihad, books, Al-Qaeda, ISIS, extremism, Iran, conflict, Middle East",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T14:51:48+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The police arrested an Arab from East Jerusalem, about 61 years old, on suspicion of stealing ancient coins that were seized in his possession. According to an examination by the Antiquities Authority, it is a Roman coin of Emperor Vespasian and a Byzantine and Muslim coin, of historical and cultural value - which will later be transferred to the state treasury. : Police Spokesperson",
+      "source": "-1001254976833",
+      "probability": 5,
+      "keywords": "police, arrested, Arab, East Jerusalem, coins, ancient, Roman, Byzantine, Muslim, cultural",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T16:59:12.287578",
+      "source_type": "Unknown"
+    },
+    {
+      "headline": "The elections in Japan: Japan's national broadcasting corporation estimates that the coalition of Japanese Prime Sanae Takaichi will succeed in obtaining a two-thirds majority in parliament (310 out of 465 seats) - which will allow it to carry out constitutional reform, as this is a majority that can veto decisions of the upper house in Japan - where the opposition has a majority. [To respond to the article click here]",
+      "source": "abualiexpress",
+      "probability": 0,
+      "keywords": "elections, Japan, coalition, Prime Minister, parliament, majority, constitutional reform",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T14:48:12+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "16:24 | Singer Osher Cohen was taken for investigation on suspicion of drug possession",
+      "source": "mako",
+      "probability": 0,
+      "keywords": "singer, Osher Cohen, investigation, suspicion, drug possession",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T16:58:41.311299",
+      "source_type": "Media Outlet"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "A Hermes-type drone is patrolling over southern Lebanon",
       "source": "arabworld301news",
       "probability": 15,
@@ -26,9 +73,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T14:48:12+00:00",
       "source_type": "Telegram"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "President of Somalia: Israel has reached an agreement with Somaliland on three axes! Hassan Sheikh Mahmoud, President of Somalia, announced: There are three important informational topics that must be stated, Israel has reached an agreement with Somaliland on three axes; transfer of Palestinians to Somalia, establishment of a base in Somaliland, and signing of the Abraham Accords by Somaliland. These three axes are the points of agreement between Israel and the separatist group Somaliland. The President of Somalia added: The question arises as to why Israel should have a base in Somalia. There is no place for Israel to defend itself in Somalia, and what is observed is that Israel is preparing or positioning itself to attack another location.",
       "source": "sepah",
@@ -327,6 +372,6 @@
       "source_type": "Telegram"
     }
   ],
-  "overall_probability": 5,
-  "last_updated": "2026-02-08 16:49:35"
+  "overall_probability": 65,
+  "last_updated": "2026-02-08 16:59:12"
 }
