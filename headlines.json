@@ -1,6 +1,53 @@
 {
   "current_headlines": [
     {
+      "headline": "President of Somalia: Israel has reached an agreement with Somaliland on three axes! Hassan Sheikh Mahmoud, President of Somalia, announced: There are three important informational topics that must be stated, Israel has reached an agreement with Somaliland on three axes; transfer of Palestinians to Somalia, establishment of a base in Somaliland, and signing of the Abraham Accords by Somaliland. These three axes are the points of agreement between Israel and the separatist group Somaliland. The President of Somalia added: The question arises as to why Israel should have a base in Somalia. There is no place for Israel to defend itself in Somalia, and what is observed is that Israel is preparing or positioning itself to attack another location.",
+      "source": "sepah",
+      "probability": 65,
+      "keywords": "Israel, Somalia, Somaliland, base, agreement, Palestinians, Abraham Accords, attack, preparing, positioning",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T14:39:09+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "When will Israel be free? The embarrassment of Khaled Mashal Khaled Mashal, one of the most well-known senior Hamas figures, mistakenly wished for Israel to be free in the upcoming Al Jazeera forum. The host quickly corrected: You meant free Palestine",
+      "source": "-1001254976833",
+      "probability": 15,
+      "keywords": "Israel, free, Khaled Mashal, Hamas, Al Jazeera, Palestine, forum, embarrassment",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T16:40:13.116322",
+      "source_type": "Unknown"
+    },
+    {
+      "headline": "In the apartment where Asher Cohen was arrested, 5 grams of drugs were found, almost a gram of MMC drug and 78 thousand shekels (Uriah Keshet)",
+      "source": "-1001254976833",
+      "probability": 5,
+      "keywords": "apartment, arrested, drugs, grams, MMC, shekels, Uriah Keshet, Asher Cohen",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T16:40:13.116328",
+      "source_type": "Unknown"
+    },
+    {
+      "headline": "Claim by Euronews: $2.5 billion from Russia transferred to Iran secretly According to documents received by The Telegraph newspaper, a Russian state bank, shortly after the US withdrawal from the JCPOA by Trump's order and the reimposition of US sanctions against Iran, began secretly transferring $2.5 billion in cash in 34 shipments to Iran.",
+      "source": "sepah",
+      "probability": 10,
+      "keywords": "Russia, Iran, $2.5 billion, secret transfer, JCPOA, sanctions, shipments, bank",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T14:39:09+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "See the amount of snow at the fifth station of Tochal Sepah Cyber Guards @SEPAH",
+      "source": "sepah",
+      "probability": 0,
+      "keywords": "snow, station, Tochal, Sepah, Cyber Guards",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T14:39:09+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "The Regavim movement in response to the Cabinet decisions: \"The Israeli government has decided, the Oslo concept to the trash\" \"A struggle of many years, hundreds of discussions, field tours and in-depth studies led to the series of dramatic decisions that were made a short while ago in the security cabinet. Israeli governments throughout the generations hesitated, ignored and abandoned, and into the vacuum entered the murderous Palestinian Authority and worked to establish a terrorist state in the heart of the country. The decisions cancel a distorted reality of racism and discrimination against Jews regarding lands in Judea and Samaria: exposing the land registry that was confidential, canceling the Jordanian law that prohibits the sale of lands to Jews, enforcement against damage to heritage sites and environmental damage in Areas A and B, all these indicate: Zionism is not measured by declarations and talk, but by actions. We congratulate the members of the cabinet on the historic decision led by Defense Minister Katz and Finance Minister Smotrich and commit to continue acting and promoting a Zionist land policy throughout the entire country.\"",
       "source": "arabworld301news",
       "probability": 5,
@@ -17,9 +64,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T14:27:58+00:00",
       "source_type": "Telegram"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Member of the Political Council of Hezbollah of Lebanon: If a war is launched against Iran, oil exports in the Persian Gulf will be disrupted. Qamati: Iran insisted on its position and determined the location and agenda of the negotiations itself, and as a result, Netanyahu failed and became frustrated. Iran limited the negotiations solely to the nuclear case; Iran is a powerful country with independent sovereignty and defends itself. If a war is launched against Iran, Iran will stand firm and as a result, global trade will be damaged and the export and flow of oil in the Persian Gulf will be disrupted. Cyber Army of the Guardians @SEPAH",
       "source": "sepah",
@@ -255,6 +300,6 @@
       "source_type": "Telegram"
     }
   ],
-  "overall_probability": 20,
-  "last_updated": "2026-02-08 16:30:40"
+  "overall_probability": 35,
+  "last_updated": "2026-02-08 16:40:13"
 }
