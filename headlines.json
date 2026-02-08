@@ -1,6 +1,53 @@
 {
   "current_headlines": [
     {
+      "headline": "Unusual: A fighter jet was scrambled towards a Wizz Air plane after one of its passengers received threatening messages on his phone.",
+      "source": "amitsegal",
+      "probability": 15,
+      "keywords": "fighter jet, scrambled, Wizz Air, passenger, threatening messages",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T13:40:31+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The plane landed safely. The event has ended.",
+      "source": "amitsegal",
+      "probability": 10,
+      "keywords": "plane, landed, safely, event, ended",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T13:40:31+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "After the plane returned to Ben Gurion Airport, security guards checked passenger by passenger. After no unusual findings were found, the event was declared over.",
+      "source": "-1001254976833",
+      "probability": 10,
+      "keywords": "plane, returned, Ben Gurion Airport, security guards, checked, passengers, unusual findings, event, over",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T15:43:41.616990",
+      "source_type": "Unknown"
+    },
+    {
+      "headline": "Iranian Foreign Minister Araghchi: 'Their military deployment in the region does not scare us'",
+      "source": "mako",
+      "probability": 5,
+      "keywords": "Iranian, Foreign Minister, Araghchi, military, deployment, region, scare",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T15:43:22.263829",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Khaled Mashal: 'Hamas offered a ceasefire for five, for seven, for 10 years - this is a guarantee'",
+      "source": "mako",
+      "probability": 5,
+      "keywords": "Khaled Mashal, Hamas, offered, ceasefire, years, guarantee",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T15:43:22.263829",
+      "source_type": "Media Outlet"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Fresh satellite images obtained by the Iranian satellite recently launched into orbit show massive destruction of the Israeli Nevatim airbase during the '12-day war'. Iran completely destroyed it.",
       "source": "sepah_pasdaran_ru",
       "probability": 25,
@@ -44,9 +91,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T12:43:06+00:00",
       "source_type": "Telegram"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Fresh satellite images obtained by an Iranian satellite recently launched into orbit show massive destruction of the Israeli Nevatim airbase during the '12-day war'. Iran completely destroyed it.",
       "source": "sepah_pasdaran_ru",
@@ -138,6 +183,6 @@
       "source_type": "Telegram"
     }
   ],
-  "overall_probability": 75,
-  "last_updated": "2026-02-08 15:34:16"
+  "overall_probability": 10,
+  "last_updated": "2026-02-08 15:43:41"
 }
