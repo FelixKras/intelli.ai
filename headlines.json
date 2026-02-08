@@ -1,6 +1,26 @@
 {
   "current_headlines": [
     {
+      "headline": "Turkey and Egypt signed a weapons deal worth approximately $350 million, as part of Turkish President Recep Tayyip Erdogan's visit to Cairo. The agreement includes the export of the short-range air defense system TOLGA, alongside the establishment of a Turkish factory in Egypt for the production of 155mm artillery shells (as well as additional facilities for light ammunition), as part of deepening security cooperation between the two countries after years of tension. Publication on 301: Sanan Abu Ali 301 Arab World on Telegram",
+      "source": "arabworld301news",
+      "probability": 5,
+      "keywords": "Turkey, Egypt, weapons deal, air defense, artillery, security cooperation",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T22:08:10+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The death of the motorcyclist who was injured while riding on Highway 4 has been determined",
+      "source": "ynet",
+      "probability": 0,
+      "keywords": "death, motorcyclist, injured, Highway 4",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T23:05:06.696011",
+      "source_type": "Media Outlet"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Claim by Hebrew media: Iran has transferred some of its ballistic missiles to the east of the country It is estimated that the Iranians are moving their missiles to the east to make them more difficult to target. According to Israeli military estimates, if Iran is not attacked, its missile stockpile is expected to increase soon. Cyber Army of the Guardians @SEPAH",
       "source": "sepah",
       "probability": 65,
@@ -8,9 +28,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T22:52:13+00:00",
       "source_type": "Telegram"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Qatari contribution to the Gaza Strip - a collection of facts for the election year - cut and save for the election year many people (even politicians) tend to forget facts about the Qatari contribution, especially since 'Qatar' has become a particularly charged word in Israeli discourse. For your convenience, key milestones in the Qatari contribution deal are attached from its launch in 2018 until the outbreak of the war on 7.10. It is important to note that the deal was renewed every year at least - as detailed below: 1. In November 2018, Israel approved the 'Qatari deal' whereby Qatar would bring millions of dollars into the Gaza Strip (about 15 million dollars in cash). The purpose of the deal was to pay money to Hamas as part of an arrangement aimed at calming the terrorist activity on the perimeter fence in the Gaza Strip as part of the 'Return Marches'. Qatari money in exchange for quiet on the fence. On November 8, 2018, after the deal was approved, the first money entered the Strip - in cash, in suitcases. Lieberman resigned from his position as Defense Minister the week after the money entered (November 14, 2018). Benjamin Netanyahu was Prime Minister when the Qatari contribution deal was formulated. He also served as Defense Minister after Lieberman's resignation, for a year. 2. In December 2019, the first deal signed with Qatar at the end of 2018 ended and great efforts were made by Israel to renew it in order to preserve the quiet. It was indeed renewed in December 2019. Office holders: Prime Minister Benjamin Netanyahu. The Defense Minister was Naftali Bennett (who entered his position as Defense Minister on November 12, 2019). 3. In January 2021, a year later, the Qatari deal was renewed again and even increased to 30 million dollars per month (10 million dollars distributed to one hundred thousand needy families in Gaza, 10 million dollars in the form of Israeli fuel for the power plant to generate electricity and 10 million dollars for Hamas officials). Office holders: Prime Minister Benjamin Netanyahu. Defense Minister - Benny Gantz, who was appointed to the position in May 2020 as part of the parity government. 4. On May 10, 2021, Operation 'Guardian of the Walls' began in the Strip after a planned attack by Hamas - the operation ended on May 21, 2021. The flow of Qatari money stopped completely following the operation. 5. In June 2021, the new Bennett government was sworn in. The Qatari money did not transfer and the riots on the fence resumed, during the month of August, St.-Sgt. Barel Hadaria Shmueli, may his memory be a blessing, was shot on the fence (and later died of his wounds). His death was a catalyst to reach a renewed arrangement and in September 2021, after 4 months of stopping the Qatari money, the Bennett government initiated a new deal with Qatar whereby a third of the money entered through coupons but the amount of money to Hamas was increased according to the following details - 30 million dollars of which: 10 million dollars for needy families in the form of coupons instead of cash. 10 million dollars for the power plant in Gaza 10 million dollars for Hamas officials in the form of Egyptian fuel which Hamas sold to Gaza residents (and also collected the difference between the price of Egyptian fuel and the Israeli one so that it earned more than 10 million dollars from this item). Office holders: Prime Minister Naftali Bennett. Defense Minister Benny Gantz. 6. At the end of March 2022, Qatar announced the renewal of the transfer of Qatari money for an additional year. Office holders: Prime Minister Naftali Bennett. Defense Minister Benny Gantz. 7. At the end of December 2022, Qatar announced that it would renew the Qatari contribution for the entire year of 2023 according to the same familiar outline. Office holders: Prime Minister Yair Lapid (transition government). Defense Minister - Benny Gantz. 8. In 2023, there was irregular (intermittent) distribution of the Qatari money due to security instability vis-à-vis Gaza. In September, the Qatari contribution was renewed in an attempt to calm the escalation vis-à-vis Gaza in the preceding month and after a threat to renew the Return Marches. The Qatari contribution was stopped after the war broke out on 7.10. Office holders: Prime Minister Benjamin Netanyahu. Defense Minister Yoav Gallant. ## Summary: Netanyahu was Prime Minister during the establishment of the first Qatari deal and during 4 renewals of it. Bennett was Prime Minister twice when the deal was renewed (once after a long break following Guardian of the Walls and a change of government in Israel). Bennett was Defense Minister during the first renewal of the Qatari deal. Lapid was Prime Minister during one renewal of the deal. Gantz was Defense Minister during 5 deal renewals with Qatar. Gallant was Defense Minister during one renewal of the Qatari deal.",
       "source": "abualiexpress",
@@ -1026,6 +1044,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 45,
-  "last_updated": "2026-02-08 22:55:59"
+  "overall_probability": 0,
+  "last_updated": "2026-02-08 23:05:19"
 }
