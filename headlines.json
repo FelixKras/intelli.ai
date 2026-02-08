@@ -1,6 +1,26 @@
 {
   "current_headlines": [
     {
+      "headline": "The attack on religious Zionism is as ugly as it is foolish.",
+      "source": "amitsegal",
+      "probability": 5,
+      "keywords": "attack, religious, Zionism, ugly, foolish",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T17:50:01+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Yinon Magal responds to the 'storm over the arrangement yeshivas'",
+      "source": "-1001254976833",
+      "probability": 2,
+      "keywords": "Yinon, Magal, responds, storm, arrangement, yeshivas",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T17:57:01.633065",
+      "source_type": "Unknown"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Ben Gvir to the Attorney General: \"I heard you, your advice was not accepted\"",
       "source": "ynet",
       "probability": 5,
@@ -17,9 +37,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T17:44:34+00:00",
       "source_type": "Telegram"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "The victory of Sanae Takaichi, Prime Minister of Japan, is turning out to be even greater: her party gained two-thirds (310) of the seats in parliament even without additional parties. Together with another coalition party, Takaichi's coalition gained 341 seats out of 465 possible. A huge and unprecedented victory. ## Foreign Minister Gideon Sa'ar hurried to congratulate Takaichi on her great victory. ## Takaichi presented conservative positions, a tough approach towards China and a warm and prominent connection to President Trump - this paid off for her at the polls. [To comment on the article click here]",
       "source": "abualiexpress",
@@ -201,6 +219,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 15,
-  "last_updated": "2026-02-08 17:48:13"
+  "overall_probability": 10,
+  "last_updated": "2026-02-08 17:57:01"
 }
