@@ -1,6 +1,26 @@
 {
   "current_headlines": [
     {
+      "headline": "Arab woman first in Democratic party: Social activist Sumaya Bashir announced that she will run in the Democratic party primaries. \"I will work for genuine Arab-Jewish partnership, because all of Israeli society deserves a better future,\" Bashir stated (Mohammed Majdal)",
+      "source": "-1001254976833",
+      "probability": 5,
+      "keywords": "Arab, Democratic party, primaries, Arab-Jewish partnership, Israeli society",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T19:30:21.283935",
+      "source_type": "Unknown"
+    },
+    {
+      "headline": "Accounts supporting the Julani regime publish photos of 2 children who were recently released from ISIS detention camps that were under SDF control under the title: \"Our Caliphate Cubs\" with an ISIS background song. [Hananel Aviv]",
+      "source": "arabworld301news",
+      "probability": 2,
+      "keywords": "Julani regime, children, released, ISIS detention camps, SDF control, Caliphate Cubs",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T19:21:14+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "New report from the Zionist regime's television about the destruction of Iranian missiles",
       "source": "sepah",
       "probability": 65,
@@ -35,9 +55,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T19:18:13+00:00",
       "source_type": "Telegram"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Active elements working in favor of the Zionist regime and America have been arrested. These individuals include the head of the Reform Front and some of its other members. The Tehran prosecutor has filed charges against members of a political and media movement that sought to whitewash the terrorist actions of December and influence the country's internal security. This movement, with extensive organizational activity in cyberspace and behind the scenes, has tried to inflame the country's political and social situation simultaneously with the threats from America and the Zionist regime. This circle of radical elements, through accusations and publishing false positions, was active in the path of destroying national cohesion and inciting the country's internal atmosphere. Cyber Army of the Guardians @SEPAH",
       "source": "sepah",
@@ -516,6 +534,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 45,
-  "last_updated": "2026-02-08 19:21:09"
+  "overall_probability": 10,
+  "last_updated": "2026-02-08 19:30:21"
 }
