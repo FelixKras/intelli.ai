@@ -1,6 +1,44 @@
 {
   "current_headlines": [
     {
+      "headline": "Fatah movement: We condemn the decisions of the Israeli cabinet that aim to deepen the annexation of the West Bank and give legitimacy to land theft. We see these decisions as a war on Palestinian existence and a thwarting of the two-state solution. These decisions are null and void decisions. We will continue to protect the lands and resist these plans.",
+      "source": "abualiexpress",
+      "probability": 5,
+      "keywords": "Fatah, condemn, Israeli cabinet, annexation, West Bank, land theft, Palestinian existence, two-state solution, null, protect lands, resist",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T18:24:40+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Jordanian Foreign Ministry: We strongly condemn the illegal measures approved by the Israeli government to deepen and entrench settlements.",
+      "source": "abualiexpress",
+      "probability": 5,
+      "keywords": "Jordanian Foreign Ministry, condemn, illegal measures, Israeli government, deepen, entrench, settlements",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T18:24:40+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Hamas spokesman Hazem Qassem also responds to the cabinet decisions regarding lands in the West Bank: The extreme right-wing government seeks to expand the genocide war and eliminate Palestinian existence on Palestinian lands. The recent decisions of the cabinet highlight the colonialist nature of the occupation government that seeks to swallow Palestinian lands and expel their original residents. This aggressive policy poses a real existential threat to the Palestinian people and their rights.",
+      "source": "abualiexpress",
+      "probability": 5,
+      "keywords": "Hamas, spokesman, Hazem Qassem, cabinet decisions, West Bank, extreme right-wing government, genocide war, eliminate Palestinian existence, colonialist, occupation government, swallow lands, expel residents, existential threat",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T18:24:40+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Ben Gvir: Reconstructing Gaza is a wrong move. The Minister of Internal Security of the Zionist regime: Reconstructing Gaza is a wrong move, but eventually the American government will come to the conclusion that reconstructing the Gaza Strip is an unrealistic move. Kushner and Steve Witkoff have placed wrong ideas about Gaza in Trump's mind.",
+      "source": "sepah",
+      "probability": 10,
+      "keywords": "Ben Gvir, reconstructing Gaza, wrong move, Minister of Internal Security, Zionist regime, American government, unrealistic, Kushner, Steve Witkoff, wrong ideas, Trump",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T18:21:09+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "A US military plane is currently flying from Texas on its way to Tel Aviv.",
       "source": "arabworld301news",
       "probability": 65,
@@ -44,9 +82,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T18:17:03.919091",
       "source_type": "Unknown"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Hamas spokesman Hazem Qassem also responds to the Cabinet's decisions regarding the lands in the West Bank: The extreme right-wing government seeks to expand the genocide war and eliminate Palestinian existence on Palestinian lands. The recent decisions of the Cabinet emphasize the colonialist nature of the occupation government that seeks to swallow Palestinian lands and expel their original residents. This aggressive policy constitutes a real existential danger to the Palestinian people and their rights.",
       "source": "abualiexpress",
@@ -291,6 +327,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 65,
-  "last_updated": "2026-02-08 18:17:03"
+  "overall_probability": 25,
+  "last_updated": "2026-02-08 18:26:14"
 }
