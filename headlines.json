@@ -1,6 +1,44 @@
 {
   "current_headlines": [
     {
+      "headline": "Iran: Documentation from the official ceremony in honor of Iranian Air Force Day that took place today - Supreme Leader Ali Khamenei canceled his planned speech and did not participate in the ceremony.",
+      "source": "abualiexpress",
+      "probability": 15,
+      "keywords": "Iran, ceremony, Air Force Day, Supreme Leader, Ali Khamenei, canceled, speech, participated",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T15:09:47+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "For the first time in Israel: Haifa Municipality began work on establishing a system of escalators throughout the city. The new system will allow you to move easily and quickly between different parts of the city, and save you the strenuous climb on foot. The project was born to address Haifa's challenging inclines and improve quality of life and connectivity between neighborhoods. Work on the first section, on Ma'ale HaShichrur Street, is expected to last about ten months.",
+      "source": "-1001254976833",
+      "probability": 0,
+      "keywords": "Israel, Haifa, Municipality, escalators, city, move, climb, project, neighborhoods",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T17:18:40.046650",
+      "source_type": "Unknown"
+    },
+    {
+      "headline": "The talked-about flight list",
+      "source": "arabworld301news",
+      "probability": 10,
+      "keywords": "flight, list",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T15:14:31+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The network reports on 40 US Air Force aircraft that are currently making their way to the Middle East. In addition, according to foreign reports in recent days, interesting movements of the Royal Air Force, Italian and French in the Middle East.",
+      "source": "arabworld301news",
+      "probability": 65,
+      "keywords": "network, reports, US Air Force, aircraft, Middle East, movements, Royal Air Force, Italian, French",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T15:14:31+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "The death of the child who was critically injured in an accident near Ofakim has been determined",
       "source": "ynet",
       "probability": 5,
@@ -35,9 +73,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T15:00:12+00:00",
       "source_type": "Telegram"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Turkish experts: Iranians have been deceiving the West for 30 years with the 'watch the tightrope walker' strategy, everyone was focused on the nuclear program, but Iran quietly upgraded its missile and drone arsenal to the level and capability of Russia, now with tens of thousands of missiles including Khorramshahr4, it leaves every American aircraft carrier defenseless and has plunged Israel into a scenario of terror... Cyber Guards Corps @SEPAH",
       "source": "sepah",
@@ -408,6 +444,6 @@
       "source_type": "Telegram"
     }
   ],
-  "overall_probability": 5,
-  "last_updated": "2026-02-08 17:08:38"
+  "overall_probability": 65,
+  "last_updated": "2026-02-08 17:18:40"
 }
