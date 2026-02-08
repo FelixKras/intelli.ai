@@ -1,6 +1,35 @@
 {
   "current_headlines": [
     {
+      "headline": "Arab terrorism in Judea and Samaria: A Jewish woman was lightly injured in a stone-throwing attack near Eli, after terrorists threw stones at her vehicle. The terrorists fled. Hillel Bitton Rosen",
+      "source": "arabworld301news",
+      "probability": 5,
+      "keywords": "Arab, terrorism, Judea, Samaria, Jewish, woman, injured, stone-throwing, attack, Eli, terrorists, vehicle, fled",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T13:56:49+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "How the ghostly shadow of communism controls our world (A special NTD television series translated into Hebrew) Many people believe that communism disappeared with the end of the Cold War and the disintegration of the communist bloc in Eastern Europe. However, the truth is that communist ideology has only cunningly changed its form and continued to spread throughout the world. China, North Korea, Vietnam, and Cuba declare themselves communist. Former Soviet Union countries are still heavily influenced by communist ideology and practices, and countries in North America and Europe are welcoming communist influences with open arms without many people even realizing it. Over 100 years, communism has established massive dictatorships, caused more than 100 million deaths, enslaved billions of people, and brought the world to the brink of nuclear war and near destruction. However, the invisible damage is even worse, because communism has declared war on humanity itself - including the most basic human values and human dignity. This special television series reviews the true nature of communism and its secret goal. [To watch in Hebrew click here]( [For the series in English]( [For the series in Arabic]( [For the series in Russian]( •To join the NTD Hebrew channel on Telegram click here:",
+      "source": "abualiexpress",
+      "probability": 1,
+      "keywords": "communism, shadow, world, ideology, spread, dictatorships, deaths, enslaved, nuclear war, destruction, humanity, values, dignity",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T14:00:17+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Marketing content",
+      "source": "abualiexpress",
+      "probability": 0,
+      "keywords": "Marketing, content",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T14:00:17+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Unusual: A fighter jet was scrambled towards a Wizz Air plane after one of its passengers received threatening messages on his phone.",
       "source": "amitsegal",
       "probability": 15,
@@ -44,9 +73,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T15:43:22.263829",
       "source_type": "Media Outlet"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Fresh satellite images obtained by the Iranian satellite recently launched into orbit show massive destruction of the Israeli Nevatim airbase during the '12-day war'. Iran completely destroyed it.",
       "source": "sepah_pasdaran_ru",
@@ -183,6 +210,6 @@
       "source_type": "Telegram"
     }
   ],
-  "overall_probability": 10,
-  "last_updated": "2026-02-08 15:43:41"
+  "overall_probability": 15,
+  "last_updated": "2026-02-08 16:02:29"
 }
