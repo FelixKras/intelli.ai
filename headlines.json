@@ -1,6 +1,44 @@
 {
   "current_headlines": [
     {
+      "headline": "Active elements working in favor of the Zionist regime and America have been arrested. These individuals include the head of the Reform Front and some of its other members. The Tehran prosecutor has filed charges against members of a political and media movement that sought to whitewash the terrorist actions of December and influence the country's internal security. This movement, with extensive organizational activity in cyberspace and behind the scenes, has tried to inflame the country's political and social situation simultaneously with the threats from America and the Zionist regime. This circle of radical elements, through accusations and publishing false positions, was active in the path of destroying national cohesion and inciting the country's internal atmosphere. Cyber Army of the Guardians @SEPAH",
+      "source": "sepah",
+      "probability": 25,
+      "keywords": "arrested, Zionist regime, America, Tehran prosecutor, terrorist actions, security, threats, political situation, social situation, radical elements, national cohesion, internal atmosphere, Cyber Army",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T19:09:11+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Report that Israel released this evening a number of Palestinian prisoners to Gaza without compensation.",
+      "source": "arabworld301news",
+      "probability": 15,
+      "keywords": "Israel, released, Palestinian, prisoners, Gaza, without compensation, evening",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T19:10:41+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Families from Majdal Shams are suing Hezbollah for 80 million shekels on behalf of the victims of the children's disaster in Majdal Shams. At the same time, an additional lawsuit is being filed these days against Hezbollah on behalf of over 30 injured from the disaster in Majdal Shams for an amount of 165 million shekels",
+      "source": "arabworld301news",
+      "probability": 10,
+      "keywords": "Families, Majdal Shams, suing, Hezbollah, million shekels, victims, children's disaster, injured, lawsuit",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T19:10:41+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "60 seconds with the Persian Gulf, 19 Bahman: From Mohammad Shariatmadari's expression of hope for reviving the regulatory role of NPC to the commissioning of the seventh line of POY unit of Shahid Tandgoyan Petrochemical @SEPAH",
+      "source": "sepah",
+      "probability": 5,
+      "keywords": "Persian Gulf, Mohammad Shariatmadari, regulatory role, NPC, commissioning, seventh line, POY unit, Shahid Tandgoyan Petrochemical",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T19:09:11+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Jordanian Foreign Ministry: We strongly condemn the illegal steps approved by the Israeli government to deepen and entrench settlements.",
       "source": "abualiexpress",
       "probability": 5,
@@ -35,9 +73,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T18:59:16+00:00",
       "source_type": "Telegram"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Jordanian Foreign Ministry: We strongly condemn the illegal steps approved by the Israeli government to deepen and entrench settlements.",
       "source": "abualiexpress",
@@ -445,5 +481,5 @@
     }
   ],
   "overall_probability": 35,
-  "last_updated": "2026-02-08 19:02:47"
+  "last_updated": "2026-02-08 19:11:56"
 }
