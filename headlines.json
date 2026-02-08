@@ -1,6 +1,26 @@
 {
   "current_headlines": [
     {
+      "headline": "Iran announced a NOTAM over the Semnan area, where there is a missile base and a testing base. According to the announcement, the airspace above Semnan has been closed and missile launches will be conducted.",
+      "source": "abualiexpress",
+      "probability": 65,
+      "keywords": "Iran, NOTAM, Semnan, missile base, testing base, airspace, closed, missile launches",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T19:48:24+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Thailand: Prime Minister Chernovircul won the elections, his party won a majority with 192 seats",
+      "source": "ynet",
+      "probability": 0,
+      "keywords": "Thailand, Prime Minister, Chernovircul, elections, party, majority, seats",
+      "date": "08/02/2026",
+      "datetime_iso": "2026-02-08T19:57:15.455574",
+      "source_type": "Media Outlet"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "After five hours: The meeting of the ultra-Orthodox Knesset members with the legal advisor of the Foreign Affairs and Defense Committee has ended in an attempt to reach agreements on the conscription law",
       "source": "-1001254976833",
       "probability": 5,
@@ -26,9 +46,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T19:48:16.105929",
       "source_type": "Media Outlet"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Elections in Japan: The Reiwa Shinsengumi party, a left-wing pro-China, pro-Palestinian party connected to the Antifa organization, lost all 9 of its seats in parliament. It is now fighting for a chance for one seat. This party organized the pro-Palestinian protests against Israel in Japan.",
       "source": "abualiexpress",
@@ -571,5 +589,5 @@
     }
   ],
   "overall_probability": 5,
-  "last_updated": "2026-02-08 19:48:28"
+  "last_updated": "2026-02-08 19:57:26"
 }
