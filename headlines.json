@@ -1,6 +1,17 @@
 {
   "current_headlines": [
     {
+      "headline": "Trump congratulated the Japanese Prime Minister on her election victory",
+      "source": "ynet",
+      "probability": 0,
+      "keywords": "Trump, congratulated, Japanese, Prime Minister, election, victory",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T01:49:51.119058",
+      "source_type": "Media Outlet"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Fauda in southern Lebanon Lebanese media reported today that an elite IDF force carried out a ground infiltration into the town of Habariya in the Arqoub area of southern Lebanon and kidnapped in the evening an activist in the Islamic group, Al-Jamaa Al-Islamiya, named Atwi Atwi, who was taken to an unknown location. This event occurs against the backdrop of ongoing tensions and a recent increase in invasions and kidnappings carried out by Israeli forces in the border areas with Lebanon according to the report. Gili R. Security 301 Arab World on Telegram Http://t.me/arabworld301news",
       "source": "arabworld301news",
       "probability": 15,
@@ -8,9 +19,7 @@
       "date": "09/02/2026",
       "datetime_iso": "2026-02-09T01:28:43+00:00",
       "source_type": "Telegram"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Nir Kevenis, Zionist economic journalist: Possible Iranian attacks will target residential areas, not just important buildings. The cost of these possible attacks is estimated at at least 10 billion shekels, which will turn this war into a huge economic event alongside its security dimension. For clarification: The image above shows Iran's attack on a location in the Bat Yam area in southern Tel Aviv that was targeted by Iran's ballistic missile during the 12-day war. Cyber Guards Corps @SEPAH",
       "source": "sepah",
@@ -1098,6 +1107,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 10,
-  "last_updated": "2026-02-09 01:31:41"
+  "overall_probability": 0,
+  "last_updated": "2026-02-09 01:50:00"
 }
