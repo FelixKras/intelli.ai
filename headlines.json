@@ -1,6 +1,26 @@
 {
   "current_headlines": [
     {
+      "headline": "Kidnapping of the terrorist from southern Lebanon: According to Lebanese sources, Muhammad Atwi, responsible for the terrorist organization Al-Jama'a Al-Islamiya in the village of Al-Habariya in southern Lebanon, was kidnapped by an Israeli force last night in southern Lebanon. According to the mayor of Al-Habariya, the kidnapping operation lasted 15 minutes. Lebanese army forces are currently checking Atwi's house to ensure it was not booby-trapped by the Israeli force. It was reported that the Israeli force took documents with it and conducted a search of the building.",
+      "source": "abualiexpress",
+      "probability": 25,
+      "keywords": "kidnapping, terrorist, southern Lebanon, Israeli force, operation, documents, search",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T07:52:53+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Report in Lebanon: Three killed in IDF attack in the south of the country",
+      "source": "ynet",
+      "probability": 20,
+      "keywords": "report, Lebanon, killed, IDF attack, south",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T08:05:05.417461",
+      "source_type": "Media Outlet"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Kidnapping of the terrorist from southern Lebanon: According to Lebanese sources, Muhammad Atoui, responsible for the terrorist organization Al-Jama'a Al-Islamiya in the village of Al-Habariya in southern Lebanon, was kidnapped by an Israeli force last night in southern Lebanon. According to the mayor of Al-Habariya, the kidnapping operation lasted 15 minutes. Lebanese army forces are currently checking Atoui's house to ensure it was not booby-trapped by the Israeli force. It was reported that the Israeli force took documents with them and conducted a search of the building.",
       "source": "abualiexpress",
       "probability": 25,
@@ -35,9 +55,7 @@
       "date": "09/02/2026",
       "datetime_iso": "2026-02-09T07:55:56.376732",
       "source_type": "Media Outlet"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "A martyr in an Israeli attack on a vehicle in Lebanon News sources reported that in a drone attack by the Zionist regime on a vehicle in the Yanouh area in the city of Tyre in southern Lebanon, one person was martyred. Cyber Guard Corps @SEPAH",
       "source": "sepah",
@@ -1566,6 +1584,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 20,
-  "last_updated": "2026-02-09 07:56:14"
+  "overall_probability": 0,
+  "last_updated": "2026-02-09 08:05:20"
 }
