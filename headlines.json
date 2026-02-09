@@ -1,6 +1,26 @@
 {
   "current_headlines": [
     {
+      "headline": "In a nightly operation in the Mount Dov area in southern Lebanon: IDF forces arrested a senior terrorist in the Islamic Jammah terrorist organization",
+      "source": "-1001254976833",
+      "probability": 15,
+      "keywords": "operation, Mount Dov, southern Lebanon, IDF, arrested, senior terrorist, Islamic Jammah, terrorist organization",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T06:05:46.913980",
+      "source_type": "Unknown"
+    },
+    {
+      "headline": "IDF Spokesperson: In a nightly operation in the Mount Dov area in southern Lebanon: Division 210 forces arrested a senior terrorist in the Islamic Jammah terrorist organization following intelligence indications collected in recent weeks, IDF forces raided during the night (Sunday), a building in the Mount Dov area and arrested a senior terrorist in the Islamic Jammah terrorist organization. The terrorist was arrested and transferred for further investigation in Israeli territory. In addition, weapons were located in the building where the terrorist was arrested. The Islamic Jammah terrorist organization has promoted throughout the war and continues to try to promote terrorist operations against the State of Israel and its citizens in the northern sector. IDF forces will continue to act to remove any threat to the State of Israel.",
+      "source": "arabworld301news",
+      "probability": 15,
+      "keywords": "IDF, operation, Mount Dov, southern Lebanon, arrested, senior terrorist, Islamic Jammah, terrorist organization, intelligence, weapons, threat, Israel",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T06:00:28+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Qatari contribution to the Gaza Strip - a collection of facts for the election year - cut and save for the election year many people (even politicians) tend to forget facts about the Qatari contribution, especially when 'Qatar' has become a particularly charged word in Israeli discourse. For your convenience, key milestones in the Qatari contribution deal are attached from its launch in 2018 until the outbreak of the war on 7.10. It is important to note that the deal was renewed every year at least - as detailed below: 1. In November 2018, Israel approved the 'Qatari deal' whereby Qatar would bring millions of dollars into the Gaza Strip (about 15 million dollars in cash). The purpose of the deal was to pay money to Hamas as part of an arrangement aimed at calming the terrorist activity on the perimeter fence of the Strip as part of the 'Return Marches'. Qatari money in exchange for quiet on the fence. On November 8, 2018, after the deal was approved, the first money entered the Strip - in cash, in suitcases. Lieberman resigned from his position as Defense Minister in the week following the entry of the money (November 14, 2018). Benjamin Netanyahu was Prime Minister when the Qatari contribution deal was formulated. He also served as Defense Minister after Lieberman's resignation, for a year. 2. In December 2019, the first deal signed with Qatar at the end of 2018 ended and great efforts were made by Israel to renew it in order to preserve the quiet. It was indeed renewed in December 2019. Office holders: Prime Minister Benjamin Netanyahu. The Defense Minister was Naftali Bennett (who entered his position as Defense Minister on November 12, 2019). 3. In January 2021, a year later, the Qatari deal was renewed again and even increased to 30 million dollars per month (10 million dollars distributed to one hundred thousand needy families in Gaza, 10 million dollars in the form of Israeli fuel for the power plant to generate electricity and 10 million dollars for Hamas officials). Office holders: Prime Minister Benjamin Netanyahu. Defense Minister - Benny Gantz, who was appointed to the position in May 2020 as part of the parity government. 4. On May 10, 2021, Operation 'Guardian of the Walls' began in the Strip after a planned attack by Hamas - the operation ended on May 21, 2021. The flow of Qatari money stopped completely following the operation. 5. In June 2021, the new Bennett government was sworn in. The Qatari money did not transfer and the riots on the fence resumed, during the month of August Sergeant Major Barel Hadaria Shmueli was shot on the fence (and later died of his wounds). His death was a catalyst to reach a renewed arrangement and in September 2021, after 4 months of stopping the Qatari money, the Bennett government initiated a new deal with Qatar whereby a third of the money entered through coupons but the amount of money to Hamas was increased according to the following details - 30 million dollars of which: 10 million dollars to needy families in the form of coupons instead of cash. 10 million dollars to the power plant in Gaza 10 million dollars to Hamas officials in the form of Egyptian fuel which Hamas sold to Gaza residents (and also collected the difference between the price of Egyptian fuel and the Israeli one so that it earned more than 10 million dollars in this item). Office holders: Prime Minister Naftali Bennett. Defense Minister Benny Gantz. 6. At the end of March 2022, Qatar announced the renewal of the transfer of Qatari money for an additional year. Office holders: Prime Minister Naftali Bennett. Defense Minister Benny Gantz. 7. At the end of December 2022, Qatar announced that it would renew the Qatari contribution for the entire year of 2023 in the same familiar format. Office holders: Prime Minister Yair Lapid (transition government). Defense Minister - Benny Gantz. 8. In 2023 there was irregular (intermittent) distribution of Qatari money due to security instability towards Gaza. In September, the Qatari contribution was renewed in an attempt to calm the escalation towards Gaza in the preceding month and after a threat to renew the Return Marches. The Qatari contribution stopped after the war broke out on 7.10. Office holders: Prime Minister Benjamin Netanyahu. Defense Minister Yoav Gallant. ## Summary: Netanyahu was Prime Minister during the establishment of the first Qatari deal and during 4 renewals of it. Bennett was Prime Minister twice when the deal was renewed (once after a long break following Guardian of the Walls and a change of government in Israel). Bennett was Defense Minister during the first renewal of the Qatari deal. Lapid was Prime Minister when the deal was renewed once. Gantz was Defense Minister in 5 deal renewals with Qatar. Gallant was Defense Minister during one renewal of the Qatari deal.",
       "source": "abualiexpress",
       "probability": 0,
@@ -8,9 +28,7 @@
       "date": "08/02/2026",
       "datetime_iso": "2026-02-08T20:19:31+00:00",
       "source_type": "Telegram"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Shameless statements by Parasto Salehi and Mazdak Mirzaei in the live television program of the terrorist Mossad; foreign countries should launch a military attack on Iran! These statements come while according to prominent international analysts, America and Western countries are seeking to swallow Iran; exactly the same calamity that they brought upon Iraq, Afghanistan, Libya, Syria and other countries! Cyber Army of the Guardians @SEPAH",
       "source": "sepah",
@@ -1224,6 +1242,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 30,
-  "last_updated": "2026-02-09 05:47:33"
+  "overall_probability": 10,
+  "last_updated": "2026-02-09 06:05:46"
 }
