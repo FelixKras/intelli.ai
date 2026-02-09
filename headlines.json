@@ -1,6 +1,17 @@
 {
   "current_headlines": [
     {
+      "headline": "Shameless statements by Parasto Salehi and Mazdak Mirzaei in the live television program of the terrorist Mossad; foreign countries should launch a military attack on Iran! These statements come while according to prominent international analysts, America and Western countries are seeking to swallow Iran; exactly the same calamity that they brought upon Iraq, Afghanistan, Libya, Syria and other countries! Cyber Army of the Guardians @SEPAH",
+      "source": "sepah",
+      "probability": 25,
+      "keywords": "military attack, Iran, foreign countries, America, Western countries, statements, Mossad, terrorist, analysts, swallow, Iraq, Afghanistan, Libya, Syria, calamity",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T05:24:51+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "6 caregivers arrested in Samaria on suspicion of abuse in a children's daycare, kindergarten manager detained",
       "source": "ynet",
       "probability": 0,
@@ -8,9 +19,7 @@
       "date": "09/02/2026",
       "datetime_iso": "2026-02-09T05:19:46.547315",
       "source_type": "Media Outlet"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Weather forecast: Today partly cloudy, with a slight drop in temperatures, still significantly higher than the seasonal average. Possible haze. Predicted temperatures for today and tonight: Kiryat Shmona 22-15, Katzrin 18-11, Safed 16-11, Tiberias 22-14, Nazareth 18-12, Haifa 21-14, Tel Aviv 23-14, Modi'in 23-12, Jerusalem 21-14, Ariel 22-14, Ashkelon 22-15, Ein Gedi 30-22, Be'er Sheva 26-16, Arad 24-14, Mitzpe Ramon 24-16, Eilat 28-19 Lior Sudri",
       "source": "-1001254976833",
@@ -1206,6 +1215,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 0,
-  "last_updated": "2026-02-09 05:19:56"
+  "overall_probability": 30,
+  "last_updated": "2026-02-09 05:29:04"
 }
