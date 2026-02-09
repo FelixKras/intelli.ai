@@ -1,6 +1,26 @@
 {
   "current_headlines": [
     {
+      "headline": "Weather forecast: Today partly cloudy, with a slight drop in temperatures, still significantly higher than the seasonal average. Possible haze. Predicted temperatures for today and tonight: Kiryat Shmona 22-15, Katzrin 18-11, Safed 16-11, Tiberias 22-14, Nazareth 18-12, Haifa 21-14, Tel Aviv 23-14, Modi'in 23-12, Jerusalem 21-14, Ariel 22-14, Ashkelon 22-15, Ein Gedi 30-22, Be'er Sheva 26-16, Arad 24-14, Mitzpe Ramon 24-16, Eilat 28-19 Lior Sudri",
+      "source": "-1001254976833",
+      "probability": 0,
+      "keywords": "weather, forecast, cloudy, temperatures, haze, predicted, seasonal, average",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T05:10:50.098019",
+      "source_type": "Unknown"
+    },
+    {
+      "headline": "Police conducting exercise in Kafr Qasim area, expected movement of security vehicles",
+      "source": "ynet",
+      "probability": 5,
+      "keywords": "police, conducting, exercise, Kafr Qasim, area, expected, movement, security, vehicles",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T05:10:32.157916",
+      "source_type": "Media Outlet"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Reports in Lebanon: Israel kidnapped in the south of the country a senior member of Al-Jama'a Al-Islamiya",
       "source": "ynet",
       "probability": 15,
@@ -8,9 +28,7 @@
       "date": "09/02/2026",
       "datetime_iso": "2026-02-09T04:51:45.892736",
       "source_type": "Media Outlet"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Weather forecast: A slight decrease in temperatures, which will still be higher than usual",
       "source": "ynet",
@@ -1179,6 +1197,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 20,
-  "last_updated": "2026-02-09 04:51:56"
+  "overall_probability": 0,
+  "last_updated": "2026-02-09 05:10:50"
 }
