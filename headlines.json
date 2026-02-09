@@ -1,6 +1,44 @@
 {
   "current_headlines": [
     {
+      "headline": "Lebanese sources report casualties in an Israeli drone attack on a vehicle in the village of Yanuh in southern Lebanon a short time ago. This attack comes after several days of a pause in this type of activity.",
+      "source": "abualiexpress",
+      "probability": 15,
+      "keywords": "Lebanese, casualties, Israeli, drone, attack, vehicle, Yanuh, southern, Lebanon",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T06:49:58+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Report of an attack on a vehicle in southern Lebanon.",
+      "source": "arabworld301news",
+      "probability": 10,
+      "keywords": "Report, attack, vehicle, southern, Lebanon",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T06:43:57+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "IDF Spokesperson: We attacked a Hezbollah terrorist in southern Lebanon",
+      "source": "ynet",
+      "probability": 15,
+      "keywords": "IDF, Spokesperson, attacked, Hezbollah, terrorist, southern, Lebanon",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T06:52:15.475605",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "A contractor damaged the infrastructure of the outpatient clinics at Ichilov, several departments were evacuated",
+      "source": "ynet",
+      "probability": 0,
+      "keywords": "contractor, damaged, infrastructure, outpatient, clinics, Ichilov, departments, evacuated",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T06:52:15.475605",
+      "source_type": "Media Outlet"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "A terrorist emerged from a tunnel in Rafah and opened fire towards an IDF force, no casualties among our forces",
       "source": "ynet",
       "probability": 5,
@@ -44,9 +82,7 @@
       "date": "09/02/2026",
       "datetime_iso": "2026-02-09T06:43:22.219899",
       "source_type": "Unknown"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Four months after the ceasefire, to the great surprise there are still living terrorists in the Rafah pocket. An IDF force working on dismantling a tunnel encountered terrorists and killed apparently four of them.",
       "source": "amitsegal",
@@ -1377,6 +1413,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 45,
-  "last_updated": "2026-02-09 06:43:22"
+  "overall_probability": 10,
+  "last_updated": "2026-02-09 06:52:29"
 }
