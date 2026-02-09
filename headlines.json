@@ -1,6 +1,17 @@
 {
   "current_headlines": [
     {
+      "headline": "Image of the presence of Amir Mousavi and Dr. Araghchi in the parliament. Cyber Guard Sepah @SEPAH",
+      "source": "sepah",
+      "probability": 5,
+      "keywords": "image, presence, Amir Mousavi, Dr. Araghchi, parliament, Cyber Guard, Sepah",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T07:37:32+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "4 kilometers deep into the territory: Additional details about the operation to arrest the senior terrorist in Lebanese territory The special force of the IDF penetrated 4 km deep into Lebanese territory, crossed the main streets of the village and broke into the terrorist's house. After the break-in, the force arrested him, tied up his wife and confiscated documents.",
       "source": "-1001254976833",
       "probability": 25,
@@ -8,9 +19,7 @@
       "date": "09/02/2026",
       "datetime_iso": "2026-02-09T07:28:59.343998",
       "source_type": "Unknown"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "IDF confirms: 4 terrorists emerged from a tunnel in eastern Rafah, fired at our forces - and were eliminated \"This is a blatant violation of the ceasefire agreement, the IDF views this seriously\"",
       "source": "amitsegal",
@@ -1503,6 +1512,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 10,
-  "last_updated": "2026-02-09 07:28:59"
+  "overall_probability": 20,
+  "last_updated": "2026-02-09 07:37:59"
 }
