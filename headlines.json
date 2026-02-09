@@ -1,6 +1,53 @@
 {
   "current_headlines": [
     {
+      "headline": "A terrorist emerged from a tunnel in Rafah and opened fire towards an IDF force, no casualties among our forces",
+      "source": "ynet",
+      "probability": 5,
+      "keywords": "terrorist, tunnel, Rafah, opened fire, IDF force, no casualties",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T06:42:55.339745",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "The event is not far from the Rafah crossing",
+      "source": "amitsegal",
+      "probability": 15,
+      "keywords": "event, not far, Rafah crossing",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T06:34:59+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Netanyahu admits to Iran's hidden power against the American fleet in a video that the Prime Minister of the Zionist regime published on the social network 'TikTok' about a possible American attack on Iran, Iran was mentioned as a dangerous rival to the United States naval fleet. After referring to the power of the United States fleet, the video mentioned Iran as a dangerous rival to the American fleet and wrote: 'Compared to Iran's naval and air force, this collection is much more advanced and powerful. However, Iran's real power is not in its ships or aircraft. Iran has focused on other areas in the past ten years: accumulating a large volume of missiles, extensive development of low-cost drones, and supporting armed groups (resistance groups) throughout the region.' According to this report, 'These tools allow Iran to confront and strike from different paths even against a very powerful military force. This is what makes Iran a dangerous rival, even against the decisive power of the American navy.'",
+      "source": "sepah",
+      "probability": 35,
+      "keywords": "Netanyahu, admits, Iran, hidden power, American fleet, video, possible attack, dangerous rival, missiles, drones, resistance groups",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T06:35:53+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Non-public session of the parliament with the presence of Amir Major General Mousavi and Iraqchi/ Review of important regional and international issues Goodarzi, spokesman for the parliament's presiding board: In today's non-public session, important regional and international issues are being reviewed with the presence of the Chief of the General Staff of the Armed Forces and the Minister of Foreign Affairs.",
+      "source": "sepah",
+      "probability": 25,
+      "keywords": "non-public session, parliament, Major General Mousavi, Iraqchi, regional issues, international issues, Chief of General Staff, Minister of Foreign Affairs",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T06:35:53+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The Revolutionary Guards in Iran arrested the secretary-general of the president's party Azar Mansouri, along with other reformist officials, after she publicly criticized the authorities' suppression of the protest wave - and even called on Leader Khamenei to resign from his position. Mansouri is the secretary-general of the Islamic People's Party in Iran - heads the reformist front, which supported and played a key role in the election of Masoud Pezeshkian as president.",
+      "source": "-1001254976833",
+      "probability": 10,
+      "keywords": "Revolutionary Guards, Iran, arrested, secretary-general, president's party, reformist, criticized, suppression, protests, Leader Khamenei, resign",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T06:43:22.219899",
+      "source_type": "Unknown"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Four months after the ceasefire, to the great surprise there are still living terrorists in the Rafah pocket. An IDF force working on dismantling a tunnel encountered terrorists and killed apparently four of them.",
       "source": "amitsegal",
       "probability": 15,
@@ -35,9 +82,7 @@
       "date": "09/02/2026",
       "datetime_iso": "2026-02-09T06:30:36+00:00",
       "source_type": "Telegram"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Not far from the village of Al-Habariya, from where the kidnapped man was taken last night, the body of Atawi Atawi was found - where the Prime Minister of Lebanon visited yesterday as part of his unusual visit to the villages of southern Lebanon.",
       "source": "abualiexpress",
@@ -1332,6 +1377,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 35,
-  "last_updated": "2026-02-09 06:34:02"
+  "overall_probability": 45,
+  "last_updated": "2026-02-09 06:43:22"
 }
