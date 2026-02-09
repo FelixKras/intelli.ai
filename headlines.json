@@ -1,6 +1,26 @@
 {
   "current_headlines": [
     {
+      "headline": "President Herzog visited Bondi Beach in Australia today and laid a wreath in the name of the State of Israel at the murder site, significant public interest and full media coverage of President Isaac Herzog's visit to the murder site at Bondi Beach in Australia. Along with this, the visit is accompanied by quite a few protests and claims from almost all sides, starting with the hosting Jewish community itself, because the president chose to also meet with Australian Prime Minister Anthony Albanese, whom the community is boycotting, due to the lack of willingness for practical actions in the fight against anti-Semitism and a weak label for the murder according to community leaders. Also, of course, pro-Palestinian and Muslim organizations that condemn the very visit of the Israeli president, in addition to many claims from the opposition in Australia after the government decided that President Herzog would not speak before the Australian parliament, in order to prevent tension and confrontations in the street. Gili R. Security 301 The Arab World on Telegram Http://t.me/arabworld301news",
+      "source": "arabworld301news",
+      "probability": 5,
+      "keywords": "President Herzog, Bondi Beach, Australia, wreath, murder site, protests, Jewish community, Prime Minister Anthony Albanese, boycott, anti-Semitism, pro-Palestinian, Muslim organizations, Israeli president, Australian parliament, tension",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T02:23:42+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Herzog laid a wreath at the drop site at Bondi Beach in Sydney",
+      "source": "ynet",
+      "probability": 5,
+      "keywords": "Herzog, wreath, drop site, Bondi Beach, Sydney",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T02:26:16.005993",
+      "source_type": "Media Outlet"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Trump congratulated the Japanese Prime Minister on her election victory",
       "source": "ynet",
       "probability": 0,
@@ -8,9 +28,7 @@
       "date": "09/02/2026",
       "datetime_iso": "2026-02-09T01:49:51.119058",
       "source_type": "Media Outlet"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Fauda in southern Lebanon Lebanese media reported today that an elite IDF force carried out a ground infiltration into the town of Habariya in the Arqoub area of southern Lebanon and kidnapped in the evening an activist in the Islamic group, Al-Jamaa Al-Islamiya, named Atwi Atwi, who was taken to an unknown location. This event occurs against the backdrop of ongoing tensions and a recent increase in invasions and kidnappings carried out by Israeli forces in the border areas with Lebanon according to the report. Gili R. Security 301 Arab World on Telegram Http://t.me/arabworld301news",
       "source": "arabworld301news",
@@ -1107,6 +1125,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 0,
-  "last_updated": "2026-02-09 01:50:00"
+  "overall_probability": 5,
+  "last_updated": "2026-02-09 02:26:34"
 }
