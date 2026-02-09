@@ -1,6 +1,44 @@
 {
   "current_headlines": [
     {
+      "headline": "Four months after the ceasefire, to the great surprise there are still living terrorists in the Rafah pocket. An IDF force working on dismantling a tunnel encountered terrorists and killed apparently four of them.",
+      "source": "amitsegal",
+      "probability": 15,
+      "keywords": "ceasefire, terrorists, Rafah, IDF, tunnel, killed",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T06:27:17+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Israel Hayom: Netanyahu goes to Washington fearing nuclear agreement with Iran, but Trump's fear is a long and endless war with Iran. The newspaper Israel Hayom wrote: Netanyahu deeply fears that Trump will retreat from his position against Iran. Trump, fearing a long and endless war with Iran, may agree to a deal that is limited only to the nuclear issue. Netanyahu is concerned that Trump, despite his previous threats, will now present such an agreement as closing the Iran file with the slightest nuclear cooperation from Iran, and turn his focus to other fronts and leave Israel alone. In the current situation, it does not seem that the White House is willing to bear the cost of a potential military confrontation on the Iranian front, especially since it is clear that airstrikes cannot eliminate the Iranian regime.",
+      "source": "sepah",
+      "probability": 35,
+      "keywords": "Netanyahu, Washington, nuclear agreement, Iran, Trump, war, military confrontation, airstrikes",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T06:31:49+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "What stands behind Turkey's mediation efforts in the Middle East? Turkey's mediation efforts between Washington and Tehran are not a one-time move, but part of a broader strategy. As Yoni Ben Menachem writes, Ankara operates from an understanding that 'any large-scale regional confrontation may directly harm its internal stability, national security, and economic situation.' Western intelligence sources warn that a war between the United States and Iran could pose serious threats to Turkey, including an energy crisis, activities of pro-Iranian militias, and refugee waves that would undermine internal stability. Beyond immediate security considerations, Ben Menachem points to a deeper aspiration of Ankara. 'Turkey's mediation efforts in the Middle East are part of President Erdogan's broader aspiration to restore Ankara's status as a leading regional power.' According to intelligence assessments in Israel and the West, this policy is rooted in a neo-Ottoman worldview, which sees diplomatic mediation as a central tool for creating regional dependence on Turkey and turning it into an 'irreplaceable player,' even at the cost of friction with other regional players.",
+      "source": "arabworld301news",
+      "probability": 25,
+      "keywords": "Turkey, mediation, Middle East, Washington, Tehran, war, United States, Iran, regional confrontation",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T06:33:08+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "An Iranian opposition activist reports on the general situation in Iran as of yesterday: The process of transferring protesters' bodies to their families is still ongoing. Some bodies are delivered after about a month, some of them show signs indicating that the killed were murdered recently. Many online businesses have collapsed. Prices are rising sharply; for example, the price of cooking oil has more than doubled within about a month. The arrest of protesters continues, and there is no information about the conditions in which they are held; all their lives are in serious danger. There is still no cellular reception in several small cities (especially in Ilam province in western Iran) and no way to contact these cities even by telephone.",
+      "source": "abualiexpress",
+      "probability": 5,
+      "keywords": "Iranian, opposition, activist, protesters, bodies, arrests, prices, cellular reception",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T06:30:36+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Not far from the village of Al-Habariya, from where the kidnapped man was taken last night, the body of Atawi Atawi was found - where the Prime Minister of Lebanon visited yesterday as part of his unusual visit to the villages of southern Lebanon.",
       "source": "abualiexpress",
       "probability": 10,
@@ -17,9 +55,7 @@
       "date": "09/02/2026",
       "datetime_iso": "2026-02-09T06:24:26.787537",
       "source_type": "Media Outlet"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Lebanon: The Al-Jamaa Al-Islamiya organization announces that Israel kidnapped one of its senior members from a village approximately 5 km from the border. The Sunni organization Al-Jamaa Al-Islamiya in Lebanon, which is the branch of the Muslim Brotherhood movement in the country, publishes a condemnation statement following the kidnapping of the senior member in the organization - Atwa Atwa, who was kidnapped 'under the cover of darkness' by an Israeli force that entered the village of Al-Habariya in the Hasbaya district (map attached). According to the claim, the Israeli force intimidated members of Atwa's family and even beat them. The organization calls for the immediate release of Atwa and all Lebanese prisoners held in Israel. This organization has good relations with the Hamas movement and many times during the war a strong cooperation between them was seen in carrying out attacks against Israel. ## IDF spokesperson confirms that an Israeli force kidnapped a senior member of this organization last night, who was transferred for interrogation in Israel. According to the IDF spokesperson, weapons were found in his home.",
       "source": "abualiexpress",
@@ -1296,6 +1332,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 5,
-  "last_updated": "2026-02-09 06:24:37"
+  "overall_probability": 35,
+  "last_updated": "2026-02-09 06:34:02"
 }
