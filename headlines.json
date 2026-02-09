@@ -1,6 +1,44 @@
 {
   "current_headlines": [
     {
+      "headline": "Lebanese sources on the Israeli attack in Yanuh: The target of the attack was Ahmed Salama, a Lebanese army pensioner. Hassan Jaber and Ali Jaber (age 4), the son and grandson of the mayor of Yanuh, happened to be near the vehicle that was attacked during the strike and were therefore also killed.",
+      "source": "abualiexpress",
+      "probability": 10,
+      "keywords": "Lebanese, sources, Israeli, attack, Yanuh, target, Ahmed Salama, Lebanese army, pensioner, Hassan Jaber, Ali Jaber, mayor, killed",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T08:30:55+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The Saudi and Somali defense ministers signed a military cooperation agreement between the two countries yesterday. On one side of the barricade are Somaliland, the United Arab Emirates, and Israel. And on the other side are Somalia, Turkey, and Saudi Arabia. Worth paying attention to.",
+      "source": "abualiexpress",
+      "probability": 15,
+      "keywords": "Saudi, Somali, defense ministers, signed, military cooperation, agreement, Somaliland, United Arab Emirates, Israel, Somalia, Turkey, Saudi Arabia",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T08:30:55+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Head of the Iranian judiciary Azjai threatens: Defendants and convicts from the recent riots will be excluded from pardons and leniency, especially for security offenses. The meaning is clear—the regime is preparing the ground for extreme punishment and even executions. Thousands of detainees across Iran.",
+      "source": "arabworld301news",
+      "probability": 5,
+      "keywords": "Head, Iranian judiciary, Azjai, threatens, defendants, convicts, riots, excluded, pardons, leniency, security offenses, regime, extreme punishment, executions, detainees",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T08:29:12+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The coffin of Matti Caspi was placed in the plaza of the Performing Arts Center in Tel Aviv",
+      "source": "ynet",
+      "probability": 0,
+      "keywords": "coffin, Matti Caspi, placed, plaza, Performing Arts Center, Tel Aviv",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T08:32:10.206574",
+      "source_type": "Media Outlet"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Lebanese unofficial sources report 3 killed in the Israeli attack this morning in the village of Yanouh in southern Lebanon. According to these sources, the casualties are Ahmed Salama, a Lebanese army pensioner, as well as the son of the mayor of Yanouh and his grandson. [To respond to the article click here]",
       "source": "abualiexpress",
       "probability": 25,
@@ -35,9 +73,7 @@
       "date": "09/02/2026",
       "datetime_iso": "2026-02-09T08:14:33.140213",
       "source_type": "Unknown"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Kidnapping of the terrorist from southern Lebanon: According to Lebanese sources, Muhammad Atwi, responsible for the terrorist organization Al-Jama'a Al-Islamiya in the village of Al-Habariya in southern Lebanon, was kidnapped by an Israeli force last night in southern Lebanon. According to the mayor of Al-Habariya, the kidnapping operation lasted 15 minutes. Lebanese army forces are currently checking Atwi's house to ensure it was not booby-trapped by the Israeli force. It was reported that the Israeli force took documents with it and conducted a search of the building.",
       "source": "abualiexpress",
@@ -1620,6 +1656,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 25,
-  "last_updated": "2026-02-09 08:14:33"
+  "overall_probability": 35,
+  "last_updated": "2026-02-09 08:32:31"
 }
