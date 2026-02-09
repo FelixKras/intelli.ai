@@ -1,6 +1,17 @@
 {
   "current_headlines": [
     {
+      "headline": "4 kilometers deep into the territory: Additional details about the operation to arrest the senior terrorist in Lebanese territory The special force of the IDF penetrated 4 km deep into Lebanese territory, crossed the main streets of the village and broke into the terrorist's house. After the break-in, the force arrested him, tied up his wife and confiscated documents.",
+      "source": "-1001254976833",
+      "probability": 25,
+      "keywords": "kilometers, deep, territory, operation, arrest, senior, terrorist, Lebanese, special force, IDF, penetrated, village, broke, house, arrested",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T07:28:59.343998",
+      "source_type": "Unknown"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "IDF confirms: 4 terrorists emerged from a tunnel in eastern Rafah, fired at our forces - and were eliminated \"This is a blatant violation of the ceasefire agreement, the IDF views this seriously\"",
       "source": "amitsegal",
       "probability": 15,
@@ -35,9 +46,7 @@
       "date": "09/02/2026",
       "datetime_iso": "2026-02-09T07:10:45.977140",
       "source_type": "Media Outlet"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "IDF Spokesperson: IDF attacked a terrorist from the Hezbollah terrorist organization in the Yanuh area in southern Lebanon a short time ago.",
       "source": "arabworld301news",
@@ -1495,5 +1504,5 @@
     }
   ],
   "overall_probability": 10,
-  "last_updated": "2026-02-09 07:11:08"
+  "last_updated": "2026-02-09 07:28:59"
 }
