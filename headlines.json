@@ -1,6 +1,44 @@
 {
   "current_headlines": [
     {
+      "headline": "IDF confirms: 4 terrorists emerged from a tunnel in eastern Rafah, fired at our forces - and were eliminated \"This is a blatant violation of the ceasefire agreement, the IDF views this seriously\"",
+      "source": "amitsegal",
+      "probability": 15,
+      "keywords": "IDF, terrorists, tunnel, Rafah, fired, forces, eliminated, violation, ceasefire, agreement",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T07:06:43+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "IDF spokesperson: IDF forces eliminated four terrorists who emerged from the underground route in the Rafah area",
+      "source": "-1001254976833",
+      "probability": 15,
+      "keywords": "IDF, spokesperson, forces, eliminated, terrorists, underground, route, Rafah, area",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T07:11:08.539015",
+      "source_type": "Unknown"
+    },
+    {
+      "headline": "IDF spokesperson: Elimination of terrorists in eastern Rafah continues: IDF forces eliminated four additional terrorists who emerged from the underground route in the area a short time ago, as part of IDF forces' activity to clear the area of terrorists and terror infrastructure, IDF forces identified four additional terrorists who emerged from a tunnel in the underground route area in eastern Rafah. The terrorists fired at forces from Brigade 7, who returned fire and eliminated the four terrorists. IDF forces continue to operate in the area to locate and eliminate all remaining terrorists in the route. This is a blatant violation of the ceasefire agreement, the IDF views this seriously. IDF forces under Southern Command are deployed in the area according to the agreement and will continue to operate to remove any immediate threat.",
+      "source": "arabworld301news",
+      "probability": 15,
+      "keywords": "IDF, spokesperson, elimination, terrorists, eastern, Rafah, underground, route, fired, forces, eliminated, violation, ceasefire, agreement, threat",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T07:02:58+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "IDF: Our forces eliminated four additional terrorists who emerged from a tunnel in Rafah",
+      "source": "ynet",
+      "probability": 15,
+      "keywords": "IDF, forces, eliminated, terrorists, tunnel, Rafah",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T07:10:45.977140",
+      "source_type": "Media Outlet"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "IDF Spokesperson: IDF attacked a terrorist from the Hezbollah terrorist organization in the Yanuh area in southern Lebanon a short time ago.",
       "source": "arabworld301news",
       "probability": 25,
@@ -44,9 +82,7 @@
       "date": "09/02/2026",
       "datetime_iso": "2026-02-09T07:00:04+00:00",
       "source_type": "Telegram"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Lebanese sources report casualties in an Israeli drone attack on a vehicle in the village of Yanuh in southern Lebanon a short time ago. This attack comes after several days of a pause in this type of activity.",
       "source": "abualiexpress",
@@ -1458,6 +1494,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 35,
-  "last_updated": "2026-02-09 07:01:53"
+  "overall_probability": 10,
+  "last_updated": "2026-02-09 07:11:08"
 }
