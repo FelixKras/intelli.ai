@@ -1,6 +1,53 @@
 {
   "current_headlines": [
     {
+      "headline": "IDF Spokesperson: IDF attacked a terrorist from the Hezbollah terrorist organization in the Yanuh area in southern Lebanon a short time ago.",
+      "source": "arabworld301news",
+      "probability": 25,
+      "keywords": "IDF, attacked, terrorist, Hezbollah, organization, Yanuh, southern, Lebanon",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T06:55:28+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Another violation of the ceasefire: A terrorist came out of a tunnel and was eliminated in an encounter in Rafah. A terrorist came out of a tunnel shaft in the Rafah area, near IDF forces - and opened fire towards the forces. There are no casualties to our forces. Apparently, a number of terrorists remain in the terrorist pocket in Rafah, according to the testimony in the investigation of the Hamas company commander who was recently arrested after coming out of the terrorist pocket tunnels (Doron Kadosh)",
+      "source": "-1001254976833",
+      "probability": 20,
+      "keywords": "ceasefire, violation, terrorist, tunnel, eliminated, encounter, Rafah, IDF, forces, Hamas",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T07:01:53.061996",
+      "source_type": "Unknown"
+    },
+    {
+      "headline": "Ghalibaf: Diplomatic and defense issues were discussed in the closed session. Diplomacy and defense are two sides of the same coin that today are proceeding with coordination and at the peak of intelligence and in accordance with the commands of the Supreme Leader. Cyber Guards Corps @SEPAH",
+      "source": "sepah",
+      "probability": 15,
+      "keywords": "Ghalibaf, diplomatic, defense, issues, closed, session, coordination, Supreme, Leader",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T06:59:13+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Reuters: Indian refineries have stopped buying oil from Russia. Reuters news agency reported in a report quoting informed sources who asked not to be named: India's largest refineries have stopped accepting Russian crude oil for loading in March and April, as New Delhi moves closer to a trade deal with Washington. According to the Reuters report, Indian refineries have simultaneously procured more oil from Middle Eastern, African and South American countries while stopping oil purchases from Russia. Cyber Guards Corps @SEPAH",
+      "source": "sepah",
+      "probability": 5,
+      "keywords": "Reuters, Indian, refineries, stopped, buying, oil, Russia, crude, trade, deal",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T06:59:13+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Hello, I am Elchanan. Since October 7th, I have served over 400 reserve days in Gaza. After the fall of my friend David, may God avenge his blood, we understood that we cannot remain on the sidelines. We left everything, and went up with our seven children to establish the Shir LeDavid farm, a strategic agricultural settlement point between Rosh HaAyin and Samaria, a Jewish enclave in the heart of an area that has become a no-man's-land over the years. In a place of neglect, nationalist and criminal crime, waste fires and massive takeover of state lands, we chose to be present. With a herd of 40 head of cattle, we are creating a permanent Jewish presence here and building Israeli sovereignty in practice. Time is pressing. The takeover continues, and we must act quickly to expand grazing areas, fortify infrastructure and establish a Jewish foothold in the area. Your contribution is not symbolic - it is a direct investment in Israel's security and its actual border. As Trumpeldor said: 'The place where the Jewish plow will plow the last furrow - there our border will pass.' Today, our plow is the border. We would be happy for you to join us in the great repair of settlement, agriculture and groundbreaking Zionist action. Connecting Samaria to the center.",
+      "source": "abualiexpress",
+      "probability": 5,
+      "keywords": "reserve, Gaza, settlement, strategic, agricultural, Jewish, enclave, sovereignty, security, border",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T07:00:04+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Lebanese sources report casualties in an Israeli drone attack on a vehicle in the village of Yanuh in southern Lebanon a short time ago. This attack comes after several days of a pause in this type of activity.",
       "source": "abualiexpress",
       "probability": 15,
@@ -35,9 +82,7 @@
       "date": "09/02/2026",
       "datetime_iso": "2026-02-09T06:52:15.475605",
       "source_type": "Media Outlet"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "A terrorist emerged from a tunnel in Rafah and opened fire towards an IDF force, no casualties among our forces",
       "source": "ynet",
@@ -1413,6 +1458,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 10,
-  "last_updated": "2026-02-09 06:52:29"
+  "overall_probability": 35,
+  "last_updated": "2026-02-09 07:01:53"
 }
