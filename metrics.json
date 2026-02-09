@@ -1,18 +1,18 @@
 {
-  "runtime_seconds": 31665.504257,
-  "articles_processed": 149,
+  "runtime_seconds": 32221.600322,
+  "articles_processed": 150,
   "notifications_sent": 0,
   "errors_encountered": 7,
-  "successful_api_calls": 643,
+  "successful_api_calls": 655,
   "failed_api_calls": 2,
-  "telegram_messages_sent": 74,
-  "telegram_heartbeats_sent": 74,
-  "jokes_generated": 40,
-  "ingest_rate_per_min": 0.07,
-  "lag_minutes": 0.3,
+  "telegram_messages_sent": 76,
+  "telegram_heartbeats_sent": 76,
+  "jokes_generated": 41,
+  "ingest_rate_per_min": 0.09,
+  "lag_minutes": 0.2,
   "api_success_rate": 99.7,
-  "time_until_next_update_seconds": 519.0,
+  "time_until_next_update_seconds": 528.0,
   "analysis_model": "deepseek/deepseek-v3.1",
   "jokes_model": "gpt-4o-mini",
-  "last_updated": "2026-02-09 02:26:34"
+  "last_updated": "2026-02-09 02:35:50"
 }

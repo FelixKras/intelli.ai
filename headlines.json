@@ -1,6 +1,17 @@
 {
   "current_headlines": [
     {
+      "headline": "Hong Kong: 20 years imprisonment for British media tycoon Jimmy Lai",
+      "source": "ynet",
+      "probability": 0,
+      "keywords": "Hong Kong, imprisonment, British, media tycoon, Jimmy Lai",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T02:35:41.201261",
+      "source_type": "Media Outlet"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "President Herzog visited Bondi Beach in Australia today and laid a wreath in the name of the State of Israel at the murder site, significant public interest and full media coverage of President Isaac Herzog's visit to the murder site at Bondi Beach in Australia. Along with this, the visit is accompanied by quite a few protests and claims from almost all sides, starting with the hosting Jewish community itself, because the president chose to also meet with Australian Prime Minister Anthony Albanese, whom the community is boycotting, due to the lack of willingness for practical actions in the fight against anti-Semitism and a weak label for the murder according to community leaders. Also, of course, pro-Palestinian and Muslim organizations that condemn the very visit of the Israeli president, in addition to many claims from the opposition in Australia after the government decided that President Herzog would not speak before the Australian parliament, in order to prevent tension and confrontations in the street. Gili R. Security 301 The Arab World on Telegram Http://t.me/arabworld301news",
       "source": "arabworld301news",
       "probability": 5,
@@ -17,9 +28,7 @@
       "date": "09/02/2026",
       "datetime_iso": "2026-02-09T02:26:16.005993",
       "source_type": "Media Outlet"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Trump congratulated the Japanese Prime Minister on her election victory",
       "source": "ynet",
@@ -1125,6 +1134,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 5,
-  "last_updated": "2026-02-09 02:26:34"
+  "overall_probability": 0,
+  "last_updated": "2026-02-09 02:35:50"
 }
