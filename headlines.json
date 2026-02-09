@@ -1,6 +1,44 @@
 {
   "current_headlines": [
     {
+      "headline": "Lebanese unofficial sources report 3 killed in the Israeli attack this morning in the village of Yanouh in southern Lebanon. According to these sources, the casualties are Ahmed Salama, a Lebanese army pensioner, as well as the son of the mayor of Yanouh and his grandson. [To respond to the article click here]",
+      "source": "abualiexpress",
+      "probability": 25,
+      "keywords": "Lebanese, sources, killed, Israeli, attack, village, Yanouh, southern, Lebanon, casualties, Ahmed Salama, army, pensioner, mayor",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T08:10:53+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The abduction of the terrorist from southern Lebanon: According to Lebanese sources, Muhammad Atoui, responsible for the terrorist organization Al-Jama'a Al-Islamiyya in the village of Al-Habariya in southern Lebanon, was abducted by an Israeli force last night in southern Lebanon. According to the mayor of Al-Habariya, the abduction operation lasted 15 minutes. Lebanese army forces are currently checking Atoui's house to ensure it was not booby-trapped by the Israeli force. It was reported that the Israeli force took documents with them and conducted a search of the building. [2 comments]",
+      "source": "abualiexpress",
+      "probability": 20,
+      "keywords": "abduction, terrorist, southern, Lebanon, Lebanese, sources, Muhammad Atoui, terrorist organization, Al-Jama'a Al-Islamiyya, village, Al-Habariya, Israeli force, operation, documents, search",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T08:10:53+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Massive Zionist attack on Guardiola Guardiola last week made headlines by attending a charity event for Palestine. The Manchester City coach, who wore a keffiyeh around his neck, said: I am a Palestinian. The Israeli Times website wrote that the Manchester Jewish group strongly condemned Guardiola's statements and considered them political and irresponsible. Cyber Guard Corps @SEPAH",
+      "source": "sepah",
+      "probability": 5,
+      "keywords": "Zionist, attack, Guardiola, headlines, charity, event, Palestine, Manchester City, coach, keffiyeh, Palestinian, Israeli, Times, website, Jewish",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T08:11:32+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Tzvi Yehezkeli: What is the war in Judea and Samaria about? About lands and ownership of the home.",
+      "source": "-1001254976833",
+      "probability": 5,
+      "keywords": "Tzvi Yehezkeli, war, Judea, Samaria, lands, ownership, home",
+      "date": "09/02/2026",
+      "datetime_iso": "2026-02-09T08:14:33.140213",
+      "source_type": "Unknown"
+    }
+  ],
+  "history_headlines": [
+    {
       "headline": "Kidnapping of the terrorist from southern Lebanon: According to Lebanese sources, Muhammad Atwi, responsible for the terrorist organization Al-Jama'a Al-Islamiya in the village of Al-Habariya in southern Lebanon, was kidnapped by an Israeli force last night in southern Lebanon. According to the mayor of Al-Habariya, the kidnapping operation lasted 15 minutes. Lebanese army forces are currently checking Atwi's house to ensure it was not booby-trapped by the Israeli force. It was reported that the Israeli force took documents with it and conducted a search of the building.",
       "source": "abualiexpress",
       "probability": 25,
@@ -17,9 +55,7 @@
       "date": "09/02/2026",
       "datetime_iso": "2026-02-09T08:05:05.417461",
       "source_type": "Media Outlet"
-    }
-  ],
-  "history_headlines": [
+    },
     {
       "headline": "Kidnapping of the terrorist from southern Lebanon: According to Lebanese sources, Muhammad Atoui, responsible for the terrorist organization Al-Jama'a Al-Islamiya in the village of Al-Habariya in southern Lebanon, was kidnapped by an Israeli force last night in southern Lebanon. According to the mayor of Al-Habariya, the kidnapping operation lasted 15 minutes. Lebanese army forces are currently checking Atoui's house to ensure it was not booby-trapped by the Israeli force. It was reported that the Israeli force took documents with them and conducted a search of the building.",
       "source": "abualiexpress",
@@ -1584,6 +1620,6 @@
       "source_type": "Media Outlet"
     }
   ],
-  "overall_probability": 0,
-  "last_updated": "2026-02-09 08:05:20"
+  "overall_probability": 25,
+  "last_updated": "2026-02-09 08:14:33"
 }
