@@ -235,20 +235,21 @@ function renderProbabilityChart(headlines) {
     const runGroups = {};
     headlines.forEach(h => {
         if (h.datetime_iso) {
-            const time = h.datetime_iso;
+            // Normalize timestamp to avoid string sort issues (handle ' ' vs 'T')
+            const time = h.datetime_iso.replace(' ', 'T');
             if (!runGroups[time] || h.probability > runGroups[time]) {
                 runGroups[time] = h.probability;
             }
         }
     });
 
-    const sortedTimes = Object.keys(runGroups).sort();
-    // Filter for last 5 days
     const fiveDaysAgo = new Date();
     fiveDaysAgo.setDate(fiveDaysAgo.getDate() - 5);
     
-    const chartData = sortedTimes
+    // Sort timestamps chronologically before mapping to chart points
+    const chartData = Object.keys(runGroups)
         .filter(t => new Date(t) >= fiveDaysAgo)
+        .sort((a, b) => new Date(a) - new Date(b))
         .map(t => ({
             x: new Date(t),
             y: runGroups[t]
@@ -269,7 +270,7 @@ function renderProbabilityChart(headlines) {
                 backgroundColor: 'rgba(52, 211, 153, 0.1)',
                 borderWidth: 2,
                 fill: true,
-                tension: 0.4,
+                tension: 0.2, // Reduced tension to prevent looping artifacts
                 pointRadius: 3,
                 pointBackgroundColor: 'rgb(52, 211, 153)'
             }]
