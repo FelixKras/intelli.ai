@@ -14,6 +14,21 @@ let currentRelevantHeadlines = [];
 let currentAllHeadlines = [];
 let probabilityChart = null;
 let nextUpdateTimer = null;
+let refreshInterval = 10000;
+let refreshTimer = 0;
+
+function updateRefreshProgress() {
+    const progressBar = document.getElementById('refreshProgressBar');
+    if (!progressBar) return;
+    
+    refreshTimer += 100;
+    const progress = (refreshTimer / refreshInterval) * 100;
+    progressBar.style.width = `${Math.min(progress, 100)}%`;
+    
+    if (refreshTimer >= refreshInterval) {
+        refreshTimer = 0;
+    }
+}
 
 function formatDuration(seconds) {
     if (seconds < 0) return "00:00:00";
@@ -237,8 +252,11 @@ function renderProbabilityChart(headlines) {
         if (h.datetime_iso) {
             // Normalize timestamp to avoid string sort issues (handle ' ' vs 'T')
             const time = h.datetime_iso.replace(' ', 'T');
-            if (!runGroups[time] || h.probability > runGroups[time]) {
-                runGroups[time] = h.probability;
+            if (!runGroups[time] || h.probability > runGroups[time].prob) {
+                runGroups[time] = {
+                    prob: h.probability,
+                    headline: h.headline
+                };
             }
         }
     });
@@ -252,7 +270,8 @@ function renderProbabilityChart(headlines) {
         .sort((a, b) => new Date(a) - new Date(b))
         .map(t => ({
             x: new Date(t),
-            y: runGroups[t]
+            y: runGroups[t].prob,
+            headline: runGroups[t].headline
         }))
         .filter(point => point.y >= 50);
 
@@ -270,14 +289,20 @@ function renderProbabilityChart(headlines) {
                 backgroundColor: 'rgba(52, 211, 153, 0.1)',
                 borderWidth: 2,
                 fill: true,
-                tension: 0.2, // Reduced tension to prevent looping artifacts
-                pointRadius: 3,
+                tension: 0.2, 
+                pointRadius: 4,
+                pointHitRadius: 10,
+                pointHoverRadius: 6,
                 pointBackgroundColor: 'rgb(52, 211, 153)'
             }]
         },
         options: {
             responsive: true,
             maintainAspectRatio: false,
+            interaction: {
+                intersect: false,
+                mode: 'index',
+            },
             scales: {
                 x: {
                     type: 'time',
@@ -311,13 +336,33 @@ function renderProbabilityChart(headlines) {
             plugins: {
                 legend: { display: false },
                 tooltip: {
-                    backgroundColor: 'rgba(15, 23, 42, 0.9)',
+                    backgroundColor: 'rgba(15, 23, 42, 0.95)',
                     titleColor: 'rgb(226, 232, 240)',
                     bodyColor: 'rgb(226, 232, 240)',
-                    borderColor: 'rgb(30, 41, 59)',
+                    borderColor: 'rgb(52, 211, 153)',
                     borderWidth: 1,
+                    padding: 10,
+                    displayColors: false,
                     callbacks: {
-                        label: (context) => `Probability: ${context.parsed.y}%`
+                        label: (context) => `Probability: ${context.parsed.y}%`,
+                        afterLabel: (context) => {
+                            const headline = context.raw.headline;
+                            if (headline) {
+                                // Wrap text for tooltip if too long
+                                const words = headline.split(' ');
+                                let lines = [''];
+                                let currentLine = 0;
+                                words.forEach(word => {
+                                    if ((lines[currentLine] + word).length > 40) {
+                                        currentLine++;
+                                        lines[currentLine] = '';
+                                    }
+                                    lines[currentLine] += word + ' ';
+                                });
+                                return ['', 'Headline:', ...lines];
+                            }
+                            return '';
+                        }
                     }
                 }
             }
@@ -409,6 +454,11 @@ function renderStocks(stocks) {
 async function fetchData() {
     console.log('Fetching data files from GitHub...');
     const GITHUB_REPO_URL = 'https://raw.githubusercontent.com/FelixKras/intelli.github.io/data';
+    
+    // Visual feedback for refresh
+    const container = document.querySelector('.max-w-7xl');
+    if (container) container.classList.add('updating');
+    refreshTimer = 0; // Reset timer on fetch start
 
     try {
         const cacheBust = `?v=${new Date().getTime()}`;
@@ -436,6 +486,9 @@ async function fetchData() {
         const fiveDaysAgo = new Date(now.getTime() - (5 * 24 * 60 * 60 * 1000));
 
         updateStatus(true);
+        
+        // Remove skeleton classes
+        document.querySelectorAll('.skeleton').forEach(el => el.classList.remove('skeleton', 'h-24', 'h-7', 'h-5', 'h-20', 'w-48', 'w-full', 'w-24', 'w-3/4'));
 
         if (metrics) {
             updateMetrics(metrics);
@@ -534,10 +587,12 @@ async function fetchData() {
         }
 
         document.getElementById('lastUpdated').textContent = new Date().toLocaleTimeString();
+        if (container) container.classList.remove('updating');
 
     } catch (error) {
         console.error('Error fetching data:', error);
         updateStatus(false);
+        if (container) container.classList.remove('updating');
     }
 }
 
@@ -558,7 +613,9 @@ function updateAllSort() {
 }
 
 function startAutoRefresh(intervalMs = 10000) {
+    refreshInterval = intervalMs;
     setInterval(fetchData, intervalMs);
+    setInterval(updateRefreshProgress, 100);
 }
 
 function init() {

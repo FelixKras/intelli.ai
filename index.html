@@ -11,6 +11,9 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body class="min-h-screen bg-slate-950 text-slate-100">
+    <div class="refresh-progress-container">
+        <div id="refreshProgressBar"></div>
+    </div>
     <div class="max-w-7xl mx-auto px-5 py-6">
         <header class="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
             <div class="flex items-center gap-4">
@@ -44,20 +47,20 @@
                 <div class="rounded-xl bg-slate-900/40 border border-slate-800 p-6">
                     <div class="text-center">
                         <div class="text-sm text-slate-400 uppercase tracking-wide">Max probability from headlines (Last 24h)</div>
-                        <div id="maxProbability" class="mt-3 text-9xl font-black tracking-tight">--</div>
+                        <div id="maxProbability" class="mt-3 text-9xl font-black tracking-tight skeleton h-24 w-48 mx-auto"></div>
                         <div class="mt-4 flex items-center justify-center gap-3">
-                            <span id="severityBadge" class="text-sm px-3 py-1.5 rounded-md bg-slate-200 text-slate-900">Info</span>
+                            <span id="severityBadge" class="text-sm px-3 py-1.5 rounded-md bg-slate-800 text-slate-400">Loading...</span>
                         </div>
                     </div>
                     
                     <div class="mt-6 grid grid-cols-2 gap-4">
                         <div class="rounded-lg bg-slate-950/50 border border-slate-800 p-4">
                             <div class="text-xs text-slate-400">Source</div>
-                            <div id="maxProbSource" class="mt-1 text-xl font-semibold">—</div>
+                            <div id="maxProbSource" class="mt-1 text-xl font-semibold skeleton h-7 w-full"></div>
                         </div>
                         <div class="rounded-lg bg-slate-950/50 border border-slate-800 p-4">
                             <div class="text-xs text-slate-400">Probability</div>
-                            <div id="maxProbValue" class="mt-1 text-xl font-semibold">—</div>
+                            <div id="maxProbValue" class="mt-1 text-xl font-semibold skeleton h-7 w-24"></div>
                         </div>
                     </div>
                     
@@ -66,7 +69,10 @@
                             <div class="text-xs text-slate-400">Top Headline</div>
                             <div id="maxProbTime" class="text-xs text-slate-500">—</div>
                         </div>
-                                            <div id="maxProbHeadline" class="text-base text-slate-200 leading-relaxed">No headline data available yet.</div>
+                                            <div id="maxProbHeadline" class="text-base text-slate-200 leading-relaxed">
+                                                <div class="skeleton h-5 w-full mb-2"></div>
+                                                <div class="skeleton h-5 w-3/4"></div>
+                                            </div>
                                         </div>
                         
                                         <!-- Probability Trend Graph -->
@@ -99,7 +105,9 @@
                     </div>
 
                     <div id="relevantHeadlinesContainer" class="mt-3 space-y-2">
-                        <div class="text-center py-6 text-slate-400">Loading headlines...</div>
+                        <div class="skeleton h-20 w-full"></div>
+                        <div class="skeleton h-20 w-full"></div>
+                        <div class="skeleton h-20 w-full"></div>
                     </div>
                 </div>
 
@@ -123,7 +131,8 @@
                     </div>
 
                     <div id="allHeadlinesContainer" class="mt-3 space-y-2">
-                        <div class="text-center py-6 text-slate-400">Loading all headlines...</div>
+                        <div class="skeleton h-20 w-full"></div>
+                        <div class="skeleton h-20 w-full"></div>
                     </div>
                 </div>
             </div>
