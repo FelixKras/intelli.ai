@@ -400,7 +400,7 @@ function renderStocks(stocks) {
     }
 
     const stockItems = stocks.map(stock => {
-        const ticker = stock.ticker || 'N/A';
+        const displayName = stock.metadata?.company_name || stock.ticker || 'N/A';
         const metadata = stock.metadata || {};
         const marketState = metadata.market_state || 'UNKNOWN';
         const expectedTrend = metadata.expected_trend || 'NEUTRAL';
@@ -426,7 +426,7 @@ function renderStocks(stocks) {
                 <div class="flex items-start justify-between gap-2">
                     <div class="flex-1 min-w-0">
                         <div class="flex items-center gap-2">
-                            <span class="text-sm font-bold text-slate-100 font-mono">${ticker}</span>
+                            <span class="text-sm font-bold text-slate-100">${displayName}</span>
                             <span class="text-[10px] px-1.5 py-0.5 rounded ${stateBadgeClass} font-medium uppercase">
                                 ${marketState}
                             </span>
