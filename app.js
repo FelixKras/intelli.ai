@@ -588,7 +588,7 @@ async function fetchData() {
         // Update XKCD comic image with cache buster
         const xkcdImage = document.getElementById('xkcdImage');
         if (xkcdImage) {
-            xkcdImage.src = `${GITHUB_REPO_URL}/xkcd_comic.png?v=${cacheBust}`;
+            xkcdImage.src = `${GITHUB_REPO_URL}/xkcd_comic.png${cacheBust}`;
         }
 
         document.getElementById('lastUpdated').textContent = new Date().toLocaleTimeString();
