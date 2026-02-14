@@ -266,14 +266,13 @@ function renderProbabilityChart(headlines) {
     
     // Sort timestamps chronologically before mapping to chart points
     const chartData = Object.keys(runGroups)
-        .filter(t => new Date(t) >= fiveDaysAgo)
-        .sort((a, b) => new Date(a) - new Date(b))
         .map(t => ({
             x: new Date(t),
             y: runGroups[t].prob,
             headline: runGroups[t].headline
         }))
-        .filter(point => point.y >= 50);
+        .filter(point => point.y >= 50)
+        .sort((a, b) => a.x - b.x);
 
     if (probabilityChart) {
         probabilityChart.destroy();
