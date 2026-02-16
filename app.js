@@ -7,6 +7,9 @@
     if (typeof window !== 'undefined' && window.__APP_JS_INITIALIZED) return;
     if (typeof window !== 'undefined') window.__APP_JS_INITIALIZED = true;
 
+    const APP_VERSION = "1.0.6";
+    console.log(`GPTNotify Frontend App Version: ${APP_VERSION}`);
+
     // Base URL resolution: local dev vs. file:// vs. deployed (also exposed as window.API_BASE_URL)
     const API_BASE_URL = (() => {
         const { protocol, hostname, port } = window.location;
@@ -19,7 +22,7 @@
     if (typeof window !== 'undefined') window.API_BASE_URL = API_BASE_URL;
 
     // Data source (GitHub raw) for metrics.json + headlines.json
-    const GITHUB_REPO_URL = 'https://raw.githubusercontent.com/FelixKras/intelli.github.io/data';
+    const GITHUB_REPO_URL = './data';
 
     // State holders
     let currentRelevantHeadlines = [];
@@ -68,6 +71,8 @@
 
         xkcdImage: document.getElementById('xkcdImage'),
         lastUpdated: document.getElementById('lastUpdated'),
+        backendVersionDisplay: document.getElementById('backendVersionDisplay'),
+        headerVersionDisplay: document.getElementById('headerVersionDisplay'),
 
         relevantSortBy: document.getElementById('relevantSortBy'),
         relevantSortOrder: document.getElementById('relevantSortOrder'),
@@ -171,6 +176,7 @@
         if (el.apiSuccessRate) el.apiSuccessRate.textContent = `${(m.api_success_rate || 0).toFixed(1)}%`;
         if (el.errors) el.errors.textContent = m.errors_encountered || 0;
         if (el.heartbeatsSent) el.heartbeatsSent.textContent = m.telegram_heartbeats_sent || 0;
+        if (el.backendVersionDisplay && m.version) el.backendVersionDisplay.textContent = `v${m.version}`;
         const t = m.time_until_next_update_seconds;
         if (el.nextUpdate) {
             if (t != null && t > 0) el.nextUpdate.textContent = `${Math.floor(t / 60)}m ${Math.floor(t % 60)}s`;
@@ -534,6 +540,7 @@
 
     // ── Init: kick off polling, progress bar, and sort listeners ───────
     function init() {
+        if (el.headerVersionDisplay) el.headerVersionDisplay.textContent = `v${APP_VERSION}`;
         fetchData();
         setInterval(fetchData, refreshInterval);
         setInterval(updateRefreshProgress, 100);

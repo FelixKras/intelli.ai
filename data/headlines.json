@@ -1,0 +1,225 @@
+{
+  "current_headlines": [
+    {
+      "headline": "US military preparing for potentially weeks-long Iran operations",
+      "source": "JPost",
+      "probability": 85,
+      "keywords": "US, military, preparing, potentially, weeks-long, Iran, operations",
+      "date": "14/02/2026",
+      "datetime_iso": "2026-02-14T20:00:18+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Reza Pahlavi urges US military action in Iran, says signs regime is on brink of collapse",
+      "source": "JPost",
+      "probability": 65,
+      "keywords": "Reza Pahlavi, urges, US, military, action, Iran, signs, regime, brink, collapse",
+      "date": "14/02/2026",
+      "datetime_iso": "2026-02-14T20:00:18+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Canada says no relations with Iran without regime change, mum on support for US strike",
+      "source": "JPost",
+      "probability": 55,
+      "keywords": "Canada, relations, Iran, regime change, mum, support, US, strike",
+      "date": "14/02/2026",
+      "datetime_iso": "2026-02-14T20:00:18+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Amid Tehran's deadly crackdown, some 250,000 rally in Munich against Iranian regime",
+      "source": "JPost",
+      "probability": 25,
+      "keywords": "Tehran, deadly, crackdown, rally, Munich, against, Iranian, regime",
+      "date": "14/02/2026",
+      "datetime_iso": "2026-02-14T20:00:18+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "China's disappearing elite: The high-stakes gamble behind Xi's crackdown - analysis",
+      "source": "JPost",
+      "probability": 15,
+      "keywords": "China, disappearing, elite, high-stakes, gamble, Xi, crackdown, analysis",
+      "date": "14/02/2026",
+      "datetime_iso": "2026-02-14T20:00:18+00:00",
+      "source_type": "Media Outlet"
+    }
+  ],
+  "history_headlines": [],
+  "overall_probability": 65,
+  "joke": "Suzy Izzard: Imagine the U.S. military lurking in the shadows like a superhero who's run out of good ideas—weeks-long operations in Iran, they say, while Iran is probably just over there like, \"Can someone hand me a sandwich? I’m about to collapse here!” And meanwhile, Canada’s just standing on the sidelines, arms crossed, like that aunt at a family barbecue, muttering something about “no regime change till I see real commitment, dear.” And what’s China up to? Xi Jinping’s elite are disappearing faster than my will to do cardio when I see a donut! It’s all so absurd—if this were a reality TV show, we’d be a blend of “Survivor,” “The Bachelor,” and “Whose Line Is It Anyway?” with the world basically shouting, “Next contestant, please!” while sporting a charm bracelet of historical blunders that jingles every time someone mentions diplomacy!",
+  "stocks": [
+    {
+      "ticker": "Lockheed Martin Corporation",
+      "price_info": "LMT: $652.58 (+2.38%)",
+      "timestamp": "2026-02-14T21:29:54.420506",
+      "metadata": {
+        "company_name": "Lockheed Martin Corporation",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 652.58,
+        "change_percent": 2.376731562681407,
+        "previous_close": 637.43
+      }
+    },
+    {
+      "ticker": "RTX Corporation",
+      "price_info": "RTX: $200.06 (-0.54%)",
+      "timestamp": "2026-02-14T21:29:54.417115",
+      "metadata": {
+        "company_name": "RTX Corporation",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 200.06,
+        "change_percent": -0.5369394451625655,
+        "previous_close": 201.14
+      }
+    },
+    {
+      "ticker": "Northrop Grumman Corporation",
+      "price_info": "NOC: $702.57 (+1.08%)",
+      "timestamp": "2026-02-14T21:29:54.514445",
+      "metadata": {
+        "company_name": "Northrop Grumman Corporation",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 702.57,
+        "change_percent": 1.0804822605242865,
+        "previous_close": 695.06
+      }
+    },
+    {
+      "ticker": "General Dynamics Corporation",
+      "price_info": "GD: $347.64 (+2.02%)",
+      "timestamp": "2026-02-14T21:29:54.555967",
+      "metadata": {
+        "company_name": "General Dynamics Corporation",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 347.64,
+        "change_percent": 2.0220102714600103,
+        "previous_close": 340.75
+      }
+    },
+    {
+      "ticker": "The Boeing Company",
+      "price_info": "BA: $242.96 (+1.51%)",
+      "timestamp": "2026-02-14T21:29:54.390685",
+      "metadata": {
+        "company_name": "The Boeing Company",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 242.96,
+        "change_percent": 1.5082515145184934,
+        "previous_close": 239.35
+      }
+    },
+    {
+      "ticker": "Exxon Mobil Corporation",
+      "price_info": "XOM: $148.45 (-0.99%)",
+      "timestamp": "2026-02-14T21:29:54.404935",
+      "metadata": {
+        "company_name": "Exxon Mobil Corporation",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 148.45,
+        "change_percent": -0.9871273260855187,
+        "previous_close": 149.93
+      }
+    },
+    {
+      "ticker": "Chevron Corporation",
+      "price_info": "CVX: $183.74 (+0.73%)",
+      "timestamp": "2026-02-14T21:29:54.291758",
+      "metadata": {
+        "company_name": "Chevron Corporation",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 183.74,
+        "change_percent": 0.7346491228070194,
+        "previous_close": 182.4
+      }
+    },
+    {
+      "ticker": "SLB N.V.",
+      "price_info": "SLB: $50.39 (-0.49%)",
+      "timestamp": "2026-02-14T21:29:54.550753",
+      "metadata": {
+        "company_name": "SLB N.V.",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 50.39,
+        "change_percent": -0.49368088467614535,
+        "previous_close": 50.64
+      }
+    },
+    {
+      "ticker": "Halliburton Company",
+      "price_info": "HAL: $33.96 (-0.96%)",
+      "timestamp": "2026-02-14T21:29:54.476819",
+      "metadata": {
+        "company_name": "Halliburton Company",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 33.96,
+        "change_percent": -0.962379702537178,
+        "previous_close": 34.29
+      }
+    },
+    {
+      "ticker": "Baker Hughes Company",
+      "price_info": "BKR: $61.20 (-0.31%)",
+      "timestamp": "2026-02-14T21:29:54.545315",
+      "metadata": {
+        "company_name": "Baker Hughes Company",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 61.2,
+        "change_percent": -0.3094966606939204,
+        "previous_close": 61.39
+      }
+    },
+    {
+      "ticker": "SPDR Gold Shares",
+      "price_info": "GLD: $462.62 (+2.49%)",
+      "timestamp": "2026-02-14T21:29:54.625602",
+      "metadata": {
+        "company_name": "SPDR Gold Shares",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 462.62,
+        "change_percent": 2.487870799087268,
+        "previous_close": 451.39
+      }
+    },
+    {
+      "ticker": "Newmont Corporation",
+      "price_info": "NEM: $125.80 (+6.50%)",
+      "timestamp": "2026-02-14T21:29:54.600589",
+      "metadata": {
+        "company_name": "Newmont Corporation",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 125.8,
+        "change_percent": 6.501862512698945,
+        "previous_close": 118.12
+      }
+    },
+    {
+      "ticker": "Freeport-McMoRan Inc.",
+      "price_info": "FCX: $62.84 (+1.29%)",
+      "timestamp": "2026-02-14T21:29:54.412137",
+      "metadata": {
+        "company_name": "Freeport-McMoRan Inc.",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 62.84,
+        "change_percent": 1.2894906511927857,
+        "previous_close": 62.04
+      }
+    }
+  ],
+  "xkcd_comic_base64": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAyNCIgaGVpZ2h0PSIxMDI0IiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICAgICAgICA8cmVjdCB3aWR0aD0iMTAyNCIgaGVpZ2h0PSIxMDI0IiBmaWxsPSIjMWUyOTNiIiAvPgogICAgICAgICAgICA8dGV4dCB5PSI1MTIiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjQ4IiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+CiAgICAgICAgICAgICAgICA8dHNwYW4geD0iNTEyIiBkeT0iLTAuNmVtIj5VUyBtaWxpdGFyeSBwcmVwYXJpbmcgZm9yIHBvdGVudGlhbGx5PC90c3Bhbj48dHNwYW4geD0iNTEyIiBkeT0iMS4yZW0iPndlZWtzLWxvbmcgSXJhbiBvcGVyYXRpb25zPC90c3Bhbj4KICAgICAgICAgICAgPC90ZXh0PgogICAgICAgIDwvc3ZnPg==",
+  "last_updated": "2026-02-14T21:30:10.715536"
+}
