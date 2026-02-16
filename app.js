@@ -1,13 +1,13 @@
-// app.js — refactored, guarded, commented
+// app.js — refactored, guarded, documented in-place
 
 (function () {
     'use strict';
 
-    // Prevent double-loading the script (avoids duplicate const errors)
+    // Guard: prevent double-loading the script (avoids duplicate const errors)
     if (typeof window !== 'undefined' && window.__APP_JS_INITIALIZED) return;
     if (typeof window !== 'undefined') window.__APP_JS_INITIALIZED = true;
 
-    // Compute API base URL (also expose on window for other scripts, but keep const scoped here)
+    // Base URL resolution: local dev vs. file:// vs. deployed (also exposed as window.API_BASE_URL)
     const API_BASE_URL = (() => {
         const { protocol, hostname, port } = window.location;
         if (protocol === 'file:') return 'http://localhost:5000';
@@ -18,18 +18,19 @@
     })();
     if (typeof window !== 'undefined') window.API_BASE_URL = API_BASE_URL;
 
+    // Data source (GitHub raw) for metrics.json + headlines.json
     const GITHUB_REPO_URL = 'https://raw.githubusercontent.com/FelixKras/intelli.github.io/data';
 
-    // State
+    // State holders
     let currentRelevantHeadlines = [];
     let currentAllHeadlines = [];
     let probabilityChart = null;
     let nextUpdateTimer = null;
-    let refreshInterval = 10000;
+    let refreshInterval = 10000; // ms
     let refreshTimer = 0;
-    let lastDataKey = null;
+    let lastDataKey = null; // lightweight change detector key
 
-    // Cache DOM nodes (resolved once; safe if script is at end of body)
+    // DOM cache (single lookup per element)
     const el = {
         refreshProgressBar: document.getElementById('refreshProgressBar'),
         statusText: document.getElementById('statusText'),
@@ -77,7 +78,7 @@
     const skeletonNodes = document.querySelectorAll('.skeleton');
     const rootContainer = document.querySelector('.max-w-7xl');
 
-    // Utils
+    // ── Utilities ─────────────────────────────────────────────
     const pad2 = (n) => String(n).padStart(2, '0');
     const pct = (p) => `${Math.round(p)}%`;
 
@@ -104,6 +105,7 @@
         return { label: 'Info', cls: 'bg-slate-100 text-slate-700', lg: 'text-slate-500' };
     }
 
+    // Stable sort helper for both headline lists
     function sortHeadlines(headlines, sortBy, sortOrder) {
         return [...headlines].sort((a, b) => {
             if (sortBy === 'probability') {
@@ -115,7 +117,7 @@
         });
     }
 
-    // Refresh progress
+    // ── Refresh progress bar ──────────────────────────────────
     function updateRefreshProgress() {
         if (!el.refreshProgressBar) return;
         refreshTimer += 100;
@@ -123,7 +125,7 @@
         if (refreshTimer >= refreshInterval) refreshTimer = 0;
     }
 
-    // Countdown
+    // ── Countdown to next update ──────────────────────────────
     function startNextUpdateCountdown(nextIso) {
         if (nextUpdateTimer) clearInterval(nextUpdateTimer);
         if (!nextIso) return;
@@ -141,7 +143,7 @@
         }, 1000);
     }
 
-    // Status
+    // ── Status UI (Online/Offline) ────────────────────────────
     function updateStatus(online) {
         const color = online ? 'emerald' : 'red';
         const label = online ? 'Online' : 'Offline';
@@ -159,7 +161,7 @@
         }
     }
 
-    // Metrics
+    // ── Metrics rendering ─────────────────────────────────────
     function updateMetrics(m) {
         if (el.runtime) el.runtime.textContent = formatDuration(m.runtime_seconds);
         if (el.articlesProcessed) el.articlesProcessed.textContent = m.articles_processed || 0;
@@ -176,7 +178,7 @@
         }
     }
 
-    // Headline templates
+    // ── Headline card template ────────────────────────────────
     function headlineCard(h) {
         const sev = getSeverity(h.probability);
         const time = h.datetime_iso ? formatTimestamp(h.datetime_iso) : 'N/A';
@@ -199,6 +201,7 @@
         </div>`;
     }
 
+    // Unified headlines renderer (relevant + all) with sort
     function renderHeadlines(headlines, container, countEl, sortBy = 'date', sortOrder = 'desc') {
         if (!container) return;
         if (!headlines || !headlines.length) {
@@ -211,12 +214,13 @@
         container.innerHTML = sorted.map(headlineCard).join('');
     }
 
-    // Probability chart
+    // ── Probability chart (Chart.js, max per timestamp ≥50%) ──
     function renderProbabilityChart(headlines) {
         if (!el.probabilityChart) return;
         const ctx = el.probabilityChart.getContext('2d');
         if (!ctx) return;
 
+        // Group by timestamp, keep max probability
         const groups = {};
         for (const h of headlines) {
             if (!h.datetime_iso) continue;
@@ -303,7 +307,7 @@
         });
     }
 
-    // Jokes
+    // ── Jokes renderer (accepts array; single joke wrapped upstream) ──
     function renderJokes(jokes) {
         if (!el.jokesContainer) return;
         if (!jokes || !jokes.length) {
@@ -316,7 +320,7 @@
         }).join('');
     }
 
-    // Stocks
+    // ── Stock cards renderer ──────────────────────────────────
     function stockCard(stock) {
         const meta = stock.metadata || {};
         const name = meta.company_name || stock.ticker || 'N/A';
@@ -363,24 +367,24 @@
         el.stocksContainer.innerHTML = stocks.map(stockCard).join('');
     }
 
-    // Fetch & render
+    // ── Fetch + render pipeline (with lightweight change detection) ──
     async function fetchData() {
         if (rootContainer) rootContainer.classList.add('updating');
         refreshTimer = 0;
 
         try {
             const bust = `?v=${Date.now()}`;
+            // Core data pulls (jokes+stocks come from headlines.json)
             const [metricsRes, headlinesRes] = await Promise.all([
                 fetch(`${GITHUB_REPO_URL}/metrics.json${bust}`),
                 fetch(`${GITHUB_REPO_URL}/headlines.json${bust}`)
             ]);
-
             if (!metricsRes.ok || !headlinesRes.ok) throw new Error('HTTP error! Could not fetch core data files.');
 
             const metrics = await metricsRes.json();
             const headlinesData = await headlinesRes.json();
 
-            // Lightweight change detection
+            // Lightweight change key to skip unnecessary DOM work
             const key = [
                 metrics?.last_updated || '',
                 headlinesData?.last_updated || '',
@@ -388,14 +392,14 @@
                 (headlinesData?.history_headlines || []).length,
                 headlinesData?.overall_probability || ''
             ].join('|');
-
             if (key === lastDataKey) return;
             lastDataKey = key;
 
             updateStatus(true);
+            // Remove skeleton placeholders once data arrives
             skeletonNodes.forEach(n => n.classList.remove('skeleton', 'h-24', 'h-7', 'h-5', 'h-20', 'w-48', 'w-full', 'w-24', 'w-3/4'));
 
-            // Metrics
+            // Metrics fill
             if (metrics) {
                 updateMetrics(metrics);
                 if (el.analysisModel) el.analysisModel.textContent = metrics.analysis_model || '';
@@ -404,7 +408,7 @@
                 if (metrics.next_update_time) startNextUpdateCountdown(metrics.next_update_time);
             }
 
-            // Headlines
+            // Headlines processing (merge, filter, sort, max-24h)
             if (headlinesData) {
                 const current = headlinesData.current_headlines || [];
                 const history = headlinesData.history_headlines || [];
@@ -415,7 +419,7 @@
                 const ago2d = new Date(serverTime - 2 * 86400000);
                 const ago5d = new Date(serverTime - 5 * 86400000);
 
-                // Max probability in last 24h (O(n))
+                // Max probability in last 24h (O(n), no sort)
                 let top = null;
                 for (const h of all) {
                     const d = h.datetime_iso ? new Date(h.datetime_iso) : null;
@@ -449,7 +453,7 @@
                     }
                 }
 
-                // Filtering: <50% => 2 days; >=50% => 5 days
+                // Filtering rules: <50% keep 2 days; >=50% keep 5 days
                 const filtered = [];
                 const relevant = [];
                 for (const h of all) {
@@ -494,6 +498,7 @@
                 }
             }
 
+            // Last updated UI stamp
             if (el.lastUpdated) el.lastUpdated.textContent = new Date().toLocaleTimeString();
 
         } catch (err) {
@@ -504,7 +509,7 @@
         }
     }
 
-    // Sort handlers
+    // ── Sort handlers (UI selects) ────────────────────────────
     function updateRelevantSort() {
         if (!currentRelevantHeadlines.length) return;
         renderHeadlines(
@@ -527,7 +532,7 @@
         );
     }
 
-    // Init
+    // ── Init: kick off polling, progress bar, and sort listeners ───────
     function init() {
         fetchData();
         setInterval(fetchData, refreshInterval);
