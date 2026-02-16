@@ -7,7 +7,7 @@
     if (typeof window !== 'undefined' && window.__APP_JS_INITIALIZED) return;
     if (typeof window !== 'undefined') window.__APP_JS_INITIALIZED = true;
 
-    const APP_VERSION = "1.0.6";
+    const APP_VERSION = "1.0.7";
     console.log(`GPTNotify Frontend App Version: ${APP_VERSION}`);
 
     // Base URL resolution: local dev vs. file:// vs. deployed (also exposed as window.API_BASE_URL)
@@ -73,6 +73,7 @@
         lastUpdated: document.getElementById('lastUpdated'),
         backendVersionDisplay: document.getElementById('backendVersionDisplay'),
         headerVersionDisplay: document.getElementById('headerVersionDisplay'),
+        metricsFrontendVersion: document.getElementById('metricsFrontendVersion'),
 
         relevantSortBy: document.getElementById('relevantSortBy'),
         relevantSortOrder: document.getElementById('relevantSortOrder'),
@@ -541,6 +542,7 @@
     // ── Init: kick off polling, progress bar, and sort listeners ───────
     function init() {
         if (el.headerVersionDisplay) el.headerVersionDisplay.textContent = `v${APP_VERSION}`;
+        if (el.metricsFrontendVersion) el.metricsFrontendVersion.textContent = `v${APP_VERSION}`;
         fetchData();
         setInterval(fetchData, refreshInterval);
         setInterval(updateRefreshProgress, 100);
