@@ -170,8 +170,8 @@ function renderRelevantHeadlines(headlines, sortBy = 'date', sortOrder = 'desc')
             <div class="headline-card fade-in">
                 <div class="flex items-start justify-between gap-3">
                     <div class="flex-1">
-                        <div class="text-sm font-medium text-slate-200">${headline.headline}</div>
-                        <div class="mt-1 text-xs text-slate-400">Keywords: ${headline.keywords || 'N/A'}</div>
+                    <div class="text-sm font-medium text-slate-200">${headline.headline}</div>
+                    <div class="mt-1 text-xs text-slate-400">Keywords: ${headline.keywords || 'N/A'}</div>
                     </div>
                     <span class="text-xs px-2 py-1 rounded-md ${sev.class}">${headline.probability}%</span>
                 </div>
@@ -223,8 +223,8 @@ function renderAllHeadlines(headlines, sortBy = 'date', sortOrder = 'desc') {
             <div class="headline-card fade-in">
                 <div class="flex items-start justify-between gap-3">
                     <div class="flex-1">
-                        <div class="text-sm font-medium text-slate-200">${headline.headline}</div>
-                        <div class="mt-1 text-xs text-slate-400">Keywords: ${headline.keywords || 'N/A'}</div>
+                    <div class="text-sm font-medium text-slate-200">${headline.headline}</div>
+                    <div class="mt-1 text-xs text-slate-400">Keywords: ${headline.keywords || 'N/A'}</div>
                     </div>
                     <span class="text-xs px-2 py-1 rounded-md ${sev.class}">${headline.probability}%</span>
                 </div>
@@ -306,29 +306,29 @@ function renderProbabilityChart(headlines) {
                 x: {
                     type: 'time',
                     time: {
-                        unit: 'day',
-                        displayFormats: {
-                            day: 'MMM d'
-                        }
+                    unit: 'day',
+                    displayFormats: {
+                    day: 'MMM d'
+                    }
                     },
                     grid: {
-                        color: 'rgba(255, 255, 255, 0.05)'
+                    color: 'rgba(255, 255, 255, 0.05)'
                     },
                     ticks: {
-                        color: 'rgba(255, 255, 255, 0.5)',
-                        font: { size: 10 }
+                    color: 'rgba(255, 255, 255, 0.5)',
+                    font: { size: 10 }
                     }
                 },
                 y: {
                     beginAtZero: true,
                     max: 100,
                     grid: {
-                        color: 'rgba(255, 255, 255, 0.05)'
+                    color: 'rgba(255, 255, 255, 0.05)'
                     },
                     ticks: {
-                        color: 'rgba(255, 255, 255, 0.5)',
-                        font: { size: 10 },
-                        callback: (val) => val + '%'
+                    color: 'rgba(255, 255, 255, 0.5)',
+                    font: { size: 10 },
+                    callback: (val) => val + '%'
                     }
                 }
             },
@@ -343,25 +343,25 @@ function renderProbabilityChart(headlines) {
                     padding: 10,
                     displayColors: false,
                     callbacks: {
-                        label: (context) => `Probability: ${context.parsed.y}%`,
-                        afterLabel: (context) => {
-                            const headline = context.raw.headline;
-                            if (headline) {
-                                // Wrap text for tooltip if too long
-                                const words = headline.split(' ');
-                                let lines = [''];
-                                let currentLine = 0;
-                                words.forEach(word => {
-                                    if ((lines[currentLine] + word).length > 40) {
-                                        currentLine++;
-                                        lines[currentLine] = '';
-                                    }
-                                    lines[currentLine] += word + ' ';
-                                });
-                                return ['', 'Headline:', ...lines];
-                            }
-                            return '';
-                        }
+                    label: (context) => `Probability: ${context.parsed.y}%`,
+                    afterLabel: (context) => {
+                    const headline = context.raw.headline;
+                    if (headline) {
+                    // Wrap text for tooltip if too long
+                    const words = headline.split(' ');
+                    let lines = [''];
+                    let currentLine = 0;
+                    words.forEach(word => {
+                    if ((lines[currentLine] + word).length > 40) {
+                    currentLine++;
+                    lines[currentLine] = '';
+                    }
+                    lines[currentLine] += word + ' ';
+                    });
+                    return ['', 'Headline:', ...lines];
+                    }
+                    return '';
+                    }
                     }
                 }
             }
@@ -425,22 +425,22 @@ function renderStocks(stocks) {
             <div class="rounded-lg bg-slate-950/50 border ${borderClass} p-3 hover:bg-slate-950/70 transition-colors">
                 <div class="flex items-start justify-between gap-2">
                     <div class="flex-1 min-w-0">
-                        <div class="flex items-center gap-2">
-                            <span class="text-sm font-bold text-slate-100">${displayName}</span>
-                            <span class="text-[10px] px-1.5 py-0.5 rounded ${stateBadgeClass} font-medium uppercase">
-                                ${marketState}
-                            </span>
-                        </div>
-                        <div class="mt-1 flex items-center gap-2">
-                            <span class="text-[10px] text-slate-500 uppercase">Trend:</span>
-                            <span class="text-[10px] font-bold ${trendColor}">${expectedTrend}</span>
-                        </div>
+                    <div class="flex items-center gap-2">
+                    <span class="text-sm font-bold text-slate-100">${displayName}</span>
+                    <span class="text-[10px] px-1.5 py-0.5 rounded ${stateBadgeClass} font-medium uppercase">
+                    ${marketState}
+                    </span>
+                    </div>
+                    <div class="mt-1 flex items-center gap-2">
+                    <span class="text-[10px] text-slate-500 uppercase">Trend:</span>
+                    <span class="text-[10px] font-bold ${trendColor}">${expectedTrend}</span>
+                    </div>
                     </div>
                     <div class="text-right">
-                        <div class="text-lg font-bold text-slate-200 font-mono">$${price}</div>
-                        <div class="text-xs font-semibold ${colorClass}">
-                            ${arrowIcon} ${Math.abs(changePercent).toFixed(2)}%
-                        </div>
+                    <div class="text-lg font-bold text-slate-200 font-mono">$${price}</div>
+                    <div class="text-xs font-semibold ${colorClass}">
+                    ${arrowIcon} ${Math.abs(changePercent).toFixed(2)}%
+                    </div>
                     </div>
                 </div>
             </div>
@@ -462,11 +462,9 @@ async function fetchData() {
     try {
         const cacheBust = `?v=${new Date().getTime()}`;
         
-        const [metricsRes, headlinesRes, jokesRes, stocksRes] = await Promise.all([
+        const [metricsRes, headlinesRes] = await Promise.all([
             fetch(`${GITHUB_REPO_URL}/metrics.json${cacheBust}`),
-            fetch(`${GITHUB_REPO_URL}/headlines.json${cacheBust}`),
-            fetch(`${GITHUB_REPO_URL}/jokes.json${cacheBust}`),
-            fetch(`${GITHUB_REPO_URL}/stocks.json${cacheBust}`)
+            fetch(`${GITHUB_REPO_URL}/headlines.json${cacheBust}`)
         ]);
 
         if (!metricsRes.ok || !headlinesRes.ok) {
@@ -475,8 +473,12 @@ async function fetchData() {
 
         const metrics = await metricsRes.json();
         const headlinesData = await headlinesRes.json();
-        const jokes = jokesRes.ok ? await jokesRes.json() : { jokes: [] };
-        const stocks = stocksRes.ok ? await stocksRes.json() : { stocks: [] };
+
+        // FIX: Extract joke and stocks directly from headlinesData
+        // joke is a single string at the top level, not a separate file
+        const jokeText = headlinesData.joke || null;
+        // stocks is an array at the top level, not a separate file
+        const stocksArray = headlinesData.stocks || [];
 
         const serverTimeStr = metrics && metrics.last_updated ? metrics.last_updated : new Date().toISOString();
         const now = new Date(serverTimeStr.replace(' ', 'T'));
@@ -577,12 +579,14 @@ async function fetchData() {
             renderProbabilityChart(allHistory.concat(currentRun));
         }
 
-        if (jokes.jokes) {
-            renderJokes(jokes.jokes);
+        // FIX: Render joke from headlinesData.joke (single string → wrap in array)
+        if (jokeText) {
+            renderJokes([jokeText]);
         }
 
-        if (stocks.stocks) {
-            renderStocks(stocks.stocks);
+        // FIX: Render stocks from headlinesData.stocks (already an array)
+        if (stocksArray && stocksArray.length > 0) {
+            renderStocks(stocksArray);
         }
 
         // Update XKCD comic image with cache buster
