@@ -22,8 +22,7 @@
     if (typeof window !== 'undefined') window.API_BASE_URL = API_BASE_URL;
 
     // Data source (GitHub raw) for metrics.json + headlines.json
-    const GITHUB_REPO_URL = './data';
-
+    const GITHUB_REPO_URL = 'https://raw.githubusercontent.com/FelixKras/intelli.ai/data';
     // State holders
     let currentRelevantHeadlines = [];
     let currentAllHeadlines = [];
