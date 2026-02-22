@@ -1,0 +1,19 @@
+{
+  "version": "1.1.5",
+  "runtime_seconds": 31722.668755,
+  "articles_processed": 120,
+  "notifications_sent": 0,
+  "errors_encountered": 60,
+  "successful_api_calls": 826,
+  "failed_api_calls": 0,
+  "telegram_messages_sent": 77,
+  "telegram_heartbeats_sent": 77,
+  "jokes_generated": 39,
+  "ingest_rate_per_min": 0.38,
+  "lag_minutes": -104.6,
+  "api_success_rate": 100.0,
+  "time_until_next_update_seconds": 518.0,
+  "analysis_model": "deepseek/deepseek-v3.1",
+  "jokes_model": "gpt-4o-mini",
+  "last_updated": "2026-02-22T04:14:55.662572"
+}

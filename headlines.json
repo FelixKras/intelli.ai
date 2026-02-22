@@ -1,0 +1,1076 @@
+{
+  "current_headlines": [
+    {
+      "headline": "At the expense of health and education services: The expected price of the arms race in Europe",
+      "source": "TheMarker",
+      "probability": 15,
+      "keywords": "arms race, Europe, health services, education services, price",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T06:04:17+02:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Establishing unlimited server farms will increase electricity bills and harm supply reliability",
+      "source": "TheMarker",
+      "probability": 5,
+      "keywords": "server farms, electricity bills, supply reliability, unlimited",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T06:04:17+02:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Bans on children and teenagers using social networks are gaining momentum worldwide",
+      "source": "TheMarker",
+      "probability": 5,
+      "keywords": "bans, children, teenagers, social networks, worldwide",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T06:04:17+02:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Wolt Minus: The company will part with operations that generate hundreds of millions for it in Israel",
+      "source": "TheMarker",
+      "probability": 10,
+      "keywords": "Wolt Minus, company, operations, hundreds of millions, Israel",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T06:04:17+02:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Behind the change in the psychometric test: 'Even students who completed 5 units of English cannot write'",
+      "source": "TheMarker",
+      "probability": 5,
+      "keywords": "psychometric test, change, students, English units, writing",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T06:04:17+02:00",
+      "source_type": "Media Outlet"
+    }
+  ],
+  "history_headlines": [
+    {
+      "headline": "Crete: Abundance of American military aircraft at Chania airport. Which planes did you identify?",
+      "source": "Abu Ali Express",
+      "probability": 25,
+      "keywords": "Crete, Abundance, American, military, aircraft, Chania, airport, planes, identify",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T19:10:29+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Crete: Abundance of American military aircraft at Chania airport. Which aircraft did you identify? [3 comments]",
+      "source": "Abu Ali Express",
+      "probability": 65,
+      "keywords": "Crete, American, military, aircraft, Chania, airport, identified",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T19:10:29+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Palestinian channels report 4 injured, including one in serious condition, in a clan feud in Kafr Kanna (Israeli territory). Several channels claim that a drone was used in the clan feud, which dropped a grenade on a house and created a hole in the ceiling - details are still being checked. Intense gunfire was recorded during the clan feud. Gunfire was also directed at the mayor's house. [One response]",
+      "source": "Abu Ali Express",
+      "probability": 5,
+      "keywords": "clan feud, Kafr Kanna, injured, drone, grenade, gunfire, mayor, Israel",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T19:41:04+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Heavy gunfire was directed at the house of the head of the council in Kafr Kanna",
+      "source": "Arab World News",
+      "probability": 5,
+      "keywords": "heavy gunfire, house, head of council, Kafr Kanna",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T19:42:20+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Clan feuds do not skip Ramadan: This evening as well, clashes between clans in Kafr Kanna in the north, a number of injured in the clash. Besides the incessant gunfire, according to reports, for the first time tonight, attack drones were used which dropped grenades towards buildings - this is a serious escalation, crime/terror organizations among Arabs in Israel are using drones that drop grenades from the air. What will happen when an intifada like the Guardian of the Walls riots breaks out? It is clear to all that the crime/terror organizations will use attack drones against police forces and more. The Israeli government must issue an order for an operation to collect all weapons held by Arabs in Israel, and to recruit the Shin Bet for this purpose and if necessary take severe measures against those who do not hand over their weapons to the police, otherwise it will blow up in our faces one day. [Hananel Aviv]",
+      "source": "Arab World News",
+      "probability": 5,
+      "keywords": "clan feuds, Ramadan, clashes, Kafr Kanna, injured, gunfire, drones, grenades, escalation, crime organizations, terror, Israel, police, weapons, Shin Bet",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T19:42:20+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Violent brawl in Kafr Kanna",
+      "source": "Arab World News",
+      "probability": 5,
+      "keywords": "violent brawl, Kafr Kanna",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T19:42:20+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Hamas: The Zionist regime prevents the entry of the Quran into Gaza. Hamas spokesperson: The Zionist regime, after destroying the mosques in the Gaza Strip and burning the Qurans, now also prevents the Noble Qurans from reaching the people of Gaza. What is this inability and helplessness that has befallen a nation that cannot even deliver food, medicine, and the Quran to the people of Gaza? Cyber Army of the Guardians @SEPAH",
+      "source": "IRGC",
+      "probability": 15,
+      "keywords": "Hamas, Zionist regime, Quran, Gaza, mosques, destroyed, burning, prevents, entry, food, medicine, helplessness, nation, people",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T19:52:08+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Following the report: Documentation from an apartment that a drone threw towards grenades in Kafr Kanna. Crazy",
+      "source": "Arab World News",
+      "probability": 25,
+      "keywords": "documentation, apartment, drone, threw, grenades, Kafr Kanna, report, following",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T19:47:21+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Kafr Kanna heavy fire in street war between clans",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "Kafr Kanna, heavy fire, street war, clans, fighting",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T19:47:21+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The temperatures today were significantly higher than the seasonal average",
+      "source": "Walla",
+      "probability": 0,
+      "keywords": "temperatures, today, significantly, higher, seasonal, average",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T22:45:00+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "An Arab source based on satellite images: The United States has advanced special forces units that will operate from the south and southeast of Iran. Note: Special forces units trained to operate behind enemy lines are not new at all; they have existed for decades. What has changed is the technology and the special capabilities of those units, each with its uniqueness. Reports about special forces units that have already arrived in the area were reported on the channel. The 'target bank' of those units is unique, and they will be activated when the situation allows it. Abu Saleh, the Arab Desk",
+      "source": "Abu Saleh's Desk",
+      "probability": 75,
+      "keywords": "United States, special forces, units, operate, south, southeast, Iran, advanced, satellite images, target bank, activated, situation, technology, capabilities",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T19:58:54+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Egypt, Saudi Arabia, Jordan, the Palestinian Authority, and Hamas publish statements condemning the words of the US Ambassador to Israel, Mike Huckabee, that Israel can take the territory between the Nile and the Euphrates, as God promised to the people of Israel. [To respond to the article click here]",
+      "source": "Abu Ali Express",
+      "probability": 20,
+      "keywords": "Egypt, Saudi Arabia, Jordan, Palestinian Authority, Hamas, statements, condemning, words, US Ambassador, Israel, Mike Huckabee, territory, Nile, Euphrates, God, promised, people, Israel",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T19:55:58+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Palestinian channels report 4 injured, including one in serious condition, in a clan dispute in Kafr Kanna (Israeli territory). In several channels, it is claimed that in the clan dispute, a drone was used to drop a grenade on a house and created a hole in the ceiling - the details are still being verified. Intense shooting was recorded during the clan dispute. Shooting was also carried out at the mayor's house. [2 comments]",
+      "source": "Abu Ali Express",
+      "probability": 20,
+      "keywords": "Palestinian, channels, report, injured, serious condition, clan dispute, Kafr Kanna, Israeli territory, drone, grenade, house, hole, ceiling, details, verified, intense shooting, recorded, mayor, house, comments",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T19:55:58+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "A video published with the title of beating a girl on the streets of Iran, which has been highly viewed in recent days, is related to the month of Mehr this year in Turkey. Cyber Army Sepah @SEPAH",
+      "source": "IRGC",
+      "probability": 10,
+      "keywords": "video, published, title, beating, girl, streets, Iran, highly viewed, recent days, month, Mehr, year, Turkey, related, Cyber Army, Sepah",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T19:59:25+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Palestinian channels report 4 injured, including one in serious condition, in a clan dispute in Kafr Kanna (Israeli territory). In several channels, it is claimed that in the clan dispute, a drone was used to drop a grenade on a house and created a hole in the ceiling - the details are still being verified. Intense shooting was recorded during the clan dispute. Shooting was also carried out at the mayor's house. [2 comments]",
+      "source": "Abu Ali Express",
+      "probability": 10,
+      "keywords": "Palestinian, channels, report, injured, serious condition, clan dispute, Kafr Kanna, Israeli territory, drone, grenade, house, hole, ceiling, details, verified",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T19:55:58+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Houthi mobilize troops in Yemen with unclear target, as possible strike on Iran looms in - report",
+      "source": "JPost",
+      "probability": 75,
+      "keywords": "Houthi, mobilize, troops, Yemen, unclear target, possible strike, Iran, looms, report",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T21:45:41+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Trump's options on Iran: Trump weighs 'token' Iran enrichment in narrow nuclear compromise - report",
+      "source": "JPost",
+      "probability": 25,
+      "keywords": "Trump, options, Iran, weighs, token, enrichment, nuclear, compromise, report",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T21:45:41+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Hezbollah after waves of attacks last night, they really don't understand what is going to happen to them",
+      "source": "Abu Saleh's Desk",
+      "probability": 40,
+      "keywords": "Hezbollah, waves, attacks, last night, understand, going to happen",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:09:38+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Lakenheath Air Force base in England 12 F-22 fighter jets intended to depart to the Middle East, are on standby",
+      "source": "Abu Saleh's Desk",
+      "probability": 65,
+      "keywords": "Lakenheath, Air Force, base, England, F-22, fighter jets, depart, Middle East, standby",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:09:38+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "United Arab Emirates announces heavy cyber attacks on its infrastructure!",
+      "source": "Abu Saleh's Desk",
+      "probability": 15,
+      "keywords": "United Arab Emirates, announces, heavy, cyber attacks, infrastructure",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:09:38+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Hezbollah officially confirmed the deaths of seven of its fighters. I saw 'suddenly they discovered' that the Revolutionary Guards actually manage Hezbollah. You in the channel have known this for months... Abu Saleh's Arabic Desk",
+      "source": "Abu Saleh's Desk",
+      "probability": 25,
+      "keywords": "Hezbollah, confirmed, deaths, fighters, Revolutionary Guards, manage",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:17:58+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Pakistani airstrike on Afghanistan: Local sources report that minutes ago, Pakistani army fighter jets bombed parts of Barmal district in Paktika province, Afghanistan. Cyber Guards of the IRGC @SEPAH",
+      "source": "IRGC",
+      "probability": 20,
+      "keywords": "Pakistani, airstrike, Afghanistan, fighter jets, bombed, Barmal, Paktika",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:16:50+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "European source: Iran sees Jordan as a strategic target due to the significant US military presence. Clearly someone thought differently, the question is how did the King agree to this? How great are Your works, God, who blinded our enemies. Abu Saleh's Arabic Desk",
+      "source": "Abu Saleh's Desk",
+      "probability": 15,
+      "keywords": "European, source, Iran, Jordan, strategic, target, US, military, presence",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:17:58+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Palestinian channels complain: 11 Palestinian families were forced to leave their 'land' near the village of Al-Mughayyir in the Ramallah district due to 'settler harassment'. [To comment on the article click here]",
+      "source": "Abu Ali Express",
+      "probability": 10,
+      "keywords": "Palestinian, families, forced, leave, land, village, Al-Mughayyir, Ramallah, settler, harassment",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:13:01+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "American officials were aware of Epstein's corruption: The Guardian newspaper wrote: Despite Epstein being under FBI intelligence surveillance for 15 years, security officials took no action to stop him, and many girls fell victim to this sex offender. The release of information related to an interview with one of the victims in 2011 shows that a complaint against Epstein was filed in 1996, but was not addressed by law enforcement. The US Justice Department recently selectively released 3 million pages from the Epstein file. A controversial case that exposed organized corruption in the trafficking of underage girls and named individuals including Donald Trump and the brother of the King of England. Cyber Guards of the IRGC @SEPAH",
+      "source": "IRGC",
+      "probability": 5,
+      "keywords": "American, officials, Epstein, corruption, FBI, surveillance, victims, sex offender, complaint, Justice Department, file, trafficking, underage",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:16:50+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "General Jack Keane: Conditions for regime change are ripe - we are preparing for a broad aerial campaign. Our operation will be limited, in the sense that we do not intend to carry out a ground invasion to bring about regime change. Instead, we will rely on a significant aerial campaign, which will include the use of aircraft and missiles, to create the conditions necessary for regime change. What you see on the map reflects this evolving process.",
+      "source": "Arab World News",
+      "probability": 85,
+      "keywords": "General Jack Keane, regime change, preparing, aerial campaign, operation, limited, ground invasion, aerial campaign, aircraft, missiles, conditions, regime change, map, evolving process",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:27:40+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Professor Pip, lecturer at an American university: The US has deployed between 40% and 50% of its air capabilities near Iran. In history, there has never been a case where the US sent such a scope of forces to any place and did not attack afterwards. An attack appears certain.",
+      "source": "Arab World News",
+      "probability": 80,
+      "keywords": "Professor Pip, US, deployed, air capabilities, near Iran, history, scope, forces, attack, certain",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:27:40+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Mike Pompeo: 'The world and the people in Iran deserve to see the historic moment of the fall of the Islamic Republic!'",
+      "source": "Abu Saleh's Desk",
+      "probability": 40,
+      "keywords": "Mike Pompeo, world, people, Iran, deserve, see, historic moment, fall, Islamic Republic",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:19:49+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "First of all, one should never underestimate the enemy. In addition, an operational baptism of fire for such a system against the US is a treasure for the Russians who will be able to learn the American capabilities in the field and make corrections, adjustments and improvements to the system.",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "never, underestimate, enemy, operational, baptism, fire, system, US, treasure, Russians, learn, American capabilities, field, corrections, adjustments, improvements",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:27:40+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "If you were bored, reports indicate that Pakistani fighter jets carried out airstrikes against a target in Afghanistan.",
+      "source": "Arab World News",
+      "probability": 10,
+      "keywords": "bored, reports, indicate, Pakistani, fighter jets, carried out, airstrikes, target, Afghanistan",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:27:40+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Are the Islamic Revolutionary Guard Corps of Iran managing Hezbollah today? Report: Tehran is preparing Shi'ite militia fighters for war against the United States and Israel (written by Sachin Josa – February 21, 2026)",
+      "source": "Arab World News",
+      "probability": 75,
+      "keywords": "Islamic Revolutionary Guard Corps, Iran, managing, Hezbollah, Tehran, preparing, Shi'ite, militia, fighters, war, United States, Israel",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:30:50+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Interesting tweet from a Lebanese political activist: Tonight will be difficult for Tehran.",
+      "source": "Arab World News",
+      "probability": 60,
+      "keywords": "Interesting, tweet, Lebanese, political, activist, Tonight, difficult, Tehran",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:30:50+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Saudi Arabia: America must be held accountable for the statements of its ambassador in Israel. The Saudi Arabian Ministry of Foreign Affairs reacted to the statements of the American ambassador in occupied Palestine, who said that the Zionist regime has the right to dominate the Middle East. The Saudi Foreign Ministry announced: We strongly condemn the content of the statements of the American ambassador in Israel; statements in which, with a negligent tone, Israel's complete control over the entire Middle East was described as acceptable. We ask the United States Department of State to clearly announce its position regarding the viewpoint presented by the American ambassador in Israel. Cyber Army of the Guardians @SEPAH",
+      "source": "IRGC",
+      "probability": 25,
+      "keywords": "Saudi Arabia, America, accountable, statements, ambassador, Israel, Ministry of Foreign Affairs, Zionist regime, dominate, Middle East, condemn, control, Department of State",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:31:10+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "A tweet a few minutes ago from the Persian Twitter account of the United States Department of State: 'There is nothing more important than peace' Mordechai K.",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "tweet, minutes, Persian, Twitter, account, United States, Department of State, nothing, more important, peace",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:30:50+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Poll results on Israeli settlement in the Gaza Strip. 120 minutes more than 37 thousand voters 61% of the voters in the poll and 68% of the opinion holders in it support Israeli settlement in the Gaza Strip. [2 comments]",
+      "source": "Abu Ali Express",
+      "probability": 5,
+      "keywords": "Poll, results, Israeli, settlement, Gaza Strip, minutes, voters, support",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:31:46+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Iran declares the navy and air force of all European Union countries as terrorist organizations.",
+      "source": "Abu Saleh's Desk",
+      "probability": 15,
+      "keywords": "Iran, declares, navy, air force, European Union, countries, terrorist, organizations",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:39:47+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Tucker Carlson's lie about Herzog visiting Epstein's island is a direct attack on Israel - opinion",
+      "source": "JPost",
+      "probability": 10,
+      "keywords": "Tucker Carlson, lie, Herzog, visiting, Epstein's island, direct attack, Israel, opinion",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T22:31:33+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Board of Peace faces uphill battle, with funding, Hamas disarmament being key issues - analysis",
+      "source": "JPost",
+      "probability": 5,
+      "keywords": "Board of Peace, uphill battle, funding, Hamas, disarmament, key issues, analysis",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T22:31:33+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Manouchehr Mottaki, Iranian parliament member: If the United States makes a mistake, it will receive its response in less than ten minutes.",
+      "source": "Arab World News",
+      "probability": 45,
+      "keywords": "Manouchehr Mottaki, Iranian, parliament, United States, mistake, response, ten minutes",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:51:22+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Seriously, you don't need to be a genius to understand the following things, the latest update regarding the nuclear situation in Iran, it's important to note that this update is accurate as of September 2025, what has happened since then 🤔 2391 kg of uranium, at an enrichment level of 2%. 6024 kg of uranium, at an enrichment level of 5%. 184 kg of uranium, at an enrichment level of 20%. 440 kg of uranium, at an enrichment level of 60%. There is a third enrichment site in Iran, which was exposed on June 12, 2025, located in Isfahan and called 'IFEP' and no one knew about its existence. Details and specifications of this site were prepared to submit to the agency in accordance with the plan as preparation for inspection, but Iran canceled its decision later due to the 12-day war. The third uranium enrichment facility in Iran and the second in Isfahan, is considered a secret facility that the international agency failed to reach, and it was also not attacked by Israel during the war, due to lack of information. Now I ask, the size of Iran is over one million six hundred thousand square kilometers, who can guarantee that there are no additional facilities or facilities that really really no one knows about? I think you already know the answer yourself. Abu Saleh's Desk Arabic",
+      "source": "Abu Saleh's Desk",
+      "probability": 25,
+      "keywords": "nuclear, Iran, uranium, enrichment, facility, secret, Israel, attack, war, inspection, agency",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:53:33+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Survey results on Israeli settlement in the Gaza Strip. 120 minutes more than 37 thousand voters 61% of voters in the survey and 68% of opinion holders in it support Israeli settlement in the Gaza Strip.",
+      "source": "Abu Ali Express",
+      "probability": 5,
+      "keywords": "survey, Israeli, settlement, Gaza Strip, voters, support",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:31:46+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Want to read nonsense...???",
+      "source": "Abu Saleh's Desk",
+      "probability": 0,
+      "keywords": "nonsense",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:53:33+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Trump's options on Iran: US weighs 'token' Iran enrichment in narrow nuclear compromise - report",
+      "source": "JPost",
+      "probability": 5,
+      "keywords": "Trump, options, Iran, US, weighs, token, enrichment, nuclear, compromise, report",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T21:45:41+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Pakistan airstrikes on Afghan soil: Local sources report airstrikes by Pakistani army fighter jets on areas in Paktika province. These attacks occur just hours after a suicide bombing in the 'Bannu' region (Khyber Pakhtunkhwa); an incident that resulted in the death of two Pakistani army soldiers.",
+      "source": "IRGC",
+      "probability": 15,
+      "keywords": "Pakistan, airstrikes, Afghan, soil, fighter jets, Paktika, suicide bombing, Bannu, soldiers",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T21:01:55+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Ashdod: 35-year-old man chokes during a meal and is evacuated in critical condition",
+      "source": "Walla",
+      "probability": 0,
+      "keywords": "Ashdod, man, chokes, meal, evacuated, critical, condition",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T00:00:00+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Poll results on Israeli settlement in the Gaza Strip. 120 minutes more than 37 thousand voters 61% of the voters in the poll and 68% of the opinion holders in it support Israeli settlement in the Gaza Strip.",
+      "source": "Abu Ali Express",
+      "probability": 10,
+      "keywords": "Poll, results, Israeli, settlement, Gaza Strip, voters, support",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:31:46+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Poland is mining its borders with Russia \"Pawel Zalowski\" Deputy Minister of Defense of Poland told the Associated Press: Mines are one of the most important elements of the defense structure that we are creating in the eastern flank of NATO in Poland. According to him, Poland intends to use these mines to protect its border with the Russian region of Kaliningrad and Belarus. Cyber Army of the Guardians @SEPAH",
+      "source": "IRGC",
+      "probability": 5,
+      "keywords": "Poland, mining, borders, Russia, defense, NATO, Kaliningrad, Belarus, mines",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T21:20:22+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Major cyber attack on vital sectors of the UAE The UAE Cyber Security Council confirmed that the safety of individuals, protection of personal data and continuity of vital services are top priorities. These attacks included attempts to infiltrate networks, install ransomware and carry out organized phishing operations targeting national platforms. Cyber Army of the Guardians @SEPAH",
+      "source": "IRGC",
+      "probability": 15,
+      "keywords": "cyber attack, UAE, vital sectors, security, networks, ransomware, phishing, national platforms",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T21:20:22+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Extremely unusual: Iran closed its airspace up to 30,000 feet in 11 military areas... Abu Saleh's Desk Arabic",
+      "source": "Abu Saleh's Desk",
+      "probability": 65,
+      "keywords": "Iran, closed, airspace, military, areas, unusual",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T21:29:31+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Survey results on Israeli settlement in the Gaza Strip. 120 minutes more than 37,000 voters 61% of voters in the survey and 68% of opinion holders in it support Israeli settlement in the Gaza Strip. [7 comments]",
+      "source": "Abu Ali Express",
+      "probability": 5,
+      "keywords": "survey, Israeli, settlement, Gaza, Strip, voters, support",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:31:46+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Unrelated but anyway... Pakistan attacked targets in Afghanistan there are many casualties. Abu Saleh's Desk Arabic",
+      "source": "Abu Saleh's Desk",
+      "probability": 5,
+      "keywords": "Pakistan, attacked, targets, Afghanistan, casualties, unrelated",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T21:29:31+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Soon I will upload an unusual report...",
+      "source": "Abu Saleh's Desk",
+      "probability": 10,
+      "keywords": "soon, upload, unusual, report",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T21:29:31+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Dear friends and family, I am addressing you from the heart. The son of a close friend from the reserves, a lovely 6.5-year-old boy named Yanai, is currently dealing with a serious illness. Yanai urgently needs to undergo life-saving treatment in Rome, in preparation for a bone marrow transplant that could save his life. The family is facing a difficult struggle - emotional and financial - and any help can make a difference. Every donation, small or large, brings Yanai one step closer to recovery. And if you cannot donate - sharing the post is no less important and can reach the next person who will save a life. Let's mobilize together and help save Yanai. 'Whoever saves one life - it is as if he saved an entire world.' To donate: A huge thank you to all of you for your big heart and mutual responsibility.",
+      "source": "Abu Saleh's Desk",
+      "probability": 0,
+      "keywords": "friends, family, Yanai, illness, treatment, Rome, donation, help, save, life",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T21:29:31+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "In the United Arab Emirates they claim a large-scale cyber attack on vital facilities. Is Saudi Arabia involved in the matter?",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "United Arab Emirates, cyber attack, vital facilities, Saudi Arabia",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T21:38:35+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Kafr Kanna arson of businesses in front of passersby without fear.",
+      "source": "Arab World News",
+      "probability": 10,
+      "keywords": "Kafr Kanna, arson, businesses, passersby",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T21:38:35+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "US Embassy in Baghdad: 'President Trump was clear: The Iranian regime cannot continue to harm the stability of the region.' — US State Department Mordechai K. for publication at 301: 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "US Embassy, Baghdad, President Trump, Iranian regime, stability, region, State Department",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T21:40:37+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Need to understand, closing airspace actually creates a defense space for Iran, imagine a kind of dome over entire areas. The purpose is essentially to allow Iran to respond to any offensive aerial event that will reach the altitude range they have determined.",
+      "source": "Abu Saleh's Desk",
+      "probability": 35,
+      "keywords": "closing, airspace, defense, Iran, dome, respond, offensive, aerial, event, altitude",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T21:48:46+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Another important point, Iran is preparing for a combined attack, remember the reports I posted on the channel about Iranian ground forces in eastern Iran? This is part of the issue, to close air spaces so that American forces cannot land, from the south, southeast and north of Iran Abu Saleh's Desk Arabic",
+      "source": "Abu Saleh's Desk",
+      "probability": 65,
+      "keywords": "Iran, preparing, combined attack, reports, Iranian ground forces, eastern Iran, close air spaces, American forces, cannot land, south, southeast, north",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T21:53:27+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Survey results on Israeli settlement in the Gaza Strip. 120 minutes more than 37 thousand voters 61% of voters in the survey and 68% of opinion holders in it support Israeli settlement in the Gaza Strip. [11 comments]",
+      "source": "Abu Ali Express",
+      "probability": 5,
+      "keywords": "survey, results, Israeli, settlement, Gaza Strip, voters, support",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:31:46+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Results of the survey on Israeli settlement in the Gaza Strip. 120 minutes more than 37 thousand voters 61% of voters in the survey and 68% of opinion holders in it support Israeli settlement in the Gaza Strip.",
+      "source": "Abu Ali Express",
+      "probability": 5,
+      "keywords": "survey, Israeli, settlement, Gaza Strip, voters, support",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:31:46+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Egypt, Saudi Arabia, Jordan, the Palestinian Authority and Hamas publish statements condemning the words of the US ambassador to Israel Mike Huckabee that Israel can take the territory between the Nile and the Euphrates, as God promised to the people of Israel.",
+      "source": "Abu Ali Express",
+      "probability": 10,
+      "keywords": "Egypt, Saudi Arabia, Jordan, Palestinian Authority, Hamas, condemn, US ambassador, Israel, territory, Nile, Euphrates",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:31:46+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "And in the meantime, until you get a dose of Iran, suffice for now with police forces that are now entering the Issawiya neighborhood in East Jerusalem. For publication in 301: Yossi Eliezer 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 10,
+      "keywords": "police forces, entering, Issawiya neighborhood, East Jerusalem, Iran",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T22:14:54+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "This happened about 3 hours ago... The commander of the US Air Force, General Kenneth Wilsbach, entered the situation room at the White House and will join an emergency meeting of President Trump, Marco Rubio, Pete Hegseth, and John Ratcliffe. Abu Saleh's Desk Arabic",
+      "source": "Abu Saleh's Desk",
+      "probability": 65,
+      "keywords": "US Air Force commander, General Kenneth Wilsbach, situation room, White House, emergency meeting, President Trump",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T22:09:22+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "13 Arab countries and the Palestinian Authority in a sharp condemnation of the US ambassador to Israel",
+      "source": "Walla",
+      "probability": 15,
+      "keywords": "Arab countries, Palestinian Authority, condemnation, US ambassador, Israel",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T01:06:00+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Survey results on Israeli settlement in the Gaza Strip. 120 minutes more than 37 thousand voters 61% of voters in the survey and 68% of opinion holders in it support Israeli settlement in the Gaza Strip. [19 comments]",
+      "source": "Abu Ali Express",
+      "probability": 5,
+      "keywords": "survey, results, Israeli, settlement, Gaza Strip, voters, support",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:31:46+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Palestinian channels complain: 11 Palestinian families were forced to leave their 'land' near the village of Al-Mughayir in the Ramallah district due to 'settler harassment'.",
+      "source": "Abu Ali Express",
+      "probability": 10,
+      "keywords": "Palestinian, families, forced, leave, land, village, Al-Mughayir, Ramallah, district, settler, harassment",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:13:01+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Results of the survey on Israeli settlement in the Gaza Strip. 120 minutes more than 37 thousand voters 61% of the voters in the survey and 68% of the opinion holders in it support Israeli settlement in the Gaza Strip. [21 comments]",
+      "source": "Abu Ali Express",
+      "probability": 0,
+      "keywords": "survey, Israeli, settlement, Gaza Strip, voters, support",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:31:46+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "ISIS claimed responsibility for two attacks in Syria",
+      "source": "Walla",
+      "probability": 5,
+      "keywords": "ISIS, claimed, responsibility, attacks, Syria",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T02:21:00+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Survey results on Israeli settlement in the Gaza Strip. 120 minutes more than 37 thousand voters 61% of the voters in the survey and 68% of the opinion holders in it support Israeli settlement in the Gaza Strip. [22 comments]",
+      "source": "Abu Ali Express",
+      "probability": 0,
+      "keywords": "survey, results, Israeli, settlement, Gaza, Strip, voters, support",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:31:46+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Trump's Mar-a-Lago could be targeted if US attacks Iran, says Iranian MP - report",
+      "source": "JPost",
+      "probability": 65,
+      "keywords": "Trump, Mar-a-Lago, targeted, US attacks, Iran, Iranian MP, report",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T00:26:30+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Yemen in Sana'a announced raising alert status to emergency level in all bodies without disclosing the reasons for this decision, which comes against the backdrop of regional tensions and American military buildups in the region. Abu Saleh's Desk Arabic",
+      "source": "Abu Saleh's Desk",
+      "probability": 55,
+      "keywords": "Yemen, Sana'a, alert status, emergency level, regional tensions, American military buildups",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T23:38:35+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "John Bolton, former national security advisor to President Trump, 'Regime change is not a philosophy, it is a tool available to achieve America's national security goals, and like any other tool, it must be evaluated in terms of costs and benefits, feasibility and chances of success. This approach does not always succeed, nor does it always fail.' Just so you know, if this man was in office today, we would have been at war with Iran long ago. Abu Saleh's Desk Arabic",
+      "source": "Abu Saleh's Desk",
+      "probability": 45,
+      "keywords": "John Bolton, regime change, national security, war with Iran, Trump advisor",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T23:38:35+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Islamic State begins new phase of operations against Syrian regime with two terror attacks",
+      "source": "JPost",
+      "probability": 15,
+      "keywords": "Islamic State, operations, Syrian regime, terror attacks",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T00:26:30+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Four injured in lower Galilee; suspicion of drone used to drop grenade",
+      "source": "JPost",
+      "probability": 10,
+      "keywords": "injured, lower Galilee, drone, grenade",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T00:26:30+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Results of the survey on Israeli settlement in the Gaza Strip. 120 minutes more than 37 thousand voters 61% of voters in the survey and 68% of opinion holders in it support Israeli settlement in the Gaza Strip. [24 comments]",
+      "source": "Abu Ali Express",
+      "probability": 5,
+      "keywords": "survey, Israeli settlement, Gaza Strip, voters, support, opinion",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T20:31:46+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Reports from Yemeni Houthis report raising alert levels to emergency status throughout the capital Sanaa and other areas amid the accumulation of forces around the Persian Gulf, fearing that the US is planning attacks on Yemen as well if they intervene on behalf of Iran.",
+      "source": "Arab World News",
+      "probability": 65,
+      "keywords": "Yemeni Houthis, alert levels, emergency status, capital Sanaa, accumulation of forces, Persian Gulf, US planning attacks, Yemen, intervene, Iran",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T00:21:23+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Pakistan: We attacked seven terror camps on the Afghan border",
+      "source": "Walla",
+      "probability": 5,
+      "keywords": "Pakistan, attacked, terror camps, Afghan border",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T03:25:00+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Egypt, Saudi Arabia, Jordan, the Palestinian Authority and Hamas issue statements condemning the remarks of US Ambassador to Israel Mike Hackey that Israel can take the territory between the Nile and the Euphrates, as God promised to the people of Israel.",
+      "source": "Abu Ali Express",
+      "probability": 5,
+      "keywords": "Egypt, Saudi Arabia, Jordan, Palestinian Authority, Hamas, statements, condemning, US Ambassador, Israel, Mike Hackey, territory, Nile, Euphrates, God, promised",
+      "date": "21/02/2026",
+      "datetime_iso": "2026-02-21T19:55:58+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Australia: We will not act to repatriate families of ISIS activists from Syria",
+      "source": "Walla",
+      "probability": 0,
+      "keywords": "Australia, not act, repatriate, families, ISIS activists, Syria",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T04:28:00+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Closed meeting in the situation room at the White House. US Air Force Commander General Kenneth Wilmsbach entered the situation room at the White House is in a closed meeting in the situation room at the White House with President Trump Marco Rubio Secretary of State, Pete Haggerty Secretary of Defense and John Ratcliffe head of the CIA and additional military commanders. The meeting is still ongoing, over three hours. Global for publication at 301: Yossi Eliezer 301 Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 65,
+      "keywords": "closed meeting, situation room, White House, US Air Force Commander, General Kenneth Wilmsbach, President Trump, Secretary of State, Secretary of Defense, CIA, military commanders",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T02:59:39+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Huckabee fires back at Tucker Carlson after interview descends into Israel-smearing",
+      "source": "JPost",
+      "probability": 15,
+      "keywords": "Huckabee, Tucker Carlson, interview, Israel-smearing",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T02:14:45+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Australia denies it is working to repatriate Islamic State family members",
+      "source": "JPost",
+      "probability": 5,
+      "keywords": "Australia, denies, repatriate, Islamic State, family members",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T02:14:45+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Israeli teens find dead body on hiking trail, rescue units struggle to help",
+      "source": "JPost",
+      "probability": 5,
+      "keywords": "Israeli teens, dead body, hiking trail, rescue units",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T02:14:45+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Israeli Air Force air strikes in Rafah at this moment. For publication at 301: Yossi Eliezer 301 Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "Israeli Air Force, air strikes, Rafah, publication, Yossi Eliezer, Arab World, Telegram",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T03:17:33+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "How much they hate their regime... For publication at 301: Yossi Eliezer 301 Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 5,
+      "keywords": "hate, regime, publication, Yossi Eliezer, Arab World, Telegram",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T03:17:33+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "During the activity of our forces in the Al-Arub camp in the Hebron district, 3 wanted persons were arrested without resistance. Beauty for publication at 301: Yossi Eliezer 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 5,
+      "keywords": "forces, activity, Al-Arub camp, Hebron district, wanted persons, arrested, resistance",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T03:23:33+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "In Iran they fear: The Greater Land of Israel. For publication at 301: Yossi Eliezer 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "Iran, fear, Greater Land of Israel",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T03:23:33+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The Air Force attacked terror targets in Rafah and Gaza City",
+      "source": "Walla",
+      "probability": 15,
+      "keywords": "Air Force, attacked, terror targets, Rafah, Gaza City",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T06:33:00+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "It happened tonight in Times Square in New York. Thousands of Jews who gathered for Havdalah... Moving for publication at 301: Yossi Eliezer 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 5,
+      "keywords": "happened, tonight, Times Square, New York, Jews, gathered, Havdalah, publication",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T03:32:05+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Witkoff: \"Trump is frustrated, the pressure is not bringing Iran to surrender\"",
+      "source": "Walla",
+      "probability": 10,
+      "keywords": "Witkoff, Trump, frustrated, pressure, Iran, surrender",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T06:33:00+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Pakistan strikes Afghanistan targets after blaming attacks on Afghan terrorists",
+      "source": "JPost",
+      "probability": 15,
+      "keywords": "Pakistan, strikes, Afghanistan, targets, attacks, Afghan, terrorists",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T05:55:04+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Trump’s Carlson outreach was worth trying, but it did not end up working - editorial",
+      "source": "JPost",
+      "probability": 5,
+      "keywords": "Trump, Carlson, outreach, trying, working, editorial",
+      "date": "22/02/2026",
+      "datetime_iso": "2026-02-22T05:55:04+00:00",
+      "source_type": "Media Outlet"
+    }
+  ],
+  "overall_probability": 0,
+  "joke": "Jerry Seinfeld: You know, they’re banning kids from social networks everywhere. It’s like saying, “Hey kids, don’t even think about communicating with each other unless you’re in a group project and the teacher is monitoring you.” What’s the plan here? Are we just hoping they’ll start sending carrier pigeons to communicate? I can see it now: kids jump on their bikes, clutching messages in tiny bird backpacks, just trying to get the latest gossip while dodging traffic. Because nothing says “youthful rebellion” like a pigeon with a “Just Text Me” sticker on its side!",
+  "jokes": [
+    "Jerry Seinfeld: You know, they’re banning kids from social networks everywhere. It’s like saying, “Hey kids, don’t even think about communicating with each other unless you’re in a group project and the teacher is monitoring you.” What’s the plan here? Are we just hoping they’ll start sending carrier pigeons to communicate? I can see it now: kids jump on their bikes, clutching messages in tiny bird backpacks, just trying to get the latest gossip while dodging traffic. Because nothing says “youthful rebellion” like a pigeon with a “Just Text Me” sticker on its side!",
+    "Chris Rock: So Pakistan is out there striking targets in Afghanistan, blaming them for attacks, just like that kid in school who blames the dog for eating his homework! I mean, come on! They say, \"It wasn't me! It was those Afghan terrorists!\" Like they’re playing tag—\"You’re it!\" \"No, you’re it!\" But here’s the kicker, folks: if your neighbors keep throwing rocks at your house, maybe it’s time to check if your own backyard is a war zone! Just a thought! Sometimes the guy pointing fingers is just mad that his finger’s got a little rock dust on it!",
+    "Jerry Seinfeld: So, it turns out the Air Force is attacking terror targets in Rafah and Gaza City. And I can’t help but wonder, when did we go from fighting wars to just sending in our own delivery service? I mean, do they arrive in high-tech drones with a little “bon appétit” note attached? And in this day and age, why are we still using planes? Can’t we just send texts to let them know we’re unhappy? “Hey, we’re really frustrated over here in the U.S. You mind taking it down a notch? Thanks!”",
+    "Suzy Izzard: Imagine a meeting between historical maps and modern geography, with maps rolling their eyes and saying, \"Oh, here we go again, the Greater Land of Israel. Honestly, it’s not a buffet; you can’t just keep adding more lands to your plate! It’s like Iran’s in the corner, clutching its tea, whispering ‘What next, a land for the penguins?’ As if they’d never heard the phrase ‘less is more’—because clearly for them, ‘greater’ is a philosophy they apply to countries and maybe even snack portions! Meanwhile, the camp residents have become the world’s most reluctant game of hide and seek: “You’re it! But please, resist getting arrested or we’ll have to make this a public event!\" Such commitment to the craft of conflict—it's like they think they’re auditioning for a geopolitical soap opera: \"As the World Turns: The Drama of Maps!\"",
+    "Mitch Hedberg: I read that the Israeli Air Force is dropping air strikes in Rafah, which sounds like an extreme version of giving someone a surprise party. “Surprise! You just got bombed. I hope you like cake!” It’s like they’re trying to spice up the neighborhood, but the only thing on the menu is chaos. I mean, how do you even RSVP to that? “Yes, I’ll be there... but I might need a helmet instead of a gift.”",
+    "**Chris Rock**: You know, I just read about this closed meeting in the White House with all these heavyweights—Trump, the Air Force Commander, Secretary of State, and they’re in there for over three hours. Man, that’s not a meeting; that’s a hostage situation! I mean, what’s the plan? Do they think if they talk long enough, someone will pull a rabbit out of a hat? Or maybe they’re just trying to figure out how to take a vacation while pretending they’re working! Meanwhile, all of us out here are just hoping someone finds that missing dead body on a hiking trail before the teens start using it for a new escape room game! Because let’s be real for a second, the only thing scarier than hiking trails is how people will argue about anything these days—now we can add hiking “mysteries” to the list!",
+    "Jerry Seinfeld: Why is it that 61% of voters are in favor of Israeli settlements in the Gaza Strip? I mean, that’s when you realize we’ve officially reached the point where people are basically like, “You know what this highly contested area needs? More people moving in!” It’s as if someone looked at a crowded subway and thought, “Ah, yes, let’s add more seats to this roller coaster of chaos!” It’s like trying to solve an overcrowding problem by inviting more friends to the party—at some point, you just have to wonder if anyone’s paying attention to the social etiquette of territorial disputes!",
+    "Sarah Silverman: So, the U.S. Ambassador to Israel, Mike Hackey, says that Israel's got the divine right to take land from the Nile to the Euphrates. You know, it's refreshing to hear someone so confident in their interpretation of God's map. I mean, forget showing me the way to success—I want to know how to navigate the divine real estate market. Meanwhile, Australia won’t even repatriate the families of ISIS fighters from Syria. So, it seems God might be fine with expansion packs, but countries are like, “Nah, we’ll just stick to our current players.” What a wild game of Monopoly where everyone’s just flipping the board and saying, “My way or the highway—and the highway’s paved with divine right!”",
+    "Sarah Silverman: So, Pakistan just attacked seven terror camps on the Afghan border, right? I mean, talk about overachievers. At this point, their tourism slogan should be, “Visit Pakistan: we do the border hopping so you don’t have to!” It’s like they’re trying to win the Olympics of unpredictability while the rest of us just sit here hoping for a nice, peaceful weekend. But hey, if they keep this up, they might even get a sponsorship from the United Nations – “Pakistan: where the only thing getting bombed are our hopes for a casual Friday!”",
+    "Sarah Silverman: So the Yemeni Houthis are raising alert levels to emergency status because they're worried the U.S. might attack Yemen while trying to intervene on behalf of Iran. It’s like they’re playing a game of “Who’s Going to Get Bombed First?” only everyone involved forgot that no one wins—especially not the civilians. Honestly, at this point, if you’re not getting alerts in Sanaa, you’re just not trying hard enough to be part of global chaos. It’s like the VIP section of a disaster movie where everybody’s too busy arguing about who gets the popcorn instead of wondering why the theater's on fire.",
+    "Chris Rock: So let me get this straight—61% of those folks are like, \"Yeah, let’s go ahead and build some houses in Gaza!” Meanwhile, I can’t even get the landlord to fix my leaky faucet! Do you hear the irony? They’re out there like, \"We need more homes,\" while I’m over here just trying to keep my home from becoming a swimming pool! It’s wild! You got a place where people are fighting each other over land like it’s a game of Monopoly, and the only thing I’m fighting for is an apartment that doesn’t smell like last week’s fish fry! You can’t make this up, man! It’s like saying, “Hey, let’s plant a garden in the middle of a tornado!”",
+    "Lewis Black: So the U.S. ambassador to Israel, Mike Huckabee, claims that Israel can stretch its borders all the way from the Nile to the Euphrates because, get this, \"God promised.\" Oh sure, because any time I’ve ever been late for work and asked my boss for a raise, I just waved my hands and said, “Well, God told me to!” Look, if faith and absurdity were a currency, we’d be billionaires by now! This isn’t diplomacy, folks; it’s a divine game of Red Rover with real geopolitical consequences!",
+    "**Jerry Seinfeld**: So, Yemen has raised its alert status to emergency level, but they're not telling anyone why. It's like when you walk into a room and your friends are all whispering, and you’re a little nervous—'Did I walk in on a secret mission? Am I the emergency?' You look around and think, 'You know, if the stakes are this high, can’t we at least get a newsletter or something? A polite email: \"Heads up, we’re on red alert, but don’t mind us, just doing our thing!\" It’s absurd!",
+    "Sarah Silverman: Isn’t it wild how ISIS is out there claiming responsibility for attacks in Syria like they’re the world's worst PR agency? I mean, if they were trying to market Syria as a \"must-visit\" destination, they should really consider a new slogan— \"Come for the chaos, stay for the headlines!\" Meanwhile, over in the Gaza Strip, they’ve got a survey showing that a staggering 61% support Israeli settlements. Apparently, nothing says “I love my country” quite like doing some real estate shopping in someone else’s backyard. It's like organizing a neighborhood barbecue in a house that’s clearly not yours and inviting everyone to join—you’ll just have to ignore those pesky “No Trespassing” signs!",
+    "Lewis Black: So, apparently, a survey reveals that 61% of people support Israeli settlements in the Gaza Strip! Look, I don't know about you, but if I were living somewhere and random folks just decided to show up and build a condo complex on my front yard, I wouldn’t be raising my hand excitedly! What do they think? It’s a timeshare? “Welcome to Gaza! You get the ocean view and free Wi-Fi! Sorry about the history, but hey, check out the amenities!” I mean, at what point does common sense pack its bags and leave for a much more sane destination?",
+    "Eddie Izzard: Ah, so we have eleven families uprooted by 'settler harassment' near the village of Al-Mughayir. It’s as if the settlers decided that the land was just one big, unoccupied couch left out by the curb, completely ignoring the fact that those families had long since adopted it, complete with their own throw pillows and a questionable wine collection, which, by the way, any historian would tell you is vital for negotiating peace in the Middle East. So, what’s next? Are we going to discuss land rights with a negotiation team made up of historical figures? Picture Julius Caesar on one side and Moses on the other, both debating who gets the prime real estate, while back at home, one of the families is just trying to get their Wi-Fi signal strong enough to stream the latest episode of a soap opera about neighboring families arguing over who stole the last pita bread. It’s the absurdity of modern life, reducing centuries of conflict to a social media hashtag battle over dinner rolls!",
+    "Chris Rock: So I’m reading about these families in Palestine being forced to leave their land because of \"settler harassment.\" Wait a minute, harassment? Harassment ain't just a nagging phone call! You can't just call your landlord like, “Hey man, I think my lease is being violated!” These folks are out here packing up their lives while some settlers are acting like bad roommates. You know it’s bad when people are getting harassed off their own land like it’s the world’s strangest eviction notice! This ain't just uninvited guests; it’s a whole unwelcome neighborhood! Man, if you can’t afford rent, stay in your lane—but kicking people off their ancestral homes? Nah, that’s not just harassment, that’s gentrification on steroids!",
+    "Lewis Black: Imagine this! Eleven Palestinian families are forced to leave their land because of \"settler harassment.\" Settler harassment? What is that, a Yelp review gone too far? \"I just can't recommend this land anymore; the settlers were rude, they didn't even offer me a drink!\" We're talking about actual people here, getting booted out like they’re in a bad game of musical chairs! It’s like bureaucrats woke up one day and thought, “You know what we need? More land disputes and less common sense!” Who needs stability when we can have chaos wrapped in a bow of “It’s just policy”?",
+    "Eddie Izzard: Imagine a group of 37,000 voters sitting around a table discussing Israeli settlements in Gaza like it’s some sort of a real estate seminar. \"Ladies and gentlemen, let’s draw up plans for a new condo complex—integrated with artisanal hummus and infused with a rich history of conflict! Think of the property value! This is like if Gandalf tried to sell you a fixer-upper in Mordor—sure, there’s lava, but have you seen the mountain views?!” And 61% of folks are nodding along, utterly unaware that the 'Buy One, Get One Free' promotion includes a side of geopolitical tension. So, should we celebrate this newfound land of milk and honey, or just start planting flags like they're garden gnomes? Who knew real estate could be so hostile yet thrilling—welcome to Gaza, where the only thing getting settled is your lunch order!",
+    "Mitch Hedberg: I overheard the US Air Force is in the White House for an emergency meeting, which is weird because I thought the only thing that helps an emergency is a coffee break – or at least a good sandwich. Meanwhile, 13 Arab countries are condemning the US ambassador to Israel, and I’m over here just trying to figure out if “condemnation” is a type of new-age yoga or a recipe for regret."
+  ],
+  "stocks": [
+    {
+      "ticker": "Lockheed Martin Corporation",
+      "price_info": "LMT: $658.26 (-1.24%)",
+      "timestamp": "2026-02-22T04:14:37.059714",
+      "metadata": {
+        "company_name": "Lockheed Martin Corporation",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 658.26,
+        "change_percent": -1.2377908808570015,
+        "previous_close": 666.51
+      }
+    },
+    {
+      "ticker": "RTX Corporation",
+      "price_info": "RTX: $204.92 (+0.09%)",
+      "timestamp": "2026-02-22T04:14:37.032032",
+      "metadata": {
+        "company_name": "RTX Corporation",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 204.92,
+        "change_percent": 0.09280515801299162,
+        "previous_close": 204.73
+      }
+    },
+    {
+      "ticker": "Northrop Grumman Corporation",
+      "price_info": "NOC: $723.56 (-1.81%)",
+      "timestamp": "2026-02-22T04:14:36.951598",
+      "metadata": {
+        "company_name": "Northrop Grumman Corporation",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 723.56,
+        "change_percent": -1.8062887619254495,
+        "previous_close": 736.87
+      }
+    },
+    {
+      "ticker": "General Dynamics Corporation",
+      "price_info": "GD: $351.42 (-0.82%)",
+      "timestamp": "2026-02-22T04:14:37.035429",
+      "metadata": {
+        "company_name": "General Dynamics Corporation",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 351.42,
+        "change_percent": -0.8240672800135348,
+        "previous_close": 354.34
+      }
+    },
+    {
+      "ticker": "The Boeing Company",
+      "price_info": "BA: $232.03 (-0.72%)",
+      "timestamp": "2026-02-22T04:14:37.087868",
+      "metadata": {
+        "company_name": "The Boeing Company",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 232.03,
+        "change_percent": -0.7188395875230015,
+        "previous_close": 233.71
+      }
+    },
+    {
+      "ticker": "Exxon Mobil Corporation",
+      "price_info": "XOM: $147.28 (-2.44%)",
+      "timestamp": "2026-02-22T04:14:37.029666",
+      "metadata": {
+        "company_name": "Exxon Mobil Corporation",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 147.28,
+        "change_percent": -2.4441942107703505,
+        "previous_close": 150.97
+      }
+    },
+    {
+      "ticker": "Chevron Corporation",
+      "price_info": "CVX: $183.93 (-0.46%)",
+      "timestamp": "2026-02-22T04:14:37.033811",
+      "metadata": {
+        "company_name": "Chevron Corporation",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 183.93,
+        "change_percent": -0.460006494209327,
+        "previous_close": 184.78
+      }
+    },
+    {
+      "ticker": "SLB N.V.",
+      "price_info": "SLB: $50.85 (-1.34%)",
+      "timestamp": "2026-02-22T04:14:37.023461",
+      "metadata": {
+        "company_name": "SLB N.V.",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 50.85,
+        "change_percent": -1.3387660069848617,
+        "previous_close": 51.54
+      }
+    },
+    {
+      "ticker": "Halliburton Company",
+      "price_info": "HAL: $35.11 (-0.74%)",
+      "timestamp": "2026-02-22T04:14:37.014371",
+      "metadata": {
+        "company_name": "Halliburton Company",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 35.11,
+        "change_percent": -0.7350862312694318,
+        "previous_close": 35.37
+      }
+    },
+    {
+      "ticker": "Baker Hughes Company",
+      "price_info": "BKR: $62.21 (-0.56%)",
+      "timestamp": "2026-02-22T04:14:37.017471",
+      "metadata": {
+        "company_name": "Baker Hughes Company",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 62.21,
+        "change_percent": -0.5594629156010252,
+        "previous_close": 62.56
+      }
+    },
+    {
+      "ticker": "SPDR Gold Shares",
+      "price_info": "GLD: $468.62 (+1.97%)",
+      "timestamp": "2026-02-22T04:14:37.086351",
+      "metadata": {
+        "company_name": "SPDR Gold Shares",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 468.62,
+        "change_percent": 1.9714509530855608,
+        "previous_close": 459.56
+      }
+    },
+    {
+      "ticker": "Newmont Corporation",
+      "price_info": "NEM: $122.13 (-2.61%)",
+      "timestamp": "2026-02-22T04:14:37.005127",
+      "metadata": {
+        "company_name": "Newmont Corporation",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 122.13,
+        "change_percent": -2.6076555023923524,
+        "previous_close": 125.4
+      }
+    },
+    {
+      "ticker": "Freeport-McMoRan Inc.",
+      "price_info": "FCX: $64.34 (+2.83%)",
+      "timestamp": "2026-02-22T04:14:37.027404",
+      "metadata": {
+        "company_name": "Freeport-McMoRan Inc.",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 64.34,
+        "change_percent": 2.8288317084865002,
+        "previous_close": 62.57
+      }
+    }
+  ],
+  "xkcd_comic_base64": "data:image/png;base64,data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAyNCIgaGVpZ2h0PSIxMDI0IiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICAgICAgICA8ZGVmcz4KICAgICAgICAgICAgICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ3JhZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgICAgICAgICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzFlMjkzYjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgICAgICAgICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMwZjE3MmE7c3RvcC1vcGFjaXR5OjEiIC8+CiAgICAgICAgICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICAgICAgICA8L2RlZnM+CiAgICAgICAgICAgIDxyZWN0IHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjEwMjQiIGZpbGw9InVybCgjZ3JhZCkiIC8+CiAgICAgICAgICAgIDxyZWN0IHg9IjQwIiB5PSI0MCIgd2lkdGg9Ijk0NCIgaGVpZ2h0PSI5NDQiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iOCIgcng9IjIwIiAvPgogICAgICAgICAgICA8cmVjdCB4PSI2MCIgeT0iNjAiIHdpZHRoPSI5MDQiIGhlaWdodD0iOTA0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzOGJkZjgiIHN0cm9rZS13aWR0aD0iNCIgcng9IjE1IiBvcGFjaXR5PSIwLjUiIC8+CiAgICAgICAgICAgIDxyZWN0IHg9IjM2MiIgeT0iMjAiIHdpZHRoPSIzMDAiIGhlaWdodD0iODAiIGZpbGw9IiMzOGJkZjgiIHJ4PSIxMCIgLz4KICAgICAgICAgICAgPHRleHQgeD0iNTEyIiB5PSI3MiIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXdlaWdodD0iOTAwIiBmb250LXNpemU9IjMyIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgc3R5bGU9ImxldHRlci1zcGFjaW5nOiAycHg7Ij4KICAgICAgICAgICAgICAgIElOVEVMCiAgICAgICAgICAgIDwvdGV4dD4KICAgICAgICAgICAgPHRleHQgeT0iMzkyLjAiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9IjgwMCIgZm9udC1zaXplPSI1NCIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPgogICAgICAgICAgICAgICAgPHRzcGFuIHg9IjUxMiIgZHk9IjEuMmVtIj5BdCB0aGUgZXhwZW5zZSBvZiBoZWFsdGg8L3RzcGFuPjx0c3BhbiB4PSI1MTIiIGR5PSIxLjJlbSI+YW5kIGVkdWNhdGlvbiBzZXJ2aWNlczo8L3RzcGFuPjx0c3BhbiB4PSI1MTIiIGR5PSIxLjJlbSI+VGhlIGV4cGVjdGVkIHByaWNlIG9mIHRoZTwvdHNwYW4+PHRzcGFuIHg9IjUxMiIgZHk9IjEuMmVtIj5hcm1zIHJhY2UgaW4gRXVyb3BlPC90c3Bhbj4KICAgICAgICAgICAgPC90ZXh0PgogICAgICAgICAgICA8bGluZSB4MT0iMzAwIiB5MT0iOTAwIiB4Mj0iNzI0IiB5Mj0iOTAwIiBzdHJva2U9IiMzOGJkZjgiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWRhc2hhcnJheT0iMjAsMTAiIC8+CiAgICAgICAgICAgIDx0ZXh0IHg9IjUxMiIgeT0iOTQwIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjIwIiBmaWxsPSIjMzhiZGY4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBvcGFjaXR5PSIwLjciPgogICAgICAgICAgICAgICAgSU5URUxMSUdFTkNFIFJFUE9SVCAvLyBEQVRBIEFOQUxZVElDUwogICAgICAgICAgICA8L3RleHQ+CiAgICAgICAgPC9zdmc+",
+  "last_updated": "2026-02-22T04:14:55.662572"
+}
