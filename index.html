@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intelligence Notifier</title>
+    <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/luxon@3.4.4/build/global/luxon.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-luxon@1.3.1/dist/chartjs-adapter-luxon.umd.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="min-h-screen bg-slate-950 text-slate-100">
+    <div class="refresh-progress-container">
+        <div id="refreshProgressBar"></div>
+    </div>
+    <div class="max-w-7xl mx-auto px-5 py-6">
+        <header class="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
+            <div class="flex items-center gap-4">
+                <div class="relative group">
+                    <div class="absolute -inset-0.5 bg-gradient-to-r from-blue-500 to-emerald-500 rounded-lg blur opacity-30 group-hover:opacity-100 transition duration-1000 group-hover:duration-200"></div>
+                    <div class="relative flex items-center gap-3 px-4 py-2 bg-slate-900 rounded-lg border border-slate-800 leading-none">
+                        <svg class="w-6 h-6 text-emerald-400" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+                            <path d="M12 8v4"></path>
+                            <path d="M12 16h.01"></path>
+                        </svg>
+                        <span class="font-bold tracking-tight text-slate-100">Felix IntelligenceBot</span>
+                    </div>
+                </div>
+            </div>
+            <div class="flex flex-wrap items-center gap-2">
+                <span class="text-xs px-2 py-1 rounded-md bg-slate-900 border border-slate-800 text-slate-300">
+                    Analysis: <span class="font-mono" id="analysisModel">--</span>
+                </span>
+                <span class="text-xs px-2 py-1 rounded-md bg-slate-900 border border-slate-800 text-slate-300">
+                    Jokes: <span class="font-mono" id="jokesModel">--</span>
+                </span>
+                <span id="statusBadge" class="text-xs px-2 py-1 rounded-md bg-slate-900 border border-slate-800">
+                    Status: <span id="statusText">Connecting...</span>
+                </span>
+            </div>
+        </header>
+
+        <div class="mt-6 grid grid-cols-1 lg:grid-cols-12 gap-4">
+            <div class="lg:col-span-8 space-y-4">
+                <div class="rounded-xl bg-slate-900/40 border border-slate-800 p-6">
+                    <div class="text-center">
+                        <div class="text-sm text-slate-400 uppercase tracking-wide">Max probability from headlines (Last 24h)</div>
+                        <div id="maxProbability" class="mt-3 text-9xl font-black tracking-tight skeleton h-24 w-48 mx-auto"></div>
+                        <div class="mt-4 flex items-center justify-center gap-3">
+                            <span id="severityBadge" class="text-sm px-3 py-1.5 rounded-md bg-slate-800 text-slate-400">Loading...</span>
+                        </div>
+                    </div>
+                    
+                    <div class="mt-6 grid grid-cols-2 gap-4">
+                        <div class="rounded-lg bg-slate-950/50 border border-slate-800 p-4">
+                            <div class="text-xs text-slate-400">Source</div>
+                            <div id="maxProbSource" class="mt-1 text-xl font-semibold skeleton h-7 w-full"></div>
+                        </div>
+                        <div class="rounded-lg bg-slate-950/50 border border-slate-800 p-4">
+                            <div class="text-xs text-slate-400">Probability</div>
+                            <div id="maxProbValue" class="mt-1 text-xl font-semibold skeleton h-7 w-24"></div>
+                        </div>
+                    </div>
+                    
+                    <div class="mt-4 rounded-lg bg-slate-950/50 border border-slate-800 p-4">
+                        <div class="flex items-center justify-between mb-2">
+                            <div class="text-xs text-slate-400">Top Headline</div>
+                            <div id="maxProbTime" class="text-xs text-slate-500">—</div>
+                        </div>
+                                            <div id="maxProbHeadline" class="text-base text-slate-200 leading-relaxed">
+                                                <div class="skeleton h-5 w-full mb-2"></div>
+                                                <div class="skeleton h-5 w-3/4"></div>
+                                            </div>
+                                        </div>
+                        
+                                        <!-- Probability Trend Graph -->
+                                        <div class="rounded-xl bg-slate-900/40 border border-slate-800 p-4">
+                                            <div class="flex items-center justify-between mb-4">
+                                                <div class="text-sm font-semibold">Probability Trend (Last 5 Days)</div>
+                                                <div class="flex items-center gap-3">
+                                                    <label class="flex items-center gap-1.5 cursor-pointer">
+                                                        <input type="checkbox" id="toggleRaw" checked class="accent-emerald-400 w-3 h-3 rounded border-slate-700 bg-slate-800">
+                                                        <span class="text-xs text-slate-300">Raw</span>
+                                                    </label>
+                                                    <label class="flex items-center gap-1.5 cursor-pointer">
+                                                        <input type="checkbox" id="toggleSmoothed" checked class="accent-teal-400 w-3 h-3 rounded border-slate-700 bg-slate-800">
+                                                        <span class="text-xs text-slate-300">Smoothed</span>
+                                                    </label>
+                                                </div>
+                                            </div>
+                                            <div class="h-64 relative">
+                                                <canvas id="probabilityChart"></canvas>
+                                            </div>
+                                        </div>
+                        
+                </div>
+
+                <div class="rounded-xl bg-slate-900/40 border border-slate-800 p-4">
+                    <div class="flex items-center justify-between gap-3 flex-wrap">
+                        <div>
+                            <div class="text-sm font-semibold">Top Relevant Headlines</div>
+                            <div class="text-xs text-slate-400">AI-analyzed news events with probability scores (Prob >= 50%)</div>
+                        </div>
+                        <div class="flex items-center gap-2">
+                            <select id="relevantSortBy" class="text-xs bg-slate-800 border border-slate-700 rounded px-2 py-1 text-slate-300" onchange="updateRelevantSort()">
+                                <option value="date">Sort by Date</option>
+                                <option value="probability">Sort by Probability</option>
+                            </select>
+                            <select id="relevantSortOrder" class="text-xs bg-slate-800 border border-slate-700 rounded px-2 py-1 text-slate-300" onchange="updateRelevantSort()">
+                                <option value="desc">Descending</option>
+                                <option value="asc">Ascending</option>
+                            </select>
+                            <div id="relevantHeadlineCount" class="text-xs text-slate-400">0 headlines</div>
+                        </div>
+                    </div>
+
+                    <div id="relevantHeadlinesContainer" class="mt-3 space-y-2">
+                        <div class="skeleton h-20 w-full"></div>
+                        <div class="skeleton h-20 w-full"></div>
+                        <div class="skeleton h-20 w-full"></div>
+                    </div>
+                </div>
+
+                <div class="rounded-xl bg-slate-900/40 border border-slate-800 p-4">
+                    <div class="flex items-center justify-between gap-3 flex-wrap">
+                        <div>
+                            <div class="text-sm font-semibold">All Headlines</div>
+                            <div class="text-xs text-slate-400">All scraped and analyzed headlines</div>
+                        </div>
+                        <div class="flex items-center gap-2">
+                            <select id="allSortBy" class="text-xs bg-slate-800 border border-slate-700 rounded px-2 py-1 text-slate-300" onchange="updateAllSort()">
+                                <option value="date">Sort by Date</option>
+                                <option value="probability">Sort by Probability</option>
+                            </select>
+                            <select id="allSortOrder" class="text-xs bg-slate-800 border border-slate-700 rounded px-2 py-1 text-slate-300" onchange="updateAllSort()">
+                                <option value="desc">Descending</option>
+                                <option value="asc">Ascending</option>
+                            </select>
+                            <div id="allHeadlinesCount" class="text-xs text-slate-400">0 headlines</div>
+                        </div>
+                    </div>
+
+                    <div id="allHeadlinesContainer" class="mt-3 space-y-2">
+                        <div class="skeleton h-20 w-full"></div>
+                        <div class="skeleton h-20 w-full"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="lg:col-span-4 space-y-4">
+                <div class="rounded-xl bg-slate-900/40 border border-slate-800 p-4">
+                    <div class="text-sm font-semibold">Operational Metrics</div>
+                    <div class="mt-3 grid grid-cols-1 gap-3">
+                        <div class="rounded-lg bg-slate-950/50 border border-slate-800 p-3">
+                            <div class="text-xs text-slate-400">Liveness</div>
+                            <div id="liveness" class="mt-1 text-2xl font-bold text-emerald-300">Online</div>
+                        </div>
+                        <div class="rounded-lg bg-slate-950/50 border border-slate-800 p-3">
+                            <div class="text-xs text-slate-400">Frontend Version</div>
+                            <div id="metricsFrontendVersion" class="mt-1 text-2xl font-bold font-mono">--</div>
+                        </div>
+                        <div class="rounded-lg bg-slate-950/50 border border-slate-800 p-3">
+                            <div class="text-xs text-slate-400">Runtime</div>
+                            <div id="runtime" class="mt-1 text-2xl font-bold font-mono">--</div>
+                        </div>
+                        <div class="rounded-lg bg-slate-950/50 border border-slate-800 p-3">
+                            <div class="text-xs text-slate-400">Articles Processed</div>
+                            <div id="articlesProcessed" class="mt-1 text-2xl font-bold">--</div>
+                        </div>
+                        <div class="rounded-lg bg-slate-950/50 border border-slate-800 p-3">
+                            <div class="text-xs text-slate-400">Notifications Sent</div>
+                            <div id="notificationsSent" class="mt-1 text-2xl font-bold">--</div>
+                        </div>
+                        <div class="rounded-lg bg-slate-950/50 border border-slate-800 p-3">
+                            <div class="text-xs text-slate-400">Ingest Rate</div>
+                            <div id="ingestRate" class="mt-1 text-2xl font-bold">--</div>
+                        </div>
+                        <div class="rounded-lg bg-slate-950/50 border border-slate-800 p-3">
+                            <div class="text-xs text-slate-400">Article Lag</div>
+                            <div id="articleLag" class="mt-1 text-2xl font-bold">--</div>
+                        </div>
+                        <div class="rounded-lg bg-slate-950/50 border border-slate-800 p-3">
+                            <div class="text-xs text-slate-400">API Success Rate</div>
+                            <div id="apiSuccessRate" class="mt-1 text-2xl font-bold">--</div>
+                        </div>
+                        <div class="rounded-lg bg-slate-950/50 border border-slate-800 p-3">
+                            <div class="text-xs text-slate-400">Errors</div>
+                            <div id="errors" class="mt-1 text-2xl font-bold">--</div>
+                        </div>
+                        <div class="rounded-lg bg-slate-950/50 border border-slate-800 p-3">
+                            <div class="text-xs text-slate-400">Heartbeats Sent</div>
+                            <div id="heartbeatsSent" class="mt-1 text-2xl font-bold">--</div>
+                        </div>
+                        <div class="rounded-lg bg-slate-950/50 border border-slate-800 p-3">
+                            <div class="text-xs text-slate-400">Last Data Update</div>
+                            <div id="lastDataUpdate" class="mt-1 text-sm font-bold font-mono">--</div>
+                        </div>
+                        <div class="rounded-lg bg-slate-950/50 border border-slate-800 p-3">
+                            <div class="text-xs text-slate-400">Next Update In</div>
+                            <div id="nextUpdate" class="mt-1 text-2xl font-bold">--</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="rounded-xl bg-slate-900/40 border border-slate-800 p-4">
+                    <div class="text-sm font-semibold">Headline Comic</div>
+                    <div class="mt-3">
+                        <img id="xkcdImage" src="" alt="XKCD-style comic based on the top headline" class="w-full h-auto rounded-lg bg-slate-800/50"/>
+                    </div>
+                </div>
+
+                <div class="rounded-xl bg-slate-900/40 border border-slate-800 p-4">
+                    <div>
+                        <div class="text-sm font-semibold">AI-Generated Jokes</div>
+                        <div class="text-xs text-slate-400">Humor from the headlines</div>
+                    </div>
+                    <div id="jokesContainer" class="mt-3 space-y-2">
+                        <div class="text-slate-400 text-sm">No jokes generated yet.</div>
+                    </div>
+                </div>
+
+                <div class="rounded-xl bg-slate-900/40 border border-slate-800 p-4">
+                    <div>
+                        <div class="text-sm font-semibold">Stock Market Monitor</div>
+                        <div class="text-xs text-slate-400">Event-related stock tickers</div>
+                    </div>
+                    <div id="stocksContainer" class="mt-3 space-y-2">
+                        <div class="text-slate-400 text-sm">No stock data available yet.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <footer class="mt-6 text-xs text-slate-500 flex items-center justify-between">
+            <div>
+                <span>Last updated: <span id="lastUpdated">--</span></span>
+                <span class="ml-4">Frontend Version: <span id="headerVersionDisplay">--</span></span>
+                <span class="ml-4">Backend Version: <span id="backendVersionDisplay">--</span></span>
+            </div>
+            <span class="text-slate-600">Auto-refreshes every 10 seconds</span>
+        </footer>
+    </div>
+
+    <script src="app.js?v=1.1.3"></script>
+</body>
+</html>
