@@ -1,0 +1,3170 @@
+{
+  "current_headlines": [
+    {
+      "headline": "Hostile aircraft infiltration - the event has ended __02/03/2026 - 04:46:__ Following an alert about hostile aircraft infiltration, the event ended in the following settlements: Odem, El Rom, Buq'ata, Majdal Shams, Mas'ade [Radar - Color Red]",
+      "source": "Kol HaHadashot",
+      "probability": 25,
+      "keywords": "hostile aircraft infiltration, event ended, alert, settlements, radar, red color",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T02:46:10+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "IDF spokesperson in Arabic in evacuation message to residents of southern Lebanon: \"Hezbollah operations force action - we do not want to harm you\"",
+      "source": "Walla",
+      "probability": 15,
+      "keywords": "IDF spokesperson, Arabic, evacuation message, residents, southern Lebanon, Hezbollah operations, force action",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T05:12:00+00:00",
+      "source_type": "Media Outlet"
+    }
+  ],
+  "history_headlines": [
+    {
+      "headline": "CENTCOM: Three US soldiers killed, five injured in Operation Epic Fury against Iran",
+      "source": "JPost",
+      "probability": 25,
+      "keywords": "CENTCOM, US soldiers, killed, injured, Operation Epic Fury, Iran",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:58:36+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "IDF spokesperson: The IDF has begun an additional wave of attacks in the heart of Tehran.",
+      "source": "Kol HaHadashot",
+      "probability": 20,
+      "keywords": "IDF, spokesperson, additional wave, attacks, heart, Tehran",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T15:37:12+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Prime Minister Benjamin Netanyahu on the roof of the Kirya in Tel Aviv: 'We eliminated the tyrant Khamenei and dozens of senior officials of the oppressive regime. Our forces are now striking in the heart of Tehran with increasing intensity, which will intensify even more in the coming days. However, these are painful days. Yesterday here, in Tel Aviv, and now in Beit Shemesh, we lost dear people. My heart goes out to the families, and I send on behalf of all of you, the citizens of Israel, wishes for a speedy recovery to the wounded. We are bringing to this campaign also the assistance of the USA, my friend, the President of the USA, Donald Trump, the US army. This combination of forces allows us to do what I have been wishing to do for 40 years - to strike the terror regime decisively. This is what I promised - and this is what we will do'.",
+      "source": "Kol HaHadashot",
+      "probability": 20,
+      "keywords": "Prime Minister, Benjamin Netanyahu, eliminated, tyrant, Khamenei, senior officials, oppressive regime, forces, striking, heart, Tehran, US army, Donald Trump",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T15:37:12+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Trump to CNBC: The operation in Iran is progressing faster than planned. It is one of the most violent regimes in history. Our work is also for the world",
+      "source": "Amit Segal",
+      "probability": 15,
+      "keywords": "Trump, CNBC, operation, Iran, progressing, faster, planned, violent, regimes, history, work, world",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T15:56:58+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "SENTCOM: Iran did not damage the aircraft carrier Lincoln, the missiles did not even get close to it",
+      "source": "Kol HaHadashot",
+      "probability": 10,
+      "keywords": "SENTCOM, Iran, did not damage, aircraft carrier, Lincoln, missiles, not close",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T15:37:12+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "US Central Command denies Iran's claim that it hit an aircraft carrier",
+      "source": "Walla",
+      "probability": 85,
+      "keywords": "US Central Command, denies, Iran, claim, hit, aircraft carrier",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:00:00+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Iranian army: We have shot down approximately 10 drones of the Zionist and American enemy so far",
+      "source": "Arab World News",
+      "probability": 30,
+      "keywords": "Iranian army, shot down, drones, Zionist, American, enemy",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:04:20+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Dramatic report on CNN: The Saudi Crown Prince authorized the Saudi army to respond to the Iranian attacks",
+      "source": "Amit Segal",
+      "probability": 25,
+      "keywords": "Dramatic report, CNN, Saudi Crown Prince, authorized, Saudi army, respond, Iranian attacks",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:05:09+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Attacks in the city of Shiraz, now",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "Attacks, city, Shiraz, now",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:04:20+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Lebanese army in a defensive formation around the US embassy in Lebanon",
+      "source": "Abu Ali Express",
+      "probability": 15,
+      "keywords": "Lebanese army, defensive formation, US embassy, Lebanon",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:00:04+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Dubai port burning: satellite image",
+      "source": "IRGC",
+      "probability": 65,
+      "keywords": "Dubai, port, burning, satellite, image",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:15:54+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "So far Israel and American bases in 9 countries have been targeted by Iranian missiles: 1. Bahrain 2. Qatar 3. UAE 4. Kuwait 5. Jordan 6. Saudi Arabia 7. Iraq 8. Oman 9. Cyprus + Israel",
+      "source": "IRGC",
+      "probability": 60,
+      "keywords": "Israel, American, bases, countries, targeted, Iranian, missiles, Bahrain, Qatar, UAE, Kuwait, Jordan, Saudi, Iraq, Oman, Cyprus",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:15:54+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Former CIA analyst; America had wrong assessment of Iran's missile power now they are paying the price! \"Larry Johnson\" former CIA analyst: I believe America will pay a heavy price for this action. They failed in accurately assessing Iran's capabilities, especially in the field of ballistic missiles, as a result, Iran will be able to continue this trend of attacks on American bases and Israeli facilities for a long time.",
+      "source": "IRGC",
+      "probability": 55,
+      "keywords": "former, CIA, analyst, America, wrong, assessment, Iran, missile, power, paying, price, ballistic, missiles, attacks, American, bases, Israeli, facilities",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:15:54+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "In the fall scene in Beit Shemesh there are still 11 missing",
+      "source": "Amit Segal",
+      "probability": 40,
+      "keywords": "fall, scene, Beit, Shemesh, still, missing",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:14:31+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Trump to \"The Atlantic\": \"Some of the Iranians who took part in the negotiations in recent weeks were killed\". \"The Iranians are asking to negotiate and I agreed to talk to them, I don't know yet when to say when\".",
+      "source": "Arab World News",
+      "probability": 35,
+      "keywords": "Trump, Atlantic, Iranians, took, part, negotiations, recent, weeks, killed, asking, negotiate, agreed, talk",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:16:21+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Another hit on the American base in Manama, the capital of Bahrain, and the rise of a smoke column - Cyber Guards Corps @SEPAH",
+      "source": "IRGC",
+      "probability": 25,
+      "keywords": "hit, American base, Manama, Bahrain, smoke column, Cyber Guards Corps",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:24:44+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Explosions also in Bahrain. Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 25,
+      "keywords": "Explosions, Bahrain, Yair Goldblatt, Arab World, Telegram",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:22:42+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Explosions heard near the Al Udeid base in Qatar. [Hananel Aviv on Telegram]",
+      "source": "Arab World News",
+      "probability": 25,
+      "keywords": "Explosions, heard, near, Al Udeid base, Qatar, Hananel Aviv, Telegram",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:22:42+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Iranian channels publish footage showing launches of short, medium, and long-range ballistic missiles towards US military bases in the region, and towards Israel. [Hananel Aviv]",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "Iranian channels, publish, footage, launches, ballistic missiles, short, medium, long-range, US military bases, Israel",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:22:42+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Four B-2 Spirit bombers of the US Air Force performed long round-trip flights and dropped dozens of heavy 2000-pound bombs on underground ballistic missile positions in Iran! The attacks hit targets in secret, deep, and fortified facilities, causing extensive damage to Iran's ballistic missile capabilities, in the largest B-2 bomber operation in recent decades. Abu Saleh's Desk Arab",
+      "source": "Abu Saleh's Desk",
+      "probability": 15,
+      "keywords": "B-2 Spirit bombers, US Air Force, flights, dropped, heavy bombs, underground, ballistic missile, positions, Iran, attacks, targets, secret facilities, deep, fortified, extensive damage, capabilities, largest operation",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:22:15+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Severe explosions shook Qatar, Cyber Guards Corps @SEPAH",
+      "source": "IRGC",
+      "probability": 25,
+      "keywords": "Severe, explosions, shook, Qatar, Cyber, Guards, Corps",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:29:01+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The Iranian attacks in Manama, the capital of Bahrain. [To respond to the article click here](",
+      "source": "Abu Ali Express",
+      "probability": 20,
+      "keywords": "Iranian, attacks, Manama, capital, Bahrain",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:32:04+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The burned Jebel Ali port in Dubai. [To respond to the article click here](",
+      "source": "Abu Ali Express",
+      "probability": 20,
+      "keywords": "burned, Jebel, Ali, port, Dubai",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:32:04+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Explosions are also heard in Dubai. [Dor F. on Telegram](",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "Explosions, heard, Dubai",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:34:22+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Mary Ann De Vera, 33 years old, a citizen of the Philippines, is the fatality from the missile hit in Tel Aviv last night",
+      "source": "Amit Segal",
+      "probability": 15,
+      "keywords": "Mary, Ann, De, Vera, citizen, Philippines, fatality, missile, hit, Tel, Aviv",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:32:15+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "IRGC: 3 violating American and British oil tankers were hit by missiles and are burning in the eighth statement of Operation True Promise 4, the public relations of the IRGC announced: The seventh and eighth waves of Operation True Promise 4 this afternoon were carried out towards American-Zionist targets with consecutive missile launches and extensive drone launches. The American Ali Al-Salem naval base in Kuwait has been completely disabled following recent attacks and 3 American maritime infrastructure structures in Kuwait have been destroyed. The American naval base in Mina (Port) Salman, Bahrain, was hit by 4 drones and severe damage was inflicted on its command and support centers. In continuation of attacks on enemy maritime targets, 3 violating oil tankers from the United States and Britain in the Persian Gulf and Strait of Hormuz were hit by missiles and are burning. The location of American military personnel in Bahrain was targeted with 2 ballistic missiles and other American bases in the region were subjected to consecutive attacks, which have resulted in the death and injury of 560 American soldiers so far. Given the continuous sound of ambulance sirens in American and Zionist bases, as well as field news and intelligence monitoring, we are witnessing a psychological crisis among American soldiers and Zionist settlers, and certainly with the increasing targeted pressures of the armed forces of the Islamic Republic of Iran, the situation will become even tighter for them. Finally, we remind that missile and drone attacks continue continuously and comprehensively, and the offensive achievements of the brave sons of the Iranian nation in the armed forces of the Islamic Republic of Iran will be announced to the noble people of Iran. And victory comes only from God, the Almighty, the Wise. Islamic Revolutionary Guard Corps IRGC Cyber Guards @SEPAH",
+      "source": "IRGC",
+      "probability": 45,
+      "keywords": "IRGC, oil tankers, missiles, burning, Operation True Promise, drones, naval base, Kuwait, Bahrain, ballistic missiles, American soldiers, attacks, Persian Gulf, Strait of Hormuz",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:44:01+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "American/Israeli attack on a port in Chabahar a short time ago",
+      "source": "Abu Ali Express",
+      "probability": 25,
+      "keywords": "American, Israeli, attack, port, Chabahar",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:39:44+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "CNN reporter: Saudi Crown Prince Mohammed bin Salman approved a military response against Iran.",
+      "source": "Abu Ali Express",
+      "probability": 20,
+      "keywords": "CNN, Saudi, Crown Prince, Mohammed bin Salman, military, response, Iran",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:39:44+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "IDF announces, on the eve of Purim: We eliminated all the senior members of the Iranian axis of terror that threatened to destroy us",
+      "source": "Amit Segal",
+      "probability": 20,
+      "keywords": "IDF, announces, Purim, eliminated, senior, Iranian, axis, terror, threatened, destroy",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:44:28+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The President of the European Commission, the executive body of the European Union, calls for a regime change in Iran: 'Iran must stop its nuclear and ballistic missile programs - and support the democratic aspirations of the brave people of Iran. This will pave the way for a sustainable solution'",
+      "source": "Amit Segal",
+      "probability": 15,
+      "keywords": "President, European Commission, European Union, regime change, Iran, nuclear, ballistic missile, programs, democratic, aspirations, people, sustainable, solution",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:44:28+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Iranian Revolutionary Guards: We attacked 3 American and British oil tankers with missiles in the Persian Gulf area and the Strait of Hormuz.",
+      "source": "Abu Ali Express",
+      "probability": 35,
+      "keywords": "Iranian, Revolutionary Guards, attacked, American, British, oil tankers, missiles, Persian Gulf, Strait of Hormuz",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:51:34+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Revolutionary Guards: We attacked 3 American and British oil tankers in the Persian Gulf area and the Strait of Hormuz. They are burning.",
+      "source": "Amit Segal",
+      "probability": 35,
+      "keywords": "Revolutionary Guards, attacked, American, British, oil tankers, Persian Gulf, Strait of Hormuz, burning",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:52:39+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "IDF announces that the elimination of the entire leadership of the Iranian terror axis in the Middle East has been completed.",
+      "source": "Kol HaHadashot",
+      "probability": 15,
+      "keywords": "IDF, announces, elimination, entire leadership, Iranian, terror axis, Middle East, completed",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:45:38+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Australian mosques hold memorial services for 'pious and pure' Khamenei following his assassination",
+      "source": "JPost",
+      "probability": 10,
+      "keywords": "Australian, mosques, memorial services, pious, pure, Khamenei, assassination",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:50:45+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Senior IDF spokesperson publishes the tree of senior eliminated figures in the Iranian axis (including proxies) who have been eliminated so far during the war. The head of the pyramid was eliminated yesterday.",
+      "source": "Abu Ali Express",
+      "probability": 10,
+      "keywords": "Senior, IDF, spokesperson, publishes, tree, senior, eliminated, figures, Iranian axis, proxies, eliminated, war, head, pyramid",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:51:34+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The Iranian Revolutionary Guards claim: We attacked various American bases in the area which caused the death and injury of 560 American soldiers. Of course this is complete nonsense.",
+      "source": "Abu Ali Express",
+      "probability": 25,
+      "keywords": "Iranian, Revolutionary Guards, attacked, American, bases, death, injury, soldiers, claim",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:00:39+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "IDF: 2,000 bombs dropped on Iran already, equal to 50% of total from June 2025's 12 Day War",
+      "source": "JPost",
+      "probability": 15,
+      "keywords": "IDF, bombs, dropped, Iran, equal, total, June, war",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:53:47+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "The Revolutionary Guards: We attacked 3 oil tankers of the USA and Britain in the Persian Gulf and the Strait of Hormuz",
+      "source": "Kol HaHadashot",
+      "probability": 35,
+      "keywords": "Revolutionary Guards, attacked, oil tankers, USA, Britain, Persian Gulf, Strait of Hormuz",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T16:58:24+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Air Force achieved air superiority in the capital of Iran within 24 hours, after more than 700 sorties of our aircraft to the regime's strongholds. Now our pilots are crushing ballistic missile launchers, headquarters and Iranian air defense systems",
+      "source": "Amit Segal",
+      "probability": 20,
+      "keywords": "Air Force, achieved, air superiority, capital, Iran, sorties, aircraft, pilots, crushing, ballistic missile, launchers, headquarters, air defense",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:00:25+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "At a dizzying attack rate: 2,000 munitions in 30 hours Senior in the Air Force: We attacked offensively on the fire arrays and achieved air superiority in less than 24 hours. We are flying over Tehran, and attacking the places from which the suppression mechanisms against the citizens came out. The shock from the opening blow still affects the Iranians. This affects their ability to damage our tools.",
+      "source": "Amit Segal",
+      "probability": 20,
+      "keywords": "attack rate, munitions, hours, Air Force, attacked, offensively, fire arrays, achieved, air superiority, flying, Tehran, attacking, suppression, mechanisms, citizens",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:00:25+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "CENTCOM announcement: Last night, American B-2 bombers, armed with 2,000-pound bombs, attacked Iran's ballistic missile depots. No country should doubt America's determination",
+      "source": "Kol HaHadashot",
+      "probability": 85,
+      "keywords": "CENTCOM, American, B-2 bombers, 2,000-pound bombs, attacked, Iran, ballistic missile depots",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:06:33+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The US publishes footage of B-2 'beautiful' bombers on their way to attack ballistic missile facilities in Iran",
+      "source": "Amit Segal",
+      "probability": 85,
+      "keywords": "US, publishes, footage, B-2 bombers, attack, ballistic missile facilities, Iran",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:09:56+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The US army confirms the report here: stealth B-2 bombers attacked Iran last night",
+      "source": "Abu Ali Express",
+      "probability": 85,
+      "keywords": "US army, confirms, report, stealth B-2 bombers, attacked, Iran, last night",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:08:45+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Missile and drone attack in the last hour on an American base near the airport in Erbil (Iraq)",
+      "source": "Abu Ali Express",
+      "probability": 40,
+      "keywords": "Missile, drone, attack, American base, Erbil, Iraq",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:08:45+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Increase in casualties from the Revolutionary Guards missile attack on Beit Shemesh to 10 killed, 27 wounded: 479 kg explosive warhead landed in Beit Shemesh. Hebrew website 'Walla' reported regarding Iran's missile attack on the Beit Shemesh settlement: The weight of the missile warhead that targeted 'Beit Shemesh' and led to the killing and wounding of a number of Zionists as well as extensive destruction was 479 kg",
+      "source": "IRGC",
+      "probability": 30,
+      "keywords": "casualties, Revolutionary Guards, missile attack, Beit Shemesh, killed, wounded, 479 kg, explosive warhead, Iran, missile",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:09:04+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Missile and drone attack in the last hour on an American base near the airport in Erbil (Iraq) [one response]",
+      "source": "Abu Ali Express",
+      "probability": 65,
+      "keywords": "missile, drone, attack, American, base, Erbil, Iraq, last hour",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:08:45+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Now: Limited security discussion in the Kirya. Later this evening the cabinet will convene",
+      "source": "Kol HaHadashot",
+      "probability": 25,
+      "keywords": "security, discussion, Kirya, cabinet, convene, evening",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:16:44+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Tehran now. Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "Tehran, Yair, Goldblatt, Arab, World, Telegram",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:21:19+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Former Israel Navy chief says, 'They promised us hell but they were revealed as pathetic'",
+      "source": "JPost",
+      "probability": 10,
+      "keywords": "former, Israel, Navy, chief, promised, hell, revealed, pathetic",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:04:14+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "The stock market likes quick victories, but will the gamble of Trump and Netanyahu succeed?",
+      "source": "TheMarker",
+      "probability": 5,
+      "keywords": "stock, market, quick, victories, gamble, Trump, Netanyahu, succeed",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:15:52+02:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "The Israeli Air Force attacked (again) the building of the Iranian Broadcasting Authority in Tehran.",
+      "source": "Abu Ali Express",
+      "probability": 15,
+      "keywords": "Israeli Air Force, attacked, Iranian Broadcasting Authority, Tehran, building",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:33:42+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Starting to dismantle the Iranian Navy President Trump: I just learned that we destroyed and sank 9 ships of the Iranian Navy, some of them relatively large and important. We are pursuing the rest - they too will soon be at the bottom of the sea! In another attack, we largely destroyed their naval headquarters. Besides that, their navy is very successful!",
+      "source": "Abu Ali Express",
+      "probability": 75,
+      "keywords": "dismantle, Iranian Navy, destroyed, sank, ships, naval headquarters, attack",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:33:42+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Parts of the Broadcasting Organization were targeted by the American-Zionist enemy attack Cyber Guards Corps",
+      "source": "IRGC",
+      "probability": 10,
+      "keywords": "Broadcasting Organization, targeted, attack, American-Zionist enemy, Cyber Guards Corps",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:38:31+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Hostile aircraft penetration - The event has ended __01/03/2026 - 19:33:__ Following an alert about hostile aircraft penetration, the event ended in the following settlements: Ein Gedi Hot Springs, Ein Gedi [Radar - Red color]",
+      "source": "Kol HaHadashot",
+      "probability": 25,
+      "keywords": "hostile aircraft, penetration, event ended, alert, radar, red color, settlements",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:33:35+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "According to reports immediately after this segment, the broadcast stopped working. Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "reports, broadcast, stopped working, segment, Telegram",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:40:23+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "British Maritime Authority: Report received about a maritime incident off the coast of Sharjah (in the Emirates), at a distance of about 35 miles from the coast.",
+      "source": "Arab World News",
+      "probability": 65,
+      "keywords": "British, Maritime, Authority, report, maritime, incident, coast, Sharjah, Emirates, distance, miles",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:47:02+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "IDF Spokesperson: The Air Force continues to attack in Tehran footage from the last minutes of the attack on Iranian defense systems",
+      "source": "Abu Ali Express",
+      "probability": 25,
+      "keywords": "IDF, Spokesperson, Air, Force, continues, attack, Tehran, footage, minutes, Iranian, defense, systems",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:48:24+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Reports of explosions now heard in Tehran being the most intense since the beginning of the operation.",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "Reports, explosions, heard, Tehran, most, intense, since, beginning, operation",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:47:02+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Israeli Air Force plane attacks undisturbed defense systems of the Iranian regime in Tehran",
+      "source": "Amit Segal",
+      "probability": 20,
+      "keywords": "Israeli, Air, Force, plane, attacks, undisturbed, defense, systems, Iranian, regime, Tehran",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:44:25+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Hearing explosion sounds in Niavaran and Amir Abad Tehran Cyber Corps of the Guardians @SEPAH",
+      "source": "IRGC",
+      "probability": 15,
+      "keywords": "Hearing, explosion, sounds, Niavaran, Amir, Abad, Tehran, Cyber, Corps, Guardians",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:50:31+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "In the event of an attack on Iran's oil and gas facilities; all oil and gas facilities of the countries in the region will be destroyed Cyber Army of the Islamic Revolutionary Guard Corps @SEPAH",
+      "source": "IRGC",
+      "probability": 20,
+      "keywords": "attack, Iran, oil, gas, facilities, countries, region, destroyed, Cyber Army, Islamic Revolutionary Guard Corps",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:56:31+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Explosions in Bahrain. According to Shiite axis channels, US military bases are being attacked [Hannanel Aviv on Telegram]",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "Explosions, Bahrain, Shiite axis, channels, US, military, bases, attacked",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:59:47+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "IDF Spokesperson: The Air Force continues to attack in Tehran footage from the last minutes of the attack on Iranian defense systems [To comment on the article click here]",
+      "source": "Abu Ali Express",
+      "probability": 10,
+      "keywords": "IDF, Spokesperson, Air Force, continues, attack, Tehran, footage, minutes, Iranian, defense, systems",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:55:01+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "CENTCOM, US Central Command dismantles the false claims of the Iranian regime which claims they are attacking only military targets of the US army and details all the civilian targets they attacked: During the UN Security Council meeting yesterday, the Iranian ambassador to the UN said that Iran's response is directed solely at US bases and assets. This is a lie. The Iranian regime is actively targeting civilians and has attacked more than a dozen locations, among them: Dubai International Airport · Kuwait International Airport · Zayed International Airport, Dubai · Erbil International Airport, Iraq · Fairmont Palm Hotel, Dubai · Burj Al Arab Hotel, Dubai · Crown Plaza Hotel, Bahrain Dubai Port Haifa Refinery · Residential areas in Beit Shemesh, Israel · Residential areas in Tel Aviv, Israel · Residential area in Era Views Towers, Bahrain Residential areas in Qatar [2 comments]",
+      "source": "Abu Ali Express",
+      "probability": 10,
+      "keywords": "CENTCOM, US Central Command, false claims, Iranian regime, attacking, military targets, US army, details, civilian targets, UN Security Council, Iranian ambassador, response, bases, assets, civilians, locations, airports, hotels, residential areas",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:55:01+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Temporary broadcast suspension on the Iranian Broadcasting Authority following the Israeli attack on the Broadcasting Authority offices in Tehran. [To comment on the article click here]",
+      "source": "Abu Ali Express",
+      "probability": 5,
+      "keywords": "Temporary, broadcast, suspension, Iranian, Broadcasting Authority, following, Israeli, attack, offices, Tehran",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T17:55:01+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The homes of several senior political figures in the Revolutionary Guards were attacked in northern Tehran. Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "homes, senior, political, figures, Revolutionary Guards, attacked, northern Tehran",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:09:01+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Bandar Abbas, attacks. Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 25,
+      "keywords": "Bandar Abbas, attacks",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:09:01+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Islamic Revolutionary Guard Corps cyber guards @SEPAH: New attack on a ship/ This is the fourth incident of this type today. Islamic Revolutionary Guard Corps cyber guards @SEPAH",
+      "source": "IRGC",
+      "probability": 35,
+      "keywords": "attack, ship, fourth, incident, today",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:01:31+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Islamic Revolutionary Guard Corps cyber guards @SEPAH: Officials of the United Arab Emirates have announced that trading in the Dubai and Abu Dhabi stock exchanges has been suspended and trading will not take place on Monday and Tuesday either. Islamic Revolutionary Guard Corps cyber guards @SEPAH",
+      "source": "IRGC",
+      "probability": 20,
+      "keywords": "officials, United Arab Emirates, trading, stock exchanges, suspended, Monday, Tuesday",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:01:31+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The Islamic Revolutionary Guard Corps intends to expand attacks in the Gulf states. Abu Saleh The Arab Desk",
+      "source": "Abu Saleh's Desk",
+      "probability": 40,
+      "keywords": "Islamic Revolutionary Guard Corps, intends, expand, attacks, Gulf states",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:06:29+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Warning: The video contains alarm sound The American base in Erbil, Iraq (Kurdistan region) after an Iranian/proxy Iranian attack.",
+      "source": "Abu Ali Express",
+      "probability": 65,
+      "keywords": "warning, video, alarm, sound, American, base, Erbil, Iraq, Kurdistan, Iranian, proxy, attack",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:16:52+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Nurses at Gandhi Hospital are transferring babies while this area is being bombarded with missiles Cyber Guards Corps @SEPAH",
+      "source": "IRGC",
+      "probability": 45,
+      "keywords": "nurses, Gandhi, Hospital, transferring, babies, area, bombarded, missiles, Cyber, Guards, Corps",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:18:36+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Bloomberg Economics estimates that in a scenario of the Strait of Hormuz being blocked, oil prices could rise to more than $100 per barrel. Cyber Guards Corps @SEPAH",
+      "source": "IRGC",
+      "probability": 35,
+      "keywords": "Bloomberg, Economics, estimates, scenario, Strait, Hormuz, blocked, oil, prices, rise, barrel",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:18:36+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Hahaha. Want to hear the joke of the year? Shiite channels are running elaborate conspiracies. 'The Revolutionary Guards confirm, according to clear data and intelligence sources, that 560 American soldiers and officers were killed during the ongoing attacks since yesterday.' Even lying has a way... [Hananel Aviv]",
+      "source": "Arab World News",
+      "probability": 25,
+      "keywords": "joke, year, Shiite, channels, conspiracies, Revolutionary, Guards, confirm, data, intelligence, American, soldiers, killed, attacks",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:11:18+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Tehran under an attack that simply doesn't stop... Abu Saleh's Arab Desk",
+      "source": "Abu Saleh's Desk",
+      "probability": 20,
+      "keywords": "Tehran, under, attack, simply, doesn't, stop, Abu, Saleh's, Arab, Desk",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:09:44+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Unofficial / Regional attack summary: United Arab Emirates: 165 ballistic missiles, 541 drones Kuwait: 97 ballistic missiles, 283 drones Qatar: 65 missiles, 12 drones Bahrain: 45 missiles, 9 drones Oman: 2 drones Saudi Arabia: Attacks on the Eastern Province of Riyadh confirmed but without details Total: 1219 Cyber Army of the Islamic Revolutionary Guard Corps @SEPAH",
+      "source": "IRGC",
+      "probability": 40,
+      "keywords": "Unofficial, regional, attack, summary, ballistic missiles, drones, UAE, Kuwait, Qatar, Bahrain, Oman, Saudi Arabia, confirmed, Cyber Army, IRGC",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:26:32+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Iranian Foreign Minister Araghchi: We had two decades to learn the lessons of the American army's defeats in our East and West. We have internalized the lessons accordingly, the explosions in our capital do not affect our missile capabilities at all. Abu Saleh's Desk Arab",
+      "source": "Abu Saleh's Desk",
+      "probability": 30,
+      "keywords": "Iranian, Foreign Minister, Araghchi, decades, learn, lessons, American army, defeats, explosions, capital, missile capabilities",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:28:06+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Tehran now Intelligence Ministry building destroyed Abu Saleh's Desk Arab",
+      "source": "Abu Saleh's Desk",
+      "probability": 25,
+      "keywords": "Tehran, now, Intelligence Ministry, building, destroyed",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:28:06+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Tehran is burning Abu Saleh's Desk Arab",
+      "source": "Abu Saleh's Desk",
+      "probability": 20,
+      "keywords": "Tehran, burning",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:28:06+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Reports in Iran: Mojtaba Khamenei, son of Ayatollah Khamenei - was also eliminated in the attacks",
+      "source": "Kol HaHadashot",
+      "probability": 15,
+      "keywords": "Reports, Iran, Mojtaba Khamenei, son, Ayatollah Khamenei, eliminated, attacks",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:23:26+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The oil tanker tracking institute (Kepler) reported severe GPS and satellite navigation signal disruptions in the Strait of Hormuz.",
+      "source": "IRGC",
+      "probability": 75,
+      "keywords": "GPS, satellite navigation, disruptions, Strait of Hormuz, severe",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:37:46+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Trump 'I was just informed that we destroyed and sank 9 ships of the Iranian navy. We destroyed a large part of the Iranian navy command headquarters. We will pursue and sink the rest of the Iranian warships soon'",
+      "source": "Abu Saleh's Desk",
+      "probability": 65,
+      "keywords": "Trump, destroyed, sank, Iranian navy, ships, warships, command headquarters",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:37:25+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Launches from Iran towards the north",
+      "source": "Amit Segal",
+      "probability": 60,
+      "keywords": "launches, Iran, north",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:33:28+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Launches from Iran towards the north of the country were identified",
+      "source": "Kol HaHadashot",
+      "probability": 60,
+      "keywords": "launches, Iran, north, country, identified",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:33:53+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Missiles were launched from Iran towards the territory of the State of Israel",
+      "source": "Walla",
+      "probability": 55,
+      "keywords": "missiles, launched, Iran, territory, State of Israel",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:36:00+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Erbil, Iraq, after the Iranian missile attack, the Cyber Guards of the Revolutionary Guards @SEPAH",
+      "source": "IRGC",
+      "probability": 40,
+      "keywords": "Erbil, Iraq, Iranian, missile, attack, Cyber, Guards, Revolutionary, Guards",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:42:06+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "UK Maritime Trade Operations center: The 229-meter Marshall Islands-flagged oil tanker MKD Vyom was targeted near the Strait of Hormuz. The Cyber Guards of the Revolutionary Guards @SEPAH",
+      "source": "IRGC",
+      "probability": 25,
+      "keywords": "UK, Maritime, Trade, Operations, oil, tanker, targeted, Strait, of, Hormuz, Cyber, Guards",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:42:06+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Iranian naval ammunition warehouses that were bombed by the US army last night. Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "Iranian, naval, ammunition, warehouses, bombed, US, army, last, night",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:46:44+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "IDF Spokesperson: The IDF destroyed the Iranian combat headquarters containing soldiers of the Iranian terrorist regime in a wide wave of attacks that continued in the last hours and from the moment the Air Force achieved air superiority in the skies of Tehran, the IDF attacked dozens of the regime's combat headquarters, including headquarters of the Revolutionary Guards, intelligence headquarters, headquarters of the Revolutionary Guards Air Force and internal security headquarters. The attacks were directed at headquarters where AMAN identified activity by soldiers of the Iranian terrorist regime responsible for managing the campaign and planning terrorist routes against the State of Israel and countries in the region.",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "IDF, Spokesperson, destroyed, Iranian, combat, headquarters, soldiers, terrorist, regime, attacks, Air, Force, air, superiority, Tehran, Revolutionary, Guards, intelligence",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:46:44+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Following the news that the militias in Iraq are among those responsible for the event, the Iraqi Brigades now publish: 'In the name of God, the Most Gracious, the Most Merciful (And for you in retaliation is life, O people of understanding) Surah Al-Baqarah 179. In our commitment to fulfill our legal duty and as revenge for the blood of the Imam, the martyred leader Ali al-Husseini al-Khamenei, and in support of the Islamic Republic of Iran, our brave fighters carried out today, Sunday 1/3/2026, an attack with the Kara missile on the American bases in Erbil (and God is the protector of the believers and their supporters) The Islamic Resistance, the Brigades of Wilayat al-Dam 1/3/2026.' In short, taking responsibility. Wait wait. Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "militias, Iraq, responsible, event, Iraqi, Brigades, revenge, blood, Imam, leader, Ali, al-Khamenei, support, Islamic, Republic, of, Iran, fighters, attack, Kara, missile, American, bases, Erbil, Islamic, Resistance",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:46:44+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Report of severe disruption of GPS signals and satellite navigation in the Strait of Hormuz.",
+      "source": "Arab World News",
+      "probability": 85,
+      "keywords": "Report, severe disruption, GPS signals, satellite navigation, Strait of Hormuz",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:56:19+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "IDF spokesperson: The Air Force has so far completed in Operation 'Roar of the Lion', more than 30 attacks against the ballistic missile array and defense systems of the Iranian regime.",
+      "source": "Abu Ali Express",
+      "probability": 40,
+      "keywords": "IDF, Air Force, Operation Roar of the Lion, attacks, ballistic missile, defense systems, Iranian regime",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:55:13+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "IDF attacked dozens of combat command centers of the Iranian regime, manned by soldiers, including command centers for suppressing the Iranian people and command centers for managing the warfare. IDF spokesperson: We are now deepening the strike against the regime.",
+      "source": "Amit Segal",
+      "probability": 40,
+      "keywords": "IDF, attacked, combat command centers, Iranian regime, soldiers, suppressing, Iranian people, managing warfare, deepening strike",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:55:01+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Crazy footage from IDF attacks in Iran.",
+      "source": "Kol HaHadashot",
+      "probability": 30,
+      "keywords": "footage, IDF attacks, Iran",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:54:30+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Reports of attacks towards a number of police stations in Tehran.",
+      "source": "Arab World News",
+      "probability": 25,
+      "keywords": "Reports, attacks, police stations, Tehran",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T18:56:19+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "IDF Spokesperson: The Air Force has so far completed in Operation 'Lion's Roar', more than 30 attacks against the ballistic missile array and defense systems of the Iranian regime.",
+      "source": "Abu Ali Express",
+      "probability": 20,
+      "keywords": "IDF, Air Force, Operation Lion's Roar, attacks, ballistic missile, defense systems, Iranian regime",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:01:54+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Iranian missile successfully hit its target in occupied Haifa - Cyber Guards Corps",
+      "source": "IRGC",
+      "probability": 15,
+      "keywords": "Iranian, missile, successfully, hit, target, occupied, Haifa, Cyber Guards Corps",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:05:38+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "New wave of Iranian missile attacks on Israel - Cyber Guards Corps",
+      "source": "IRGC",
+      "probability": 15,
+      "keywords": "New wave, Iranian, missile, attacks, Israel, Cyber Guards Corps",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:05:38+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Launches toward Israel identified __01/03/2026 - 21:05:__ In the coming minutes, alerts are expected to be received in the following areas: Bika, Beit She'an Valley, Gush Dan, the Shephelah, Judea, Yarkon, Lachish, Western Lachish, Samaria, Judean Shephelah, Sharon | To search for a locality and view the full list of localities click [here] [Radar - Color Red]",
+      "source": "Kol HaHadashot",
+      "probability": 15,
+      "keywords": "Launches, toward, Israel, identified, alerts, areas, Radar, Color Red",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:05:53+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Missile launch from Iran toward the territory of the State of Israel",
+      "source": "Walla",
+      "probability": 15,
+      "keywords": "Missile, launch, from, Iran, toward, territory, State of Israel",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T22:03:00+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Launches identified from Iran",
+      "source": "Amit Segal",
+      "probability": 65,
+      "keywords": "Launches, identified, Iran",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:09:43+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Launches identified towards Israel __01/03/2026 - 21:06:__ In the coming minutes, alerts are expected in the following areas: Bika, Beit She'an Valley, Gush Dan, Upper Galilee, Lower Galilee, Southern Golan, Carmel, The Gulf, The Valleys, The Shephelah, Wadi Ara, Judea, Yarkon, Lachish, Menashe, Western Lachish, Central Galilee, Northern Golan, Confrontation Line, Samaria, Judean Shephelah, Sharon | To search for a locality and view the full list of localities click [here]( [Radar - Color Red](",
+      "source": "Kol HaHadashot",
+      "probability": 60,
+      "keywords": "Launches, identified, towards, Israel, alerts, areas, Golan, Galilee, confrontation",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:10:10+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Another barrage now on its way to the center, do not leave the protected areas!",
+      "source": "Arab World News",
+      "probability": 55,
+      "keywords": "Another, barrage, now, way, center, leave, protected, areas",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:15:37+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "A strong explosion was heard in the Shephelah area.",
+      "source": "Arab World News",
+      "probability": 45,
+      "keywords": "strong, explosion, heard, Shephelah, area",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:15:37+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Many interceptions are heard well",
+      "source": "Arab World News",
+      "probability": 40,
+      "keywords": "Many, interceptions, heard, well",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:15:37+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Additional Palestinian documentation of the missiles - from the Nablus area",
+      "source": "Abu Ali Express",
+      "probability": 25,
+      "keywords": "Palestinian, documentation, missiles, Nablus",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:23:53+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Palestinian documentation from the West Bank of 3 Iranian missiles.",
+      "source": "Abu Ali Express",
+      "probability": 25,
+      "keywords": "Palestinian, documentation, West Bank, Iranian, missiles",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:23:53+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Documentation of the Iranian missiles (and also interception) from the Tekoa area (Palestinian photographer).",
+      "source": "Abu Ali Express",
+      "probability": 25,
+      "keywords": "Documentation, Iranian, missiles, interception, Tekoa, Palestinian",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:23:53+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Documentation of the Iranian missiles in the skies of Nablus a short time ago (Palestinian documentation) [To respond to the article click here](",
+      "source": "Abu Ali Express",
+      "probability": 25,
+      "keywords": "Documentation, Iranian, missiles, skies, Nablus, Palestinian",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:23:53+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Reports of an attack towards a post of the Shi'ite militia al-Hashd al-Sha'abi in Iraq. [Hananel Aviv on Telegram](",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "Reports, attack, post, Shi'ite, militia, al-Hashd al-Sha'abi, Iraq",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:24:23+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "According to Arab users, these are Iranian missiles with a split warhead.",
+      "source": "Abu Ali Express",
+      "probability": 25,
+      "keywords": "Arab, users, Iranian, missiles, split, warhead",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:26:04+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Suspected direct hit in central Israel",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "Suspected, direct, hit, central, Israel",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:30:01+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The skies of Israel. Photo: Benjamin Council Spokesperson",
+      "source": "Amit Segal",
+      "probability": 10,
+      "keywords": "skies, Israel, photo, Benjamin, Council, Spokesperson",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:42:54+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Cluster warhead missiles entered the field and hit their target without any resistance from Israel's air defense. Cyber Army of the Guardians @SEPAH",
+      "source": "IRGC",
+      "probability": 40,
+      "keywords": "Cluster, warhead, missiles, entered, field, hit, target, resistance, Israel, air, defense",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:40:55+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The Revolutionary Guards: The ninth wave of the 'True Promise 4' operation against targets throughout the occupied territories and American targets in the region has begun. Cyber Army of the Guardians @SEPAH",
+      "source": "IRGC",
+      "probability": 60,
+      "keywords": "Revolutionary, Guards, ninth, wave, True, Promise, operation, targets, occupied, territories, American, region, begun",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:40:55+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The Islamic Revolutionary Guard Corps: The aircraft carrier Abraham Lincoln has retreated from its position after being attacked by four cruise missiles, heading towards the southeastern Indian Ocean. Abu Saleh's Arab Desk",
+      "source": "Abu Saleh's Desk",
+      "probability": 85,
+      "keywords": "Islamic, Revolutionary, Guard, Corps, aircraft, carrier, Abraham, Lincoln, retreated, attacked, four, cruise, missiles, southeastern, Indian, Ocean",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:38:15+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The Islamic Revolutionary Guard Corps: The 'Tad' radar of the Zionist regime's missile defense network in 'Al Ruways, UAE' was completely destroyed by a precision aerospace missile strike from the Islamic Revolutionary Guard Corps. The support fuel tanker ship of the American naval fleet at a depth of 700 kilometers off the coast of Chabahar was hit by drone and missile systems and was rendered inoperable and taken out of the operational cycle. The advanced anti-ship missile system of the Islamic Revolutionary Guard Corps is still pursuing the American naval fleet in the region.",
+      "source": "IRGC",
+      "probability": 85,
+      "keywords": "Islamic Revolutionary Guard Corps, radar, destroyed, missile, strike, support fuel tanker, American naval fleet, hit, drone, missile systems, inoperable, anti-ship missile system, pursuing",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:52:47+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Zionist sources: The reason for hearing multiple explosion sounds in central Tel Aviv is that one of the Iranian missiles 'contained a warhead with dozens of cluster bombs'.",
+      "source": "IRGC",
+      "probability": 40,
+      "keywords": "Zionist, sources, explosion, sounds, central Tel Aviv, Iranian, missiles, warhead, cluster bombs",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:52:47+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Channel 3 broadcasts of the Iranian Broadcasting Authority (IRIB) were hacked: Instead of regular broadcasts, messages to the Iranian people from Prime Minister Netanyahu and President Trump are being broadcast.",
+      "source": "Abu Ali Express",
+      "probability": 20,
+      "keywords": "Channel, broadcasts, Iranian, Broadcasting Authority, hacked, messages, Iranian people, Prime Minister Netanyahu, President Trump",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:44:19+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Hack into Iranian television: A speech by Netanyahu calling on the people to prepare for rebellion was broadcast (reported in Iran International).",
+      "source": "Amit Segal",
+      "probability": 20,
+      "keywords": "Hack, Iranian, television, speech, Netanyahu, calling, people, prepare, rebellion",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T19:47:56+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Alarms were activated in the Negev",
+      "source": "Walla",
+      "probability": 15,
+      "keywords": "Alarms, activated, Negev",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T22:41:00+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "WATCH: B-2 stealth bombers used to strike Iran, Trump confirms at least nine Iranian vessels sunk",
+      "source": "JPost",
+      "probability": 75,
+      "keywords": "B-2 stealth bombers, strike Iran, Trump, nine Iranian vessels sunk",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:55:53+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "IDF carries out wide-ranging strikes against IRGC facilities across Tehran",
+      "source": "JPost",
+      "probability": 65,
+      "keywords": "IDF, wide-ranging strikes, IRGC facilities, Tehran",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:55:53+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "WATCH: Cluster munitions seemingly used during latest Iranian missile barrage against Israel",
+      "source": "JPost",
+      "probability": 60,
+      "keywords": "cluster munitions, Iranian missile barrage, Israel",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:55:53+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "In an unwanted confession, CENTCOM terrorists announced that Iran targeted the Haifa oil refinery again, and the tweet was immediately deleted!! Cyber Army of the Guardians of the Revolution @SEPAH",
+      "source": "IRGC",
+      "probability": 35,
+      "keywords": "CENTCOM, Iran, targeted, Haifa oil refinery, tweet deleted",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:01:56+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Tel Aviv building in flames Cyber Army of the Guardians of the Revolution @SEPAH",
+      "source": "IRGC",
+      "probability": 30,
+      "keywords": "Tel Aviv, building, flames, Cyber Army",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:01:56+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Dramatic report on AFP: France, Germany and Britain enter the war",
+      "source": "Kol HaHadashot",
+      "probability": 25,
+      "keywords": "France, Germany, Britain, enter, war, dramatic, report, AFP",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:10:55+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Police spokesperson: Reports received about falling ammunition items in the Tel Aviv district - damage caused on site. According to medical sources, one person was lightly injured. Police forces are working to isolate the fall site.",
+      "source": "Kol HaHadashot",
+      "probability": 20,
+      "keywords": "police, spokesperson, reports, falling, ammunition, damage, injured, forces",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:10:55+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Tighten your seatbelts: The Revolutionary Guards claim 40 killed in Israel in the latest missile wave. Clowns walking around.",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "Revolutionary Guards, claim, killed, Israel, missile, wave, seatbelts",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:09:42+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "In Iran they announce additional senior commanders eliminated in attacks: Mohammad Shirazi, head of the office of the Supreme Commander of the Armed Forces; Saleh Asadi, deputy head of the intelligence division of the General Staff of the Armed Forces; Mohsen Dareh Bagi, deputy head of the logistics and support division of the Armed Forces; Akbar Ebrahim Zadeh, deputy head of the office of the Supreme Commander of the Armed Forces; Gholamreza Rezaian, head of the intelligence array of the Iranian police; Bahram Hasini Motlaq, head of the planning and operations department in the operations division of the General Staff; Hassan Ali Tajik, head of the logistics division in the General Staff of the Armed Forces.",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "Iran, announce, senior, commanders, eliminated, attacks, armed forces, intelligence, logistics",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:09:42+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "AP claim: An armed individual wearing a shirt with the Iranian flag killed two people and injured 14 in a shooting in Texas, USA. Sepah Cyber Guard @SEPAH",
+      "source": "IRGC",
+      "probability": 10,
+      "keywords": "AP, claim, armed, individual, Iranian, flag, killed, injured, shooting, Texas, USA",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:08:50+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Another lie of the Iranian Revolutionary Guards: We shot down 17 Israeli Hermes drones in Iranian airspace.",
+      "source": "Abu Ali Express",
+      "probability": 25,
+      "keywords": "Iranian Revolutionary Guards, lie, shot down, Israeli, Hermes, drones, Iranian airspace",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:18:34+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Bahraini Interior Ministry publishes that Iran attacked a Bahraini maritime facility several hours ago, and efforts are still being made to extinguish the fire that broke out at the facility.",
+      "source": "Arab World News",
+      "probability": 65,
+      "keywords": "Bahraini Interior Ministry, Iran attacked, Bahraini maritime facility, fire, extinguish",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:20:47+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Hezbollah: We emphasize our steadfast and resolute stand alongside Iran until achieving complete victory.",
+      "source": "Arab World News",
+      "probability": 35,
+      "keywords": "Hezbollah, emphasize, steadfast, resolute stand, Iran, complete victory",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:20:47+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Trump on the war: This will last 4 weeks - or less",
+      "source": "Amit Segal",
+      "probability": 30,
+      "keywords": "Trump, war, last, 4 weeks, less",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:17:53+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Trump: The war will last about 4 weeks, maybe less.",
+      "source": "Kol HaHadashot",
+      "probability": 30,
+      "keywords": "Trump, war, last, 4 weeks, maybe less",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:18:50+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Missiles were launched from Iran",
+      "source": "Amit Segal",
+      "probability": 45,
+      "keywords": "Missiles, launched, Iran",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:28:12+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "IDF identified launches from Iran towards the center",
+      "source": "Kol HaHadashot",
+      "probability": 45,
+      "keywords": "IDF, identified, launches, Iran, towards, center",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:28:35+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Launches identified towards Israel __01/03/2026 - 22:28:__ In the coming minutes alerts are expected in the following areas: Bika, Beit Shean Valley, Gush Dan, the coastal plain, Judea, Jerusalem, Yarkon, Lachish, Western Lachish, Samaria, Judean foothills, Sharon | To search for a locality and view the full list of localities click [here]( [Red Alert Radar]",
+      "source": "Kol HaHadashot",
+      "probability": 45,
+      "keywords": "Launches, identified, towards, Israel, alerts, expected, areas",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:28:35+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Launches on the way, follow the instructions.",
+      "source": "Arab World News",
+      "probability": 45,
+      "keywords": "Launches, way, follow, instructions",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:30:25+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "France, Germany and Britain are preparing for military action against Iran. Abu Badr",
+      "source": "Arab World News",
+      "probability": 25,
+      "keywords": "France, Germany, Britain, preparing, military, action, against, Iran",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:30:25+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "France, Britain and Germany have issued a statement announcing their intention to take \"defensive measures\" that will lead to attacks on Iran's military capabilities",
+      "source": "IRGC",
+      "probability": 25,
+      "keywords": "France, Britain, Germany, statement, defensive measures, attacks, Iran, military capabilities",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:39:04+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Emergency warnings in Dubai and Abu Dhabi after possible missile entry",
+      "source": "IRGC",
+      "probability": 40,
+      "keywords": "emergency warnings, Dubai, Abu Dhabi, possible, missile, entry",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:39:04+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Bahrain's Interior Ministry announced \"Iran has targeted maritime facilities near Salman Port and we are trying to control the fire\"",
+      "source": "IRGC",
+      "probability": 35,
+      "keywords": "Bahrain, Interior Ministry, Iran, targeted, maritime facilities, Salman Port, control fire",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:39:04+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Analysts at CNBC warn that closing the Strait of Hormuz artery is the hardest possible blow to the global economy that would immediately push oil prices above $150",
+      "source": "IRGC",
+      "probability": 20,
+      "keywords": "analysts, CNBC, warn, closing, Strait of Hormuz, blow, global economy, oil prices",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:39:04+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Loud explosions heard",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "loud, explosions, heard",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:39:27+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Monitoring, tracking and destruction of advanced Israeli drone in Fars province by the brave men of the cyber defense of the IRGC",
+      "source": "IRGC",
+      "probability": 25,
+      "keywords": "monitoring, tracking, destruction, advanced, Israeli, drone, Fars province, cyber defense, IRGC",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:43:04+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Minutes ago, the country's air defense successfully targeted an enemy drone - IRGC Cyber Guards",
+      "source": "IRGC",
+      "probability": 25,
+      "keywords": "minutes ago, country, air defense, successfully, targeted, enemy, drone, IRGC, cyber guards",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:43:04+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Rocket and missile fire - the event has ended __01/03/2026 - 22:49:__ Following an alert about rocket and missile fire, the event has ended in the following areas: Gush Dan, the coastal plain, Judea, Yarkon, Lachish, western Lachish, the Judean foothills, Sharon",
+      "source": "Kol HaHadashot",
+      "probability": 20,
+      "keywords": "rocket, missile, fire, event, ended, alert, areas, Gush Dan, coastal plain, Judea, Yarkon, Lachish, Sharon",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:49:08+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Alarms were activated throughout the country following launches from Iran",
+      "source": "Walla",
+      "probability": 20,
+      "keywords": "alarms, activated, throughout, country, following, launches, from, Iran",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:46:00+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "President Trump on the timeline of the operation in Iran, in an interview with Daily Mail: It's always a 4-week process. We estimated it would take about four weeks. As strong as it may be, it's a big country, it will take 4 weeks maybe less.",
+      "source": "Abu Ali Express",
+      "probability": 15,
+      "keywords": "President, Trump, timeline, operation, Iran, interview, Daily Mail, process, weeks, country",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:41:14+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "A cluster warhead hit the occupied territories cyber guard corps @SEPAH",
+      "source": "IRGC",
+      "probability": 40,
+      "keywords": "cluster warhead, hit, occupied territories, cyber guard",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:56:06+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Missile hit in Bahrain",
+      "source": "Arab World News",
+      "probability": 30,
+      "keywords": "missile, hit, Bahrain",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:56:59+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Large fire at American maritime facilities near Salman port in Bahrain",
+      "source": "Abu Saleh's Desk",
+      "probability": 25,
+      "keywords": "large fire, American, maritime facilities, Salman port, Bahrain",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:56:55+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Reports of attacks in Ahvaz",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "reports, attacks, Ahvaz",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:56:59+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "7 wounded including one seriously in missile fall in Jerusalem. The missile fell on the road. Most of the casualties were in a vehicle.",
+      "source": "Abu Ali Express",
+      "probability": 15,
+      "keywords": "wounded, seriously, missile, fall, Jerusalem, road, casualties, vehicle",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T20:57:54+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Summary of the event: moderately wounded, lightly wounded",
+      "source": "Amit Segal",
+      "probability": 15,
+      "keywords": "summary, event, moderately, wounded, lightly",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:01:17+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Update for Jerusalem: two wounded, light and moderate",
+      "source": "Kol HaHadashot",
+      "probability": 15,
+      "keywords": "update, Jerusalem, two, wounded, light, moderate",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:07:18+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Attacks also in Isfahan",
+      "source": "Arab World News",
+      "probability": 25,
+      "keywords": "attacks, Isfahan",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:07:33+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "MDA: 7 wounded from a fall in the Jerusalem area",
+      "source": "Walla",
+      "probability": 10,
+      "keywords": "MDA, 7, wounded, fall, Jerusalem, area",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:00:00+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "The scene of the fall in Jerusalem - the number of wounded has risen to 7, one of them in serious condition",
+      "source": "Walla",
+      "probability": 10,
+      "keywords": "scene, fall, Jerusalem, number, wounded, risen, 7, serious, condition",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:00:00+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "American military facilities in Bahrain are burning in the fire of Iranian missiles and drones",
+      "source": "IRGC",
+      "probability": 65,
+      "keywords": "American, military, facilities, Bahrain, burning, fire, Iranian, missiles, drones",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:14:06+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Images of the destruction resulting from the Iranian missile attack on the center of the occupied territories",
+      "source": "IRGC",
+      "probability": 60,
+      "keywords": "Images, destruction, resulting, Iranian, missile, attack, center, occupied, territories",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:14:06+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Strong explosions are heard in Doha and Bahrain",
+      "source": "Arab World News",
+      "probability": 45,
+      "keywords": "Strong, explosions, heard, Doha, Bahrain",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:13:46+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Trump: Many military personnel in Iran want immunity - they are contacting us by the thousands",
+      "source": "Amit Segal",
+      "probability": 25,
+      "keywords": "Trump, military, personnel, Iran, want, immunity, contacting, thousands",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:17:13+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Reaction of Pavel Durov, owner of Telegram, to the Iran war: Unfortunately I had to leave Dubai for Europe, so not only did I miss Iran's fireworks but I'm also at greater risk in Europe! Even with the existence of missile flights, Dubai is safer than Europe!",
+      "source": "IRGC",
+      "probability": 20,
+      "keywords": "Reaction, Pavel Durov, owner, Telegram, Iran, war, Dubai, Europe, missile, flights, safer",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:14:06+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "At least seven people wounded by Iranian missile strike in Jerusalem area",
+      "source": "JPost",
+      "probability": 25,
+      "keywords": "seven people, wounded, Iranian, missile strike, Jerusalem",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:03:51+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Amazon's cloud unit reports fire after objects hit UAE data center",
+      "source": "JPost",
+      "probability": 20,
+      "keywords": "Amazon, cloud unit, fire, objects, hit, UAE, data center",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:03:51+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "With Iraqi militia attacks on US forces, Iraq edges toward Iran war frontline",
+      "source": "JPost",
+      "probability": 15,
+      "keywords": "Iraqi militia, attacks, US forces, Iraq, Iran war, frontline",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:03:51+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "French army announces: not sending aircraft carrier to the area",
+      "source": "Amit Segal",
+      "probability": 10,
+      "keywords": "French army, announces, not sending, aircraft carrier, area",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:25:16+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "In a long and embarrassing apologetic speech, the British Prime Minister announces that the United States will be able to use British bases to destroy Iran's missiles. Where is he compared to Churchill and Thatcher",
+      "source": "Amit Segal",
+      "probability": 10,
+      "keywords": "British Prime Minister, announces, United States, use, British bases, destroy, Iran's missiles",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:25:16+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The base in Diego Garcia is relevant again for an attack on Iran. British Prime Minister Keir Starmer announces that Britain approves US use of British bases for the purpose of destroying Iranian missiles before their launch (and for this purpose only). The US can now position strategic bombers at the base in Diego Garcia which is at a convenient distance for an attack on Iran (instead of sending the bombers on an 11,000 km flight each way from the US to Iran - saving about 50% of flight distance)",
+      "source": "Abu Ali Express",
+      "probability": 35,
+      "keywords": "Diego Garcia, base, attack, Iran, British, Prime Minister, Keir Starmer, US, British bases, destroying, Iranian missiles, strategic bombers, flight distance",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:33:29+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "President Trump in a short speech about the operation in Iran: Military actions will continue until all our goals are achieved. There will likely be more American casualties. The US will avenge the deaths of the American soldiers. I call on the members of the Revolutionary Guards and the Iranian army to lay down their weapons or face certain death. The entire Iranian military command is gone and many of them want to surrender to save their lives. They want immunity. They are contacting us by the thousands. Trump to the Iranian people: The continuation of the path will depend on you, but we will be with you.",
+      "source": "Abu Ali Express",
+      "probability": 25,
+      "keywords": "President Trump, speech, operation, Iran, military actions, goals, American casualties, avenge, deaths, American soldiers, Revolutionary Guards, Iranian army, surrender, immunity",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:33:29+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Trump: The United States will take revenge for its dead from Iran. Cyber Guards Corps",
+      "source": "IRGC",
+      "probability": 20,
+      "keywords": "Trump, United States, revenge, dead, Iran, Cyber Guards Corps",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:31:06+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The Zionists touched Iranian missiles. Cyber Guards Corps",
+      "source": "IRGC",
+      "probability": 45,
+      "keywords": "Zionists, touched, Iranian missiles, Cyber Guards Corps",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:31:06+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Major shipping companies including Mitsui, Nippon Yusen, Kawasaki Kisen, and Maersk have stopped all their operations through the Strait of Hormuz and have ordered ships to anchor in safe waters until the security situation stabilizes. Cyber Guards Corps",
+      "source": "IRGC",
+      "probability": 30,
+      "keywords": "shipping companies, Mitsui, Nippon Yusen, Kawasaki Kisen, Maersk, stopped, operations, Strait of Hormuz, ships, anchor, safe waters, security situation, stabilizes",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:31:06+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The Americans are distributing footage of the destruction of an Iranian launcher.",
+      "source": "Arab World News",
+      "probability": 25,
+      "keywords": "Americans, distributing, footage, destruction, Iranian, launcher",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:45:34+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Report: US military base Al-Shaddadi, in northeastern Syria, was attacked by two missiles.",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "Report, US, military, base, Al-Shaddadi, Syria, attacked, missiles",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:45:34+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Explosions heard in Anbar, Iraq.",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "Explosions, heard, Anbar, Iraq",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:45:34+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Also in the Al-Samawa province in Iraq, according to reports the US is currently conducting grass mowing of militia targets in the area.",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "Al-Samawa, province, Iraq, reports, US, conducting, grass, mowing, militia, targets",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:45:34+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Reports indicate that Iran attacked another oil tanker in the Strait of Hormuz.",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "Reports, indicate, Iran, attacked, oil, tanker, Strait, Hormuz",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:45:34+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Al-Mayadeen: Iranian missile attack on occupied Jerusalem was carried out simultaneously with a cabinet meeting in a secret location in a protected area, and Israeli media say at least 7 people were injured in these attacks, one of them in critical condition. Cyber Army of the Guardians of the Revolution @SEPAH",
+      "source": "IRGC",
+      "probability": 35,
+      "keywords": "Iranian, missile, attack, Jerusalem, cabinet, meeting, injured, attacks",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:53:22+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Channel 12 of the Zionist regime: The Israeli war cabinet was informed by Israeli army forces that Iran intends to intensify and increase its missile attacks and \"there is no sign of an end in sight\" Cyber Army of the Guardians of the Revolution @SEPAH",
+      "source": "IRGC",
+      "probability": 30,
+      "keywords": "Iran, intensify, increase, missile, attacks, no, sign, end",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:53:22+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Report in Bahrain: Iran attacked an American base A.R 301 Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 65,
+      "keywords": "Iran, attacked, American, base, Bahrain, report",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:54:52+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "British Maritime Trade Operations: A ship named HERCULES STAR in the Persian Gulf has been hit and caught fire. Cyber Army of the Guardians of the Revolution @SEPAH",
+      "source": "IRGC",
+      "probability": 25,
+      "keywords": "ship, HERCULES STAR, Persian Gulf, hit, fire, maritime",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:53:22+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Tonight the Zionists are eating missiles left and right Cyber Army of the Guardians of the Revolution @SEPAH",
+      "source": "IRGC",
+      "probability": 20,
+      "keywords": "Zionists, missiles, left, right, tonight",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:53:22+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Abbadan, southern Iran, high-intensity attacks. Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "Abbadan, southern Iran, high-intensity, attacks",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T22:03:46+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The missile base Tabriz was wiped off the map Amichai Stein",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "missile, base, Tabriz, wiped, map",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T22:03:46+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Senator Lindsey Graham: I think the Arabs will join the war (against Iran - A.A.). I think you will see a coalition between the United States and the Arab world to deal with the Iranian regime, and it will be breathtaking. The fact that we are going to work together, potentially, with the Arabs to liberate the Iranian people is unimaginable. I think it will happen. I think that in the coming days, you will see joint efforts between the Arab world and President Trump to eliminate the threat coming from Iran. [To comment on the article click here]",
+      "source": "Abu Ali Express",
+      "probability": 10,
+      "keywords": "Senator, Lindsey Graham, Arabs, join, war, coalition, United States, Arab world, Iranian regime, threat, Iran",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:56:25+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Mashhad: What Iranian channels call 'women of the Mahmapa' march in signs of mourning and shrouds. [Hananel Aviv]",
+      "source": "Arab World News",
+      "probability": 5,
+      "keywords": "Mashhad, Iranian, channels, women, march, mourning, shrouds",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T22:03:46+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The Interior Ministry of the Kurdistan Region of Iraq announces: 'Our 11th Division headquarters in Erbil province was attacked by a suicide drone.' [Hananel Aviv on Telegram]",
+      "source": "Arab World News",
+      "probability": 5,
+      "keywords": "Interior Ministry, Kurdistan Region, Iraq, Division, headquarters, Erbil, attacked, suicide, drone",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T22:03:46+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "At least five people wounded by Iranian missile strike in Jerusalem area",
+      "source": "JPost",
+      "probability": 65,
+      "keywords": "five people, wounded, Iranian, missile strike, Jerusalem",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:03:51+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Severe explosions in Bahrain following missile attack news sources report severe explosions in Bahrain following a missile attack",
+      "source": "IRGC",
+      "probability": 45,
+      "keywords": "severe explosions, Bahrain, missile attack, news sources",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T22:22:23+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Report: Direct hit on British Air Force base in Cyprus",
+      "source": "Kol HaHadashot",
+      "probability": 40,
+      "keywords": "report, direct hit, British Air Force base, Cyprus",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T22:15:16+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Eastern Jordan, reports of attack on American base",
+      "source": "Arab World News",
+      "probability": 35,
+      "keywords": "Eastern Jordan, reports, attack, American base",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T22:22:27+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The base in Diego Garcia is relevant again for an attack on Iran British Prime Minister Keir Starmer announces that Britain approves US use of British bases for the purpose of destroying Iranian missiles before their launch (and for this purpose only). The US can now position strategic bombers at the base in Diego Garcia which is at a convenient distance for an attack on Iran (instead of sending the bombers on an 11,000 km flight each way from the US to Iran - saving about 50% of flight distance)",
+      "source": "Abu Ali Express",
+      "probability": 25,
+      "keywords": "base, Diego Garcia, attack, Iran, British Prime Minister, US, British bases, destroying, Iranian missiles, strategic bombers",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T21:33:29+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Trump says combat operations in Iran will continue until all objectives achieved",
+      "source": "JPost",
+      "probability": 25,
+      "keywords": "Trump, combat operations, Iran, continue, objectives, achieved",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:44:26+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Reports of attacks in Tabriz and Abadan",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "reports, attacks, Tabriz, Abadan",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T22:32:08+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Hostile aircraft that penetrated northern Israel was intercepted",
+      "source": "Walla",
+      "probability": 15,
+      "keywords": "hostile, aircraft, penetrated, northern, Israel, intercepted",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:00:00+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Arabs report that there was another hit now",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "Arabs, report, another, hit, now",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T22:32:08+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Shooter wearing Iranian flag shirt kills three, injures 14 in Austin, Texas",
+      "source": "JPost",
+      "probability": 10,
+      "keywords": "shooter, Iranian, flag, shirt, kills, three, injures, Austin, Texas",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:44:26+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "A painful image from Niloufar Square in Tehran after the aggressive attack by America and Israel Cyber Army of the Guardians of the Revolution @SEPAH",
+      "source": "IRGC",
+      "probability": 25,
+      "keywords": "painful image, Niloufar Square, Tehran, aggressive attack, America, Israel, Cyber Army, Guardians of the Revolution",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T22:49:48+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The gamble that Trump made even brought out the voice of the strongly anti-Iranian Bolton!! John Bolton, one of the most hardline anti-Iranian politicians in recent times, attacks Trump and says the goal of regime change in Iran will not be achieved. Cyber Army of the Guardians of the Revolution @SEPAH",
+      "source": "IRGC",
+      "probability": 5,
+      "keywords": "gamble, Trump, Bolton, anti-Iranian, politicians, attacks, regime change, Iran, Cyber Army, Guardians of the Revolution",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T22:49:48+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Hostile aircraft penetration in 17 settlements: __02/03/2026 - 00:44__: • Confrontation line: Betzet, Hanita, Liman, Matzuba, Rosh HaNikra __02/03/2026 - 00:45__: • Confrontation line: Miluot North industrial area, Betzet beach, Ya'ara, Arab al-Aramshe, Shetula __02/03/2026 - 00:48__: • Northern Golan: El Rom, Buq'ata • Confrontation line: Gesher HaZiv, Achziv beach, Nahariya __02/03/2026 - 00:49__: • Northern Golan: Odem, Merom Golan, Ein Zivan Enter the protected space. [Radar - Color Red](",
+      "source": "Kol HaHadashot",
+      "probability": 15,
+      "keywords": "hostile aircraft, penetration, settlements, confrontation line, Golan, protected space, radar, red alert",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T22:49:22+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Alarms are sounding in the Western Galilee following the penetration of a hostile aircraft",
+      "source": "Kol HaHadashot",
+      "probability": 15,
+      "keywords": "alarms, Western Galilee, penetration, hostile aircraft",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T22:49:22+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The Shiite militia 'Saraya Awliya al-Dam' takes responsibility for launching 3 suicide drones towards the American Victoria base at Baghdad airport. [Hannanel Aviv on Telegram]( [301 The Arab World on Telegram](",
+      "source": "Arab World News",
+      "probability": 40,
+      "keywords": "Shiite militia, Saraya Awliya al-Dam, responsibility, launching, suicide drones, American base, Victoria, Baghdad airport",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T22:49:11+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Urgent: Three suicide drones targeted the Victoria base belonging to NATO forces inside Baghdad International Airport",
+      "source": "IRGC",
+      "probability": 25,
+      "keywords": "suicide drones, targeted, Victoria base, NATO forces, Baghdad International Airport",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T22:56:49+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Urgent/NATO: Two Eurofighter jets at Baghdad airport were hit by missiles and drones",
+      "source": "IRGC",
+      "probability": 25,
+      "keywords": "Eurofighter jets, Baghdad airport, hit, missiles, drones, NATO",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T22:56:49+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "According to Israeli source: Israel attacked a Revolutionary Guards base in Tabriz now",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "Israel, attacked, Revolutionary Guards base, Tabriz",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T22:58:51+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Simultaneously with Iran's attacks, Shia in this country also protested against the government",
+      "source": "IRGC",
+      "probability": 15,
+      "keywords": "Iran, attacks, Shia, protested, government",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T22:56:49+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "MOSHEM: 'We focused on 3 infrastructures at the American base Mohammed al-Ahmad in Kuwait'",
+      "source": "Arab World News",
+      "keywords": "infrastructures, American base, Kuwait, Mohammed al-Ahmad",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T22:58:51+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "IDF: Alerts activated in several areas in the north of the country following launches from Lebanese territory, details under investigation.",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "IDF, alerts, activated, north, country, launches, Lebanese, territory, details, investigation",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:09:33+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Red alert in 21 settlements: __02/03/2026 - 01:05__: • Upper Galilee: Sha'ar Na'aman industrial area, Afek, Bustan HaGalil, New Acre Cemetery, Jdeida Makr, Yasur, Kfar Yasif, Kfar Masaryk, Lochamei HaGeta'ot, Nes Amim, Ein HaMifratz, Acre, Acre - industrial area, Acre - Ramot Yam, Regba, Shomrat • The Bay: Kiryat Bialik industrial area, Haifa - Kiryat Haim and Shmuel, Kfar Bialik, Kiryat Ata, Kiryat Bialik, Kiryat Yam, Kiryat Motzkin Enter the protected space. [Radar - Red Alert](",
+      "source": "Kol HaHadashot",
+      "probability": 15,
+      "keywords": "red, alert, settlements, Upper Galilee, industrial, area, Haifa, Kiryat, protected, space, radar",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:05:49+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Hostile aircraft infiltration: __02/03/2026 - 01:04__: • Confrontation line: Ya'ara, Arab al-Aramshe, Shetula Enter the protected space. [Radar - Red Alert](",
+      "source": "Kol HaHadashot",
+      "probability": 15,
+      "keywords": "hostile, aircraft, infiltration, confrontation, line, protected, space, radar, red, alert",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:05:49+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Red alert in 20 settlements: __02/03/2026 - 01:01__: • The Bay: HaHotrim, Haifa - Carmel, Hadar and lower city, Haifa - west, Haifa - Neve Sha'anan and Ramot Carmel, Tirat Carmel, Kfar Galim, Nesher • Carmel: Nir Etzion industrial area, Beit Oren, Beit Zvi, Givat Wolfson, Yemin Orde, Megadim, Nir Etzion, Ein Hod, Atlit __02/03/2026 - 01:02__: • The Bay: Haifa - Bay, Yagur • Carmel: Daliat al-Carmel, Ein Hod, Isfiya Enter the protected space within a minute. [Radar - Red Alert](",
+      "source": "Kol HaHadashot",
+      "probability": 15,
+      "keywords": "red, alert, settlements, Haifa, Carmel, industrial, area, protected, space, radar",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:05:49+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Preliminary: Fighter jets scrambled to the north. Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 10,
+      "keywords": "preliminary, fighter, jets, scrambled, north, Yair, Goldblatt, Telegram",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:09:33+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Rocket and missile fire - The event has ended __02/03/2026 - 01:17:__ Following an alert about rocket and missile fire, the event has ended in the following areas: Upper Galilee, Carmel, The Gulf | To search for a locality and view the full list of localities click [here]( [Radar - Color Red](",
+      "source": "Kol HaHadashot",
+      "probability": 25,
+      "keywords": "Rocket, missile, fire, event, ended, alert, Upper Galilee, Carmel, The Gulf",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:17:15+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Hostile aircraft penetration: __02/03/2026 - 01:14__: • Dead Sea: Dead Sea hotels, Dead Sea hotels center, Masada, Ein Bokek __02/03/2026 - 01:16__: • Dead Sea: Neve Zohar Enter the protected space. [Radar - Color Red](",
+      "source": "Kol HaHadashot",
+      "probability": 30,
+      "keywords": "Hostile, aircraft, penetration, Dead Sea, hotels, Masada, Ein Bokek, Neve Zohar, protected space",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:17:15+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Hostile aircraft penetration (2/3/2026) 1:14 Dead Sea area Dead Sea hotels, Dead Sea hotels center, Masada, Ein Bokek Enter the protected space immediately.",
+      "source": "Arab World News",
+      "probability": 30,
+      "keywords": "Hostile, aircraft, penetration, Dead Sea, area, hotels, Masada, Ein Bokek, protected space, immediately",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:15:15+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The fighter jets in the north are heard well. Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "Fighter, jets, north, heard, well",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:15:15+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Documentation of the firing from Lebanon A.R 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "Documentation, firing, Lebanon",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:15:15+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "IDF Spokesperson: Following alerts activated in several areas in northern Israel, the Air Force intercepted a launch that crossed from Lebanon, individual launches fell according to policy. No casualties or damage reported.",
+      "source": "Amit Segal",
+      "probability": 20,
+      "keywords": "IDF, alerts, northern Israel, Air Force, intercepted, launch, Lebanon, casualties, damage",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:27:58+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Hostile aircraft intrusion: 02/03/2026 - 01:27: • Confrontation line: Margaliot enter the protected space. [Radar - Red color]",
+      "source": "Kol HaHadashot",
+      "probability": 15,
+      "keywords": "hostile, aircraft, intrusion, confrontation, line, Margaliot, protected, space, radar, red",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:27:37+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Hostile aircraft intrusion - The event has ended 02/03/2026 - 01:22: Following the alert about hostile aircraft intrusion, the event has ended in the following settlements: Dead Sea hotels, Dead Sea hotels center, Masada, Neve Zohar, Ein Bokek [Radar - Red color]",
+      "source": "Kol HaHadashot",
+      "probability": 15,
+      "keywords": "hostile, aircraft, intrusion, event, ended, alert, settlements, Dead Sea, hotels, Masada",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:27:37+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "I estimate that we may see a denial from Hezbollah or something like that. And in any case it doesn't matter who fired, the responsibility is on Hezbollah and the state of Lebanon. Both of these entities must pay for this. [Hananel Aviv on Telegram]",
+      "source": "Arab World News",
+      "probability": 25,
+      "keywords": "estimate, denial, Hezbollah, responsibility, Lebanon, entities, pay, fired",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:22:42+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "MDA Spokesperson: Following alerts in northern Israel: MDA medics and paramedics went out to scan and as of this stage, no casualties have been located at all. MDA teams went out to treat cases of people injured on the way to protected spaces. Update later if necessary. MDA division calls on the public to obey Home Front Command instructions, life-saving instructions.",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "MDA, alerts, northern Israel, medics, paramedics, scan, casualties, injured, protected spaces, Home Front Command",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:22:42+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Hostile aircraft penetration in 30 settlements: __02/03/2026 - 01:27__: • Confrontation line: Margaliyot __02/03/2026 - 01:28__: • Confrontation line: Ghajar __02/03/2026 - 01:29__: • Confrontation line: Dafna, Hagoshrim, Kfar Giladi, Kfar Yuval, Metula, Ma'ayan Baruch, Kibbutz Dan, Sha'ar Yishuv, Tel Hai __02/03/2026 - 01:30__: • Confrontation line: Beit Hillel, Dovav, Yiftach, Malkia, Misgav Am, Kiryat Shmona, Ramot Naftali __02/03/2026 - 01:31__: • Confrontation line: Beit Hillel, Dovav, Yiftach, Malkia, Misgav Am, Kiryat Shmona, Ramot Naftali __02/03/2026 - 01:32__: • Confrontation line: Kfar Blum, Kfar Sa'ad, Manara, Amir, Sde Nehemia __02/03/2026 - 01:33__: • Upper Galilee: Elifelet, Safed - city, Rosh Pina __02/03/2026 - 01:34__: • Confrontation line: Lev HaHula, regional center Mavo'ot HaHermon __02/03/2026 - 01:35__: • Confrontation line: Malkia __02/03/2026 - 01:36__: • Confrontation line: Dishon enter protected space. [Radar - Red Color]",
+      "source": "Kol HaHadashot",
+      "probability": 5,
+      "keywords": [
+        "aircraft",
+        "penetration",
+        "settlements",
+        "confrontation",
+        "line",
+        "Margaliyot",
+        "Ghajar",
+        "Dafna",
+        "Hagoshrim",
+        "Kfar Giladi",
+        "Kfar Yuval",
+        "Metula",
+        "Ma'ayan Baruch",
+        "Kibbutz Dan",
+        "Sha'ar Yishuv",
+        "Tel Hai"
+      ],
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:36:03+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Red color: __02/03/2026 - 01:30__: • Confrontation line: Beit Hillel, Dovav, Yiftach, Malkia, Misgav Am, Kiryat Shmona, Ramot Naftali __02/03/2026 - 01:31__: • Confrontation line: Kfar Blum, Kfar Sa'ad, Manara, Amir, Sde Nehemia __02/03/2026 - 01:32__: • Confrontation line: Na'ot Mordechai __02/03/2026 - 01:33__: • Upper Galilee: Elifelet, Safed - city, Rosh Pina __02/03/2026 - 01:34__: • Confrontation line: Lev HaHula, regional center Mavo'ot HaHermon __02/03/2026 - 01:35__: • Confrontation line: Malkia __02/03/2026 - 01:36__: • Confrontation line: Dishon enter protected space. [Radar - Red Color]",
+      "source": "Kol HaHadashot",
+      "probability": 5,
+      "keywords": [
+        "aircraft",
+        "penetration",
+        "settlements",
+        "confrontation",
+        "line",
+        "Margaliyot",
+        "Ghajar",
+        "Dafna",
+        "Hagoshrim",
+        "Kfar Giladi",
+        "Kfar Yuval",
+        "Metula",
+        "Ma'ayan Baruch",
+        "Kibbutz Dan",
+        "Sha'ar Yishuv",
+        "Tel Hai"
+      ],
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:36:03+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Red color: __02/03/2026 - 01:30__: • Confrontation line: Ghajar __02/03/2026 - 01:31__: • Confrontation line: Beit Hillel, Dovav, Yiftach, Malkia, Misgav Am, Kiryat Shmona, Ramot Naftali __02/03/2026 - 01:32__: • Confrontation line: Kfar Blum, Kfar Sa'ad, Manara, Amir, Sde Nehemia __02/03/2026 - 01:33__: • Upper Galilee: Elifelet, Safed - city, Rosh Pina __02/03/2026 - 01:34__: • Confrontation line: Lev HaHula, regional center Mavo'ot HaHermon __02/03/2026 - 01:35__: • Confrontation line: Malkia __02/03/2026 - 01:36__: • Confrontation line: Dishon enter protected space. [Radar - Red Color]",
+      "source": "Kol HaHadashot",
+      "probability": 5,
+      "keywords": [
+        "aircraft",
+        "penetration",
+        "settlements",
+        "confrontation",
+        "line",
+        "Margaliyot",
+        "Ghajar",
+        "Dafna",
+        "Hagoshrim",
+        "Kfar Giladi",
+        "Kfar Yuval",
+        "Metula",
+        "Ma'ayan Baruch",
+        "Kibbutz Dan",
+        "Sha'ar Yishuv",
+        "Tel Hai"
+      ],
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:36:03+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Red color: __02/03/2026 - 01:30__: • Confrontation line: Ghajar __02/03/2026 - 01:31__: • Confrontation line: Beit Hillel, Dovav, Yiftach, Malkia, Misgav Am, Kiryat Shmona, Ramot Naftali __02/03/2026 - 01:32__: • Confrontation line: Kfar Blum, Kfar Sa'ad, Manara, Amir, Sde Nehemia __02/03/2026 - 01:33__: • Upper Galilee: Elifelet, Safed - city, Rosh Pina __02/03/2026 - 01:34__: • Confrontation line: Lev HaHula, regional center Mavo'ot HaHermon __02/03/2026 - 01:35__: • Confrontation line: Malkia __02/03/2026 - 01:36__: • Confrontation line: Dishon enter protected space. [Radar - Red Color]",
+      "source": "Kol HaHadashot",
+      "probability": 5,
+      "keywords": [
+        "aircraft",
+        "penetration",
+        "settlements",
+        "confrontation",
+        "line",
+        "Margaliyot",
+        "Ghajar",
+        "Dafna",
+        "Hagoshrim",
+        "Kfar Giladi",
+        "Kfar Yuval",
+        "Metula",
+        "Ma'ayan Baruch",
+        "Kibbutz Dan",
+        "Sha'ar Yishuv",
+        "Tel Hai"
+      ],
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:36:03+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Red color: __02/03/2026 - 01:30__: • Confrontation line: Ghajar __02/03/2026 - 01:31__: • Confrontation line: Beit Hillel, Dovav, Yiftach, Malkia, Misgav Am, Kiryat Shmona, Ramot Naftali __02/03/2026 - 01:32__: • Confrontation line: Kfar Blum, Kfar Sa'ad, Manara, Amir, Sde Nehemia __02/03/2026 - 01:33__: • Upper Galilee: Elifelet, Safed - city, Rosh Pina __02/03/2026 - 01:34__: • Confrontation line: Lev HaHula, regional center Mavo'ot HaHermon __02/03/2026 - 01:35__: • Confrontation line: Malkia __02/03/2026 - 01:36__: • Confrontation line: Dishon enter protected space. [Radar - Red Color]",
+      "source": "Kol HaHadashot",
+      "probability": 5,
+      "keywords": [
+        "aircraft",
+        "penetration",
+        "settlements",
+        "confrontation",
+        "line",
+        "Margaliyot",
+        "Ghajar",
+        "Dafna",
+        "Hagoshrim",
+        "Kfar Giladi",
+        "Kfar Yuval",
+        "Metula",
+        "Ma'ayan Baruch",
+        "Kibbutz Dan",
+        "Sha'ar Yishuv",
+        "Tel Hai"
+      ],
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:36:03+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Red color: __02/03/2026 - 01:30__: • Confrontation line: Ghajar __02/03/2026 - 01:31__: • Confrontation line: Beit Hillel, Dovav, Yiftach, Malkia, Misgav Am, Kiryat Shmona, Ramot Naftali __02/03/2026 - 01:32__: • Confrontation line: Kfar Blum, Kfar Sa'ad, Manara, Amir, Sde Nehemia __02/03/2026 - 01:33__: • Upper Galilee: Elifelet, Safed - city, Rosh Pina __02/03/2026 - 01:34__: • Confrontation line: Lev HaHula, regional center Mavo'ot HaHermon __02/03/2026 - 01:35__: • Confrontation line: Malkia __02/03/2026 - 01:36__: • Confrontation line: Dishon enter protected space. [Radar - Red Color]",
+      "source": "Kol HaHadashot",
+      "probability": 5,
+      "keywords": [
+        "aircraft",
+        "penetration",
+        "settlements",
+        "confrontation",
+        "line",
+        "Margaliyot",
+        "Ghajar",
+        "Dafna",
+        "Hagoshrim",
+        "Kfar Giladi",
+        "Kfar Yuval",
+        "Metula",
+        "Ma'ayan Baruch",
+        "Kibbutz Dan",
+        "Sha'ar Yishuv",
+        "Tel Hai"
+      ],
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:36:03+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Hostile aircraft infiltration - the event has ended __02/03/2026 - 01:39:__ Following an alert about hostile aircraft infiltration, the event ended in the following settlements: Aliphelet, Beit Hillel, Dovav, Dishon, Daphna, Hagoshrim, Yiftach, Kfar Blum, Kfar Giladi, Kfar Yuval, Kfar Szold, Lev HaHula, Metula, Malkiya, Manara, Ma'ayan Baruch, Margaliot, Mavo'ot Hermon Regional Center, Misgav Am, Ne'ot Mordechai, Ghajar, Amir, Safed - city, Kibbutz Dan, Kiryat Shmona, Rosh Pina, Ramot Naftali, She'ar Yashuv, Sde Nehemia, Tel Hai [Radar - Color Red]",
+      "source": "Kol HaHadashot",
+      "probability": 25,
+      "keywords": "hostile aircraft, infiltration, alert, event ended, settlements, radar, red alert",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:39:46+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Bloomberg: 'Oil witnessed its biggest jump in the last four years'",
+      "source": "Arab World News",
+      "probability": 5,
+      "keywords": "Bloomberg, oil, jump, four years",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:45:43+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "South Tehran - high-intensity attacks. Yair Goldblatt 301 Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 35,
+      "keywords": "South Tehran, high-intensity, attacks, Yair Goldblatt",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:45:43+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Hazalash",
+      "source": "Arab World News",
+      "probability": 10,
+      "keywords": "Hazalash",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:45:43+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Additional alert about UAV infiltration in the north of the country",
+      "source": "Walla",
+      "probability": 25,
+      "keywords": "additional alert, UAV, infiltration, north, country",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T02:30:00+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "IDF Spokesperson: The IDF continues to attack targets of the Iranian terror regime in widespread waves of attacks in Iran Preliminary: The Air Force under the guidance of the Intelligence Directorate has now begun another wave of attacks towards targets of the Iranian terror regime in the heart of Tehran.",
+      "source": "Arab World News",
+      "probability": 25,
+      "keywords": "IDF, attack, targets, Iranian, terror, regime, widespread, waves, attacks, Iran, Air Force, Intelligence Directorate, Tehran",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:57:07+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The Israeli Air Force is now attacking missile launch silos in Ahvaz, southwestern Iran. For publication at 301: Yossi Eliezer 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 25,
+      "keywords": "Israeli, Air Force, attacking, missile, launch, silos, Ahvaz, southwestern, Iran",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:57:07+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Attacks in Tehran [Hananel Aviv on Telegram]",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "Attacks, Tehran",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:57:07+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The Iranian intelligence building in Bushehr was attacked. [Hananel Aviv on Telegram]",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "Iranian, intelligence, building, Bushehr, attacked",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:57:07+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "And don't forget for a moment the Gaza arena: Shells hit the eastern areas of the Zeitoun neighborhood, eastern Gaza. For publication at 301: Yossi Eliezer 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 5,
+      "keywords": "Gaza, Shells, hit, eastern, areas, Zeitoun, neighborhood",
+      "date": "01/03/2026",
+      "datetime_iso": "2026-03-01T23:57:07+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "West Bank, Gaza, Lebanon, and Iran simultaneously. Israel is making history again, in the Middle East. Kudos to our forces Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 30,
+      "keywords": "West Bank, Gaza, Lebanon, Iran, simultaneously, Israel, history, Middle East, forces",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:05:53+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Tehran in the last minutes. For publication at 301: Yossi Eliezer 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 40,
+      "keywords": "Tehran, last minutes, publication",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:05:53+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "IDF operating in all sectors, also in the West Bank. A short time ago, 2 wanted suspects were arrested in the Askar camp in eastern Nablus. For publication at 301: Yossi Eliezer 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 10,
+      "keywords": "IDF, operating, sectors, West Bank, wanted suspects, arrested, Askar camp, eastern Nablus",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:05:53+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "IDF attacking now in southern Lebanon. Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 25,
+      "keywords": "IDF, attacking, southern Lebanon",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:05:53+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The Shiite militia 'Saraya Awliya al-Dam' publishes documentation of ballistic missile launches towards US military targets in the region.",
+      "source": "Arab World News",
+      "probability": 75,
+      "keywords": "Shiite militia, Saraya Awliya al-Dam, ballistic missile, launches, US military, targets, region",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:15:30+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Interception of the missile from Lebanon was carried out using the 'Or Eitan' laser system.",
+      "source": "Arab World News",
+      "probability": 65,
+      "keywords": "interception, missile, Lebanon, carried out, Or Eitan, laser system, laser",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:15:30+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Again; explosions in Kuwait. Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 40,
+      "keywords": "explosions, Kuwait, again",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:15:30+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The Lebanese army will issue a statement soon. Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 25,
+      "keywords": "Lebanese army, issue, statement, soon",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:15:30+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Heavy movement of fighter jets northward",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "movement, fighter jets, northward, heavy",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:15:30+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Documentation of powerful attack waves in Tehran. [Hananel Aviv]",
+      "source": "Arab World News",
+      "probability": 65,
+      "keywords": "documentation, powerful, attack, waves, Tehran",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:25:07+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Report: More than 35 attacks carried out in the last half hour in Tehran. Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 60,
+      "keywords": "report, attacks, carried out, half hour, Tehran",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:25:07+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Israeli fighter jets in the skies of Damascus [Hananel Aviv on Telegram]",
+      "source": "Arab World News",
+      "probability": 35,
+      "keywords": "Israeli, fighter jets, skies, Damascus",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:25:07+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "MDA summarizes the second day of war with Iran: 9 killed and 106 wounded",
+      "source": "Walla",
+      "probability": 25,
+      "keywords": "MDA, summarizes, second day, war, Iran, killed, wounded",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T02:36:00+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "The Shiites in the Kashmir region of India mourn the passing of Ali Khamenei. Wails were heard, mourning flags were raised, and calls for revenge against the US were heard. [Hananel Aviv]",
+      "source": "Arab World News",
+      "probability": 10,
+      "keywords": "Shiites, Kashmir, India, mourn, passing, Ali Khamenei, revenge, US",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:25:07+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "For the second time today: The Iranian parliament building in Tehran is being attacked now.",
+      "source": "Arab World News",
+      "probability": 25,
+      "keywords": "second time, today, Iranian parliament building, Tehran, attacked",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:34:34+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Reuters: Loud explosions were heard in Tehran",
+      "source": "Walla",
+      "probability": 20,
+      "keywords": "Reuters, loud explosions, heard, Tehran",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T03:26:00+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Loud explosions are heard in Kuwait.",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "loud explosions, heard, Kuwait",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:34:34+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Damascus, now.",
+      "source": "Arab World News",
+      "probability": 10,
+      "keywords": "Damascus",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:34:34+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Chabahar, Iran:",
+      "source": "Arab World News",
+      "probability": 5,
+      "keywords": "Chabahar, Iran",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:34:34+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Reports of explosions in several areas in Iraq. Possibly attacks.",
+      "source": "Arab World News",
+      "probability": 25,
+      "keywords": "reports, explosions, areas, Iraq, possibly, attacks",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:43:49+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Preliminary report of an attack in the suburbs of Beirut.",
+      "source": "Arab World News",
+      "probability": 25,
+      "keywords": "preliminary, report, attack, suburbs, Beirut",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:43:49+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Also in southern Lebanon - attacks.",
+      "source": "Arab World News",
+      "probability": 25,
+      "keywords": "also, southern, Lebanon, attacks",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:43:49+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "It is claimed that it was a missile launch from the north of the country towards targets in Iran.",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "claimed, missile, launch, north, country, targets, Iran",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:43:49+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Eastern Gaza City - illumination shells were fired. Our forces are safe.",
+      "source": "Arab World News",
+      "probability": 5,
+      "keywords": "eastern, Gaza, City, illumination, shells, fired, forces, safe",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:43:49+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Hezbollah claimed responsibility for the shooting into Lebanon and announced its joining the war",
+      "source": "Kol HaHadashot",
+      "probability": 15,
+      "keywords": "Hezbollah, claimed responsibility, shooting, Lebanon, announced, joining, war",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:46:02+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Powerful attacks in Beirut. At least 15. Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "Powerful, attacks, Beirut, at least 15, Yair Goldblatt, Arab World, Telegram",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:51:50+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Additional attacks in the Dahieh district of Beirut [Hananel Aviv on Telegram]",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "Additional, attacks, Dahieh district, Beirut, Hananel Aviv, Telegram",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:51:50+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "As written here, Israel prepared for such a scenario. It did not surprise anyone. Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 10,
+      "keywords": "Israel, prepared, scenario, did not surprise, anyone, Yair Goldblatt, Arab World, Telegram",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:51:50+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The IDF began attacking targets of the Hezbollah terrorist organization throughout Lebanon. The IDF is now attacking with force targets of the Hezbollah terrorist organization throughout Lebanon, in response to the launches that were fired towards the State of Israel. The Hezbollah terrorist organization, operating under the auspices of the Iranian terrorist regime, opened fire against the State of Israel and its citizens. The IDF will act against the decision of the Hezbollah terrorist organization to join the campaign, and will not allow the organization to pose a threat to the State of Israel and harm the residents of the north. The Hezbollah terrorist organization is destroying the State of Lebanon, the responsibility for the escalation lies with it and the IDF will respond with force to this attack. IDF forces prepared for this scenario as part of the orderly battle procedure within the framework of Operation 'Lion's Roar' and are prepared for a multi-arena scenario and for dealing with any threat to the State of Israel.",
+      "source": "Arab World News",
+      "probability": 25,
+      "keywords": "IDF, attacking, targets, Hezbollah, terrorist organization, Lebanon, response, launches, fired, Israel, Iranian, terrorist regime, opened fire, campaign, threat, escalation, Operation Lion's Roar, multi-arena scenario",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T00:51:50+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "More from Beirut",
+      "source": "Arab World News",
+      "probability": 10,
+      "keywords": "Beirut",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:02:43+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Hezbollah suicide",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "Hezbollah, suicide",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:02:43+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Dozens of attacks in southern Lebanon. Yair Goldblatt 301 Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 25,
+      "keywords": "attacks, southern Lebanon, Yair Goldblatt, Telegram",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:02:43+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Initial report of vehicle attack in southern Lebanon. Yair Goldblatt 301 Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 30,
+      "keywords": "initial report, vehicle attack, southern Lebanon, Yair Goldblatt",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:02:43+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Fire belts in Beirut now: Yair Goldblatt 301 Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "fire belts, Beirut, Yair Goldblatt, Telegram",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:02:43+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Explosions were heard in the center - the possibility that these are launches from Lebanon that fell into the sea is being examined",
+      "source": "Kol HaHadashot",
+      "probability": 15,
+      "keywords": "Explosions, center, launches, Lebanon, sea",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:11:48+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Additional attacks in southern Lebanon Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "Additional, attacks, southern, Lebanon",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:12:02+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "In the northern communities they were updated: The attacks in Lebanon will continue for at least a few days Almog Boker",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "northern, communities, updated, attacks, Lebanon, continue, few days",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:12:02+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Nabatieh, southern Lebanon, belts of fire. Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "Nabatieh, southern, Lebanon, belts, fire",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:12:02+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The Chief of Staff in the situation assessment: \"Hezbollah opened a campaign against Israel tonight, the responsibility for this escalation lies with them. In the battle procedure when we launched Operation 'Roar of the Lion' we prepared for a multi-arena scenario and an offensive campaign against Hezbollah. Any enemy that threatens our security will pay a heavy price - we will not allow harm to the citizens of the State of Israel and the northern border.\"",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "Chief of Staff, situation assessment, Hezbollah, campaign, Israel, escalation, Operation Roar of the Lion, multi-arena, offensive, enemy, security, price, citizens, northern border",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:12:02+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The attacks in Iran at this time are focused on the Basij Iranian, among other things to encourage the country's citizens to take to the streets and rebel against the government. As mentioned, the goal of the war - the overthrow of the ayatollahs regime. Hillel Bitton Rosen on Telegram",
+      "source": "Arab World News",
+      "probability": 25,
+      "keywords": "attacks, Iran, Basij, citizens, rebel, government, war, overthrow, ayatollahs, regime",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:21:26+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "IDF Spokesperson: Several launches that crossed from Lebanon fell in open territory, no alerts were activated according to policy.",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "IDF, Spokesperson, launches, Lebanon, fell, open, territory, alerts, activated, policy",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:21:26+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Wave of attacks in Lebanon",
+      "source": "Abu Saleh's Desk",
+      "probability": 20,
+      "keywords": "wave, attacks, Lebanon",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:20:58+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Preliminary: Eliminated in attacks in Lebanon. Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "preliminary, eliminated, attacks, Lebanon, Yair, Goldblatt",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:21:26+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Lebanese Prime Minister: The missile launch from southern Lebanon is an irresponsible and suspicious act, no matter who is behind it - Lebanese Prime Minister: The missile launch endangers Lebanon's security and integrity and provides Israel with excuses to continue its attacks - Lebanese Prime Minister: We will not allow the country to be dragged into new adventures and will take the necessary steps to stop the operations and protect the Lebanese",
+      "source": "Arab World News",
+      "probability": 25,
+      "keywords": "Lebanese, Prime Minister, missile, launch, southern, Lebanon, irresponsible, suspicious, security, integrity, Israel, attacks, adventures, operations, protect",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:21:26+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "US Navy facilities in Bahrain were attacked by Iranian ballistic missiles",
+      "source": "Abu Saleh's Desk",
+      "probability": 95,
+      "keywords": "US Navy, facilities, Bahrain, attacked, Iranian, ballistic, missiles",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:30:51+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "According to reports, the British Air Force is now intercepting Iranian missiles that were on their way to Cyprus",
+      "source": "Arab World News",
+      "probability": 85,
+      "keywords": "British Air Force, intercepting, Iranian, missiles, Cyprus",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:29:33+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "IDF attacks in southern Lebanon, specifically al-Jisr",
+      "source": "Abu Saleh's Desk",
+      "probability": 30,
+      "keywords": "IDF, attacks, southern, Lebanon, al-Jisr",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:30:51+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Attacks in southern Lebanon continue",
+      "source": "Arab World News",
+      "probability": 25,
+      "keywords": "Attacks, southern, Lebanon, continue",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:29:33+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "With emphasis on the attacks in Beirut",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "emphasis, attacks, Beirut",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:29:33+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "British Defense Minister: Iran launched two ballistic missiles towards Cyprus as part of indiscriminate retaliation attacks following American-Israeli strikes.",
+      "source": "Abu Saleh's Desk",
+      "probability": 85,
+      "keywords": "Iran, ballistic missiles, Cyprus, retaliation, strikes, American, Israeli",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:39:05+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Apache helicopters operating in the Yaroun area, southern Lebanon.",
+      "source": "Abu Saleh's Desk",
+      "probability": 25,
+      "keywords": "Apache helicopters, operating, Yaroun, southern Lebanon",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:39:05+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Another attack now in southern Beirut Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 20,
+      "keywords": "attack, southern Beirut, Yair Goldblatt",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:39:35+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Ambulances having difficulty reaching attack targets in Beirut due to traffic jams in the area Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "ambulances, difficulty, attack targets, Beirut, traffic jams",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:39:35+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Southern Lebanon: Many roads in the south experiencing heavy traffic congestion. Abu Saleh's Desk Arabic",
+      "source": "Abu Saleh's Desk",
+      "probability": 10,
+      "keywords": "Southern Lebanon, roads, heavy traffic congestion",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:39:05+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "IDF launches precise strikes on senior Hezbollah terrorists in response to attack on Israel",
+      "source": "JPost",
+      "probability": 15,
+      "keywords": "IDF, strikes, senior, Hezbollah, terrorists, response, attack, Israel",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:50:52+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "Britain, France, Germany ready to step in to defend interests against Iran",
+      "source": "JPost",
+      "probability": 10,
+      "keywords": "Britain, France, Germany, defend, interests, Iran",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:50:52+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "We will wait to see who the dogs that were eliminated were. Meanwhile, according to reports, there is heavy aircraft movement over southern Lebanon. Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 10,
+      "keywords": "wait, eliminated, reports, heavy, aircraft, movement, southern, Lebanon",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:48:09+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "The interceptions occurred in several locations in Beirut and southern Lebanon. Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 10,
+      "keywords": "interceptions, occurred, several, locations, Beirut, southern, Lebanon",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:48:09+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Indeed, a targeted assassination. Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 10,
+      "keywords": "targeted, assassination",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:48:09+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Arab channels claim: Hezbollah launched missiles towards Tel Aviv and they fell into the sea. Hezbollah is deep in battle, probably soon we will also see the Houthis entering the battle. [Hananel Aviv on Telegram]",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "Arab, channels, claim, Hezbollah, launched, missiles, Tel Aviv, fell, sea, battle, Houthis, entering",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:59:00+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Footage from Beirut. Who was eliminated there? Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 10,
+      "keywords": "Footage, Beirut, eliminated, Yair, Goldblatt, Arab, World, Telegram",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:59:00+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Attack in southern Lebanon, Haris. Yair Goldblatt 301 The Arab World on Telegram",
+      "source": "Arab World News",
+      "probability": 10,
+      "keywords": "Attack, southern, Lebanon, Haris, Yair, Goldblatt, Arab, World, Telegram",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:59:00+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Precision elimination Abu Saleh The Arab Desk",
+      "source": "Abu Saleh's Desk",
+      "probability": 10,
+      "keywords": "Precision, elimination, Abu, Saleh, Arab, Desk",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:57:59+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Mifdon Abu Saleh The Arab Desk",
+      "source": "Abu Saleh's Desk",
+      "probability": 5,
+      "keywords": "Mifdon, Abu, Saleh, Arab, Desk",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T01:57:59+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Reports of an attack on the American naval base in Bahrain",
+      "source": "Walla",
+      "probability": 65,
+      "keywords": "reports, attack, American, naval, base, Bahrain",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T04:43:00+00:00",
+      "source_type": "Media Outlet"
+    },
+    {
+      "headline": "From the attacks in southern Lebanon [Hanane'el Aviv]",
+      "source": "Arab World News",
+      "probability": 10,
+      "keywords": "attacks, southern, Lebanon",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T02:17:25+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "US Central Command publishes documentation of an attack on an Iranian fighter jet, and suicide drones in Iran. [ Hanane'el Aviv on Telegram] [ 301 The Arab World on Telegram]",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "US Central Command, attack, Iranian, fighter jet, suicide, drones, Iran",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T02:17:25+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Attacks continue in the Karaj area and around Tehran. [Hanane'el Aviv on Telegram]",
+      "source": "Arab World News",
+      "probability": 10,
+      "keywords": "attacks, continue, Karaj, area, around, Tehran",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T02:17:25+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "An incident in the Tehran metro: Shiite regime supporters mourn Ali Khamenei in the metro. [Hanane'el Aviv]",
+      "source": "Arab World News",
+      "probability": 5,
+      "keywords": "incident, Tehran, metro, Shiite, regime, supporters, mourn, Ali Khamenei",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T02:17:25+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "According to initial reports among the Arabs, one of those killed tonight in Lebanon is Muhammad Raad. Muhammad Raad (محمد رعد) is the chairman of the 'Loyalty to the Resistance' bloc (Hezbollah's bloc) in the Lebanese parliament and the deputy of Hezbollah's Secretary-General, Naim Qassem.",
+      "source": "Arab World News",
+      "probability": 5,
+      "keywords": "reports, killed, Lebanon, Muhammad Raad, chairman, Loyalty to the Resistance, bloc, Hezbollah, parliament, deputy, Secretary-General, Naim Qassem",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T02:23:39+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Captain Ella issues a statement from the IDF Spokesperson's Unit in Arabic: #URGENT‼ Urgent appeal to the residents of Lebanon in the villages: Sarifa, Maaroub, Salaa (Tyre), Dbaal, Bafliya, Barish, Arzon, Kalawiya, Alshahabiya (Tyr Zabna), Dardagiya, Bastiyat, Arab Salim, Hush Alrafa, Yahmar (West Baqa), Midon, Dalfi, Ein Qana, Ein-Sidal, Ein Qana, Ein Qana, Mazra'at Bayyat Al-Siyad, Jabal Al-Batum, Zibqin, Al-Sam'iya, Itit, Qana, Al-Bayad (Tyre), Deir Amas, Ita Al-Jabal (Al-Zat), Hanin (Bint Jbeil), Haris, Hadatha, Mahruna, Beit Leef, Yater, (Bint Jbeil) Hula, Bereshit, Bint Jbeil, Jmeijma, Itrun, Safad Al-Batikh, Al-Bazuriya, Ayantha, Hanawiya, Janta, Burj Al-Shamali, Ma'arka, Sidikin, Al-Majdal, Wadi Jilo, Darwish (Baalbek), Meis Al-Jabal. Hezbollah's activities are forcing the IDF to act against it. The IDF does not want to harm you. For your safety, you must evacuate your daughters immediately and move away from the villages to a distance of at least 1,000 meters to open areas. Anyone who is near Hezbollah operatives, facilities, and weapons is endangering their lives. Protect yourselves and your loved ones.",
+      "source": "Arab World News",
+      "probability": 15,
+      "keywords": "IDF, Spokesperson, Arabic, urgent, appeal, residents, Lebanon, villages, evacuate, Hezbollah, activities, forcing, act, safety, open areas",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T02:23:39+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "IDF Spokesperson in Arabic publishes a series of evacuation notices ahead of an attack in the villages of southern Lebanon",
+      "source": "Arab World News",
+      "probability": 10,
+      "keywords": "IDF, Spokesperson, Arabic, publishes, evacuation, notices, ahead, attack, villages, southern, Lebanon",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T02:23:39+00:00",
+      "source_type": "Telegram"
+    },
+    {
+      "headline": "Wow one of the fattest attack waves if not the fattest ever. Evacuation alerts were issued for about 53 villages in southern Lebanon. In this wave, dozens of targets will be attacked.",
+      "source": "Arab World News",
+      "probability": 25,
+      "keywords": "attack wave, evacuation alerts, villages, southern Lebanon, targets, attacked",
+      "date": "02/03/2026",
+      "datetime_iso": "2026-03-02T02:32:10+00:00",
+      "source_type": "Telegram"
+    }
+  ],
+  "overall_probability": 5,
+  "joke": "Eddie Izzard: You know, I read this headline about hostile aircraft infiltrating Israeli settlements, and I couldn't help but picture the planes zipping in, all confused like a lost tourist asking for directions to the nearest beach. “Excuse me, is this the way to Cancun? No? Well, how about a lovely little spot in Southern Lebanon? Oh, those operations are off-limits? Dear me, I’ll just circle around until I find a five-star landing zone or you know, I’ll just grab a snack with the IDF and we can discuss tourism packages instead!” It's like air travel but on an existential quest—connecting the skies with absurdity while avoiding the “no-fly” zones of reality!",
+  "jokes": [
+    "Eddie Izzard: You know, I read this headline about hostile aircraft infiltrating Israeli settlements, and I couldn't help but picture the planes zipping in, all confused like a lost tourist asking for directions to the nearest beach. “Excuse me, is this the way to Cancun? No? Well, how about a lovely little spot in Southern Lebanon? Oh, those operations are off-limits? Dear me, I’ll just circle around until I find a five-star landing zone or you know, I’ll just grab a snack with the IDF and we can discuss tourism packages instead!” It's like air travel but on an existential quest—connecting the skies with absurdity while avoiding the “no-fly” zones of reality!",
+    "Chris Rock: Listen, we got evacuation alerts in southern Lebanon for 53 villages because of an attack wave so fat it’s getting its own reality show! You know it’s serious when even the missiles need a warning label! “Caution: May cause emotional distress and existential dread!” I mean, at this point, the only thing getting hit more than those targets is common sense! If the attackers put as much effort into solving problems as they do into throwing waves of destruction, maybe we wouldn’t need so many evacuation plans—couldn’t we just send in some therapists instead?",
+    "**Suzy Izzard**: Imagine if Muhammad Raad and Captain Ella had a conversation over tea—well, not just any tea, but that tea that comes with a side of international drama, served in the finest cups of escalating tension! \"Tell me, Muhammad,\" Ella might say, “Do you think any of these evacuation notices could apply to my last date?” To which he’d respond, “Only if your date is as explosive as our strategic military maneuvers; one swift handbook of ‘how to flee to safety’ would be recommended—fingers crossed it’s not a ‘three-course meal where the main dish is a conflict’.” Ah yes, the true challenge of modern communication: conveying urgency without spilling the tea—or getting caught in the crossfire of dinner plans gone wrong!",
+    "Mitch Hedberg: I heard there was an incident in the Tehran metro where supporters were mourning Ali Khamenei. That’s a bizarre way to catch the subway; I usually just catch a train, not a heartfelt group therapy session on wheels. It's like they're handing out tissues instead of tickets—“Next stop: Emotional breakdown!”",
+    "Jerry Seinfeld: Isn’t it bizarre that the American naval base in Bahrain is under attack? I mean, who thought that was a good idea? “Hey, let’s put our naval base in a region known for its warm hospitality—like a chicken in a spicy curry! And then we can act surprised when they send us an invitation of explosive sorts. It’s like booking a beach vacation in hurricane season and then wondering why the surf is up. What do you expect—rock concerts or rock bombs? You can’t have both!”",
+    "Mitch Hedberg: Hezbollah launched missiles at Tel Aviv but they fell into the sea. I guess they were aiming for a splashy entrance but instead decided to take the scenic route. It's like the rockets looked at the map and thought, \"Nah, I'd rather go on vacation than start a fight.\" Meanwhile, all the fish are like, \"Thanks for the free fishing gear!\"",
+    "**Jerry Seinfeld:** So, the IDF is launching precise strikes on senior Hezbollah terrorists, right? I mean, what’s with the “senior” label? It’s like a retirement plan for terrorists! “Congratulations, you’ve reached the final boss level! You can spend your golden years plotting chaos, but first, don’t forget to collect your pension from the chaos fund!” It’s absurd—imagine a world where terrorists consider their career progressions like it’s some corporate ladder. “Well, I was an associate muffin-top and now I’m a senior middle-management terror! What’s next, the executive suite in the chaos department?”",
+    "**Lewis Black:** So Iran just launched ballistic missiles at Cyprus because they’re upset about some American-Israeli strikes—this is how we handle disagreements now? “You don’t like my foreign policy? Well, I’m gonna send you a missile as a ‘thank you’ for your support!” Meanwhile, the only thing slowing down the ambulances in Beirut is a traffic jam! Can you imagine launch codes being held up by a ‘Road Work Ahead’ sign? “Sorry, Mr. Ayatollah! We would’ve bombed them yesterday, but we had to wait for the right-of-way!” It’s like playing chess with someone who’s got a rocket launcher while I’m stuck on the highway eating a cold falafel, thinking, \"Maybe today’s just not my day!\"",
+    "Chris Rock: You know the world is crazy when the U.S. Navy in Bahrain is dodging Iranian missiles like it's the hottest game of dodgeball you've ever seen! It's like, \"Oh, we're not here to play! We're just babysitting these missiles while the British Air Force is giving 'em the interception equivalent of a red card!\" I mean, at this point, can someone just tell these countries that instead of throwing missiles, they should throw a block party? It's all fun and games until you realize the only thing getting blown off is the neighborhood BBQ!",
+    "**Chris Rock:** Man, you hear about that missile launch from southern Lebanon? The Prime Minister is out here calling it \"irresponsible and suspicious,\" like it's a kid throwing rocks in the schoolyard! Listen, if you’re worried about someone giving Israel excuses to keep attacking, how about not giving people a reason to pull the trigger in the first place? You know what’s really irresponsible? Launching missiles while trying to keep up with the latest TikTok dance! I mean, come on, if you’re gonna play with fire, at least make sure it’s not just a bunch of dudes trying to get their 15 minutes of fame! You can’t save a country from “new adventures” when all they can think about is how to make a big boom!",
+    "Sarah Silverman: You know, they say Hezbollah opened a campaign against Israel and that there's fire in Lebanon—so apparently, it’s not just the weather getting hotter! I can't keep track of all these international conflicts; it's like watching a really poorly planned episode of \"Survivor.\" At this rate, the only place that’s not exploding is my Instagram feed... because even the influencers know when to stay away from the heat!",
+    "**Chris Rock:** Man, you know it’s getting wild when the headlines in Lebanon read like a disaster movie script! I mean, we got Hezbollah doing suicide missions like they’re auditioning for the next big action flick—where’s the casting call, man? And vehicle attacks in southern Lebanon? What’s next, a drive-thru either side of the border? Just pull up, place your order, and boom—conflict served with a side of chaos! And fire belts in Beirut? What’s that, a new fashion trend? “Hey, do you come with crisis or just the flaming belt?” At this point, the world’s just one bad screenplay away from a reality show, calling it “Survivor: Lebanon Edition”!",
+    "Lewis Black: You know, Hezbollah just announced it's joining the war. Joining the war! Like it’s some kind of group project in school where you show up on the last day, hand in your paper, and expect to get an A for effort! Meanwhile, the IDF is out there like a kid with a rock, launching attacks everywhere in Lebanon, as if that’s going to solve anything. This is what happens when you let bureaucratic chaos run the show—everyone’s just throwing punches with zero clue about what’s really going on! We’ve got nations acting like they’re in a bad action movie, but the problem is nobody can find the script!",
+    "Mitch Hedberg: I heard there were explosions in Iraq, which is strange because my favorite kind of explosion is the one that happens when you shake up a soda can—now that's a party balloon for the soul. Meanwhile, they're launching missiles from the north of Lebanon, and I can't help but think, do these guys not realize the best party favors come in pinata form? And in Gaza, they're firing illumination shells—who needs fireworks on the 4th of July when you've got artillery to light up the night? It’s like a neighborhood block party, but the invitation got lost in translation and turned into a warning shot.",
+    "Eddie Izzard: Imagine, if you will, the Iranian parliament building – a venerable institution steeped in centuries of political drama, now playing host to what must be the world's least festive fire drill. I mean, loud explosions in Tehran sound less like a governmental debate and more like the world's most awkward wedding reception—“Excuse me, who invited the army?” Meanwhile, in Kuwait, the only thing to rival the sound of explosions might be a group of historians arguing over the correct way to serve hummus. “Is it served with explosions, or do we wait until after the diplomacy?” And Damascus is just sitting there, twiddling its thumbs, like an old gentleman at a bizarre tea party where someone keeps letting off fireworks in the corner and everyone pretends it’s totally normal. Ah, world news – making sanity feel like a relic from the past, like rotary phones or that time you thought a street mime could actually get you to take him seriously.",
+    "**Eddie Izzard:** So, we’ve got fighter jets zigzagging over Damascus like they're trying to impress a drone camera, right? Meanwhile, it seems the Shiites in Kashmir are mourning Ali Khamenei while calling for revenge against the US, as if they're plotting a global game of \"Whack-a-Mole\" but with diplomatic relations. \"Oh, look, there's Tehran! Nope, now it's Damascus! Wait, is it our turn to be angry with the US, or were we just angry last Tuesday?\" It’s almost like an international game of musical chairs—but instead of chairs, you've got nations and instead of music, it's a chaotic symphony of airstrikes and wailing mourners. Who knew the after-party for democracy was such a violent rager?",
+    "**Eddie Izzard**: So, we’ve got ballistic missiles flying from Lebanon, intercepted by something straight out of a sci-fi film called the Or Eitan laser system, which sounds suspiciously like a trendy new yoga class where you stretch and reflect while dodging projectiles from a Shiite militia. And meanwhile, the Lebanese army is gearing up to make an announcement about as impactful as a paper airplane in a windstorm, while Kuwait is having explosions with more frequency than my toaster. At this rate, someone should just check if Kuwait has a new tech startup specializing in self-destructing buildings or if they’re just being really ambitious with the local fireworks display! Imagine if history had been narrated by an overenthusiastic DJ: “And to the left, we’ve got missile launches, to the right, explosions set to the beat of chaos. Everybody dance!” ",
+    "Chris Rock: So, let me get this straight: the IDF's got people arrested in the West Bank, and they're attacking southern Lebanon, all while I can’t even get a parking spot at the grocery store! You ever notice that? Meanwhile, Israel's making history in five different places at once like they're auditioning for the Olympics of chaos! It’s like, “Hey, might as well deliver pizzas while we’re at it!” History’s being written, and I can’t even find a deli open past 8 PM!",
+    "Chris Rock: You know, the Israeli Air Force is out here attacking missile silos in Ahvaz while I’m just trying to figure out how to attack my grocery bill! I mean, we got countries launching airstrikes and I can't even launch my lunch without a coupon! It’s wild out there! Rockets in the sky, and I’m just over here dodging the prices in the supermarket. We’re all living in this crazy world where the biggest explosion I face is when I open my credit card bill! They got missiles flying around, and I’m just praying my bank account doesn’t go nuclear!",
+    "Lewis Black: So we’ve got hostile aircraft popping up like they’re on some sort of geopolitical game show—“Who Wants to be a Target?” Meanwhile, oil prices just jumped higher than my blood pressure at a town hall meeting! And let's not forget about the UAVs infiltrating the north—great, just what we needed! It’s like we’re all living in a twisted reality show. “The Real World: Chaos Edition!” When did “alert” become a trending app? You’d think somebody would send a memo saying, “Hey folks, let’s not play hide and seek with drones! How about we just invest in a giant ‘Not Today’ sign?” But no, we’re just here, a bunch of spectators watching the world go to hell while oil prices do the cha-cha!"
+  ],
+  "stocks": [
+    {
+      "ticker": "Lockheed Martin Corporation",
+      "price_info": "LMT: $658.08 (+2.56%)",
+      "timestamp": "2026-03-02T02:55:09.867297",
+      "metadata": {
+        "company_name": "Lockheed Martin Corporation",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 658.08,
+        "change_percent": 2.5637828655144004,
+        "previous_close": 641.63
+      }
+    },
+    {
+      "ticker": "RTX Corporation",
+      "price_info": "RTX: $202.62 (+2.52%)",
+      "timestamp": "2026-03-02T02:55:09.847704",
+      "metadata": {
+        "company_name": "RTX Corporation",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 202.62,
+        "change_percent": 2.5249203056216207,
+        "previous_close": 197.63
+      }
+    },
+    {
+      "ticker": "Northrop Grumman Corporation",
+      "price_info": "NOC: $724.38 (+1.90%)",
+      "timestamp": "2026-03-02T02:55:09.719783",
+      "metadata": {
+        "company_name": "Northrop Grumman Corporation",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 724.38,
+        "change_percent": 1.8961879307919567,
+        "previous_close": 710.9
+      }
+    },
+    {
+      "ticker": "General Dynamics Corporation",
+      "price_info": "GD: $357.05 (+1.80%)",
+      "timestamp": "2026-03-02T02:55:09.818974",
+      "metadata": {
+        "company_name": "General Dynamics Corporation",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 357.05,
+        "change_percent": 1.8048585766423308,
+        "previous_close": 350.72
+      }
+    },
+    {
+      "ticker": "The Boeing Company",
+      "price_info": "BA: $227.53 (-0.82%)",
+      "timestamp": "2026-03-02T02:55:09.831957",
+      "metadata": {
+        "company_name": "The Boeing Company",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 227.53,
+        "change_percent": -0.8194934832832028,
+        "previous_close": 229.41
+      }
+    },
+    {
+      "ticker": "Huntington Ingalls Industries, Inc.",
+      "price_info": "HII: $444.52 (+0.66%)",
+      "timestamp": "2026-03-02T02:55:09.886964",
+      "metadata": {
+        "company_name": "Huntington Ingalls Industries, Inc.",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 444.52,
+        "change_percent": 0.6566731579185674,
+        "previous_close": 441.62
+      }
+    },
+    {
+      "ticker": "Exxon Mobil Corporation",
+      "price_info": "XOM: $152.50 (+2.67%)",
+      "timestamp": "2026-03-02T02:55:09.912892",
+      "metadata": {
+        "company_name": "Exxon Mobil Corporation",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 152.5,
+        "change_percent": 2.665948566042822,
+        "previous_close": 148.54
+      }
+    },
+    {
+      "ticker": "Chevron Corporation",
+      "price_info": "CVX: $186.76 (+1.41%)",
+      "timestamp": "2026-03-02T02:55:10.128733",
+      "metadata": {
+        "company_name": "Chevron Corporation",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 186.76,
+        "change_percent": 1.4118158123370952,
+        "previous_close": 184.16
+      }
+    },
+    {
+      "ticker": "SLB N.V.",
+      "price_info": "SLB: $51.34 (-0.29%)",
+      "timestamp": "2026-03-02T02:55:10.158228",
+      "metadata": {
+        "company_name": "SLB N.V.",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 51.34,
+        "change_percent": -0.29131870266070803,
+        "previous_close": 51.49
+      }
+    },
+    {
+      "ticker": "Halliburton Company",
+      "price_info": "HAL: $36.00 (+0.81%)",
+      "timestamp": "2026-03-02T02:55:10.146209",
+      "metadata": {
+        "company_name": "Halliburton Company",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 36.0,
+        "change_percent": 0.812097451694201,
+        "previous_close": 35.71
+      }
+    },
+    {
+      "ticker": "SPDR Gold Shares",
+      "price_info": "GLD: $483.75 (+1.31%)",
+      "timestamp": "2026-03-02T02:55:10.189910",
+      "metadata": {
+        "company_name": "SPDR Gold Shares",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 483.75,
+        "change_percent": 1.3131440060316624,
+        "previous_close": 477.48
+      }
+    },
+    {
+      "ticker": "Newmont Corporation",
+      "price_info": "NEM: $130.00 (+1.98%)",
+      "timestamp": "2026-03-02T02:55:10.231928",
+      "metadata": {
+        "company_name": "Newmont Corporation",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 130.0,
+        "change_percent": 1.9847807327214255,
+        "previous_close": 127.47
+      }
+    },
+    {
+      "ticker": "Freeport-McMoRan Inc.",
+      "price_info": "FCX: $68.08 (-0.44%)",
+      "timestamp": "2026-03-02T02:55:10.218536",
+      "metadata": {
+        "company_name": "Freeport-McMoRan Inc.",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 68.08,
+        "change_percent": -0.4387247733255296,
+        "previous_close": 68.38
+      }
+    },
+    {
+      "ticker": "Alcoa Corporation",
+      "price_info": "AA: $62.08 (-2.19%)",
+      "timestamp": "2026-03-02T02:55:10.372630",
+      "metadata": {
+        "company_name": "Alcoa Corporation",
+        "market_state": "CLOSED",
+        "expected_trend": "UP",
+        "price": 62.08,
+        "change_percent": -2.19001102883252,
+        "previous_close": 63.47
+      }
+    }
+  ],
+  "xkcd_comic_base64": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAyNCIgaGVpZ2h0PSIxMDI0IiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICAgICAgICA8ZGVmcz4KICAgICAgICAgICAgICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ3JhZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgICAgICAgICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzFlMjkzYjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgICAgICAgICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMwZjE3MmE7c3RvcC1vcGFjaXR5OjEiIC8+CiAgICAgICAgICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICAgICAgICA8L2RlZnM+CiAgICAgICAgICAgIDxyZWN0IHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjEwMjQiIGZpbGw9InVybCgjZ3JhZCkiIC8+CiAgICAgICAgICAgIDxyZWN0IHg9IjQwIiB5PSI0MCIgd2lkdGg9Ijk0NCIgaGVpZ2h0PSI5NDQiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iOCIgcng9IjIwIiAvPgogICAgICAgICAgICA8cmVjdCB4PSI2MCIgeT0iNjAiIHdpZHRoPSI5MDQiIGhlaWdodD0iOTA0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzOGJkZjgiIHN0cm9rZS13aWR0aD0iNCIgcng9IjE1IiBvcGFjaXR5PSIwLjUiIC8+CiAgICAgICAgICAgIDxyZWN0IHg9IjM2MiIgeT0iMjAiIHdpZHRoPSIzMDAiIGhlaWdodD0iODAiIGZpbGw9IiMzOGJkZjgiIHJ4PSIxMCIgLz4KICAgICAgICAgICAgPHRleHQgeD0iNTEyIiB5PSI3MiIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXdlaWdodD0iOTAwIiBmb250LXNpemU9IjMyIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgc3R5bGU9ImxldHRlci1zcGFjaW5nOiAycHg7Ij4KICAgICAgICAgICAgICAgIElOVEVMCiAgICAgICAgICAgIDwvdGV4dD4KICAgICAgICAgICAgPHRleHQgeT0iMTgyLjAiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9IjgwMCIgZm9udC1zaXplPSI1NCIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPgogICAgICAgICAgICAgICAgPHRzcGFuIHg9IjUxMiIgZHk9IjEuMmVtIj5Ib3N0aWxlIGFpcmNyYWZ0PC90c3Bhbj48dHNwYW4geD0iNTEyIiBkeT0iMS4yZW0iPmluZmlsdHJhdGlvbiAtIHRoZSBldmVudDwvdHNwYW4+PHRzcGFuIHg9IjUxMiIgZHk9IjEuMmVtIj5oYXMgZW5kZWQgX18wMi8wMy8yMDI2IC08L3RzcGFuPjx0c3BhbiB4PSI1MTIiIGR5PSIxLjJlbSI+MDQ6NDY6X18gRm9sbG93aW5nIGFuPC90c3Bhbj48dHNwYW4geD0iNTEyIiBkeT0iMS4yZW0iPmFsZXJ0IGFib3V0IGhvc3RpbGU8L3RzcGFuPjx0c3BhbiB4PSI1MTIiIGR5PSIxLjJlbSI+YWlyY3JhZnQgaW5maWx0cmF0aW9uLDwvdHNwYW4+PHRzcGFuIHg9IjUxMiIgZHk9IjEuMmVtIj50aGUgZXZlbnQgZW5kZWQgaW4gdGhlPC90c3Bhbj48dHNwYW4geD0iNTEyIiBkeT0iMS4yZW0iPmZvbGxvd2luZyBzZXR0bGVtZW50czo8L3RzcGFuPjx0c3BhbiB4PSI1MTIiIGR5PSIxLjJlbSI+T2RlbSwgRWwgUm9tLCBCdXEnYXRhLDwvdHNwYW4+PHRzcGFuIHg9IjUxMiIgZHk9IjEuMmVtIj5NYWpkYWwgU2hhbXMsIE1hcydhZGU8L3RzcGFuPjx0c3BhbiB4PSI1MTIiIGR5PSIxLjJlbSI+W1JhZGFyIC0gQ29sb3IgUmVkXTwvdHNwYW4+CiAgICAgICAgICAgIDwvdGV4dD4KICAgICAgICAgICAgPGxpbmUgeDE9IjMwMCIgeTE9IjkwMCIgeDI9IjcyNCIgeTI9IjkwMCIgc3Ryb2tlPSIjMzhiZGY4IiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1kYXNoYXJyYXk9IjIwLDEwIiAvPgogICAgICAgICAgICA8dGV4dCB4PSI1MTIiIHk9Ijk0MCIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIyMCIgZmlsbD0iIzM4YmRmOCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgb3BhY2l0eT0iMC43Ij4KICAgICAgICAgICAgICAgIElOVEVMTElHRU5DRSBSRVBPUlQgLy8gREFUQSBBTkFMWVRJQ1MKICAgICAgICAgICAgPC90ZXh0PgogICAgICAgIDwvc3ZnPg==",
+  "last_updated": "2026-03-02T02:55:24.340465"
+}
